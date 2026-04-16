@@ -1,0 +1,746 @@
+{
+  "id": "luyen-tap-chinh-ta",
+  "title": "Luyện Tập Chính Tả",
+  "description": "Bài luyện thi đánh giá năng lực – Empire Team: chính tả, dùng từ và tác dụng của từ ngữ tiếng Việt",
+  "icon": "📝",
+  "color": "#2563eb",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Dè xẻn, rẻ rúng, sáp nhập.", "isCorrect": false },
+        { "text": "Dè sẻn, rẻ rúng, sáp nhập.", "isCorrect": true },
+        { "text": "Dè sẻn, rẽ rúng, sát nhập.", "isCorrect": false },
+        { "text": "Dè xẻn, rẽ rúng, sát nhập.", "isCorrect": false }
+      ],
+      "explanation": "Viết đúng: 'dè sẻn' (tiết kiệm), 'rẻ rúng' (khinh thường), 'sáp nhập' (hợp lại)."
+    },
+    {
+      "id": 2,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Nghỉ ngơi, ngẫm nghĩ, suy nghĩ.", "isCorrect": true },
+        { "text": "Nghĩ ngơi, ngẫm nghỉ, suy nghĩ.", "isCorrect": false },
+        { "text": "Nghỉ ngơi, ngẫm nghỉ, suy nghỉ.", "isCorrect": false },
+        { "text": "Nghĩ ngơi, ngẫm nghĩ, suy nghỉ.", "isCorrect": false }
+      ],
+      "explanation": "'Nghỉ ngơi' (thư giãn), 'ngẫm nghĩ' (suy tư), 'suy nghĩ' (động não) đều viết đúng chính tả."
+    },
+    {
+      "id": 3,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Quẫn bách, khốn quẫn, túng quẫn.", "isCorrect": true },
+        { "text": "Quẩn bách, khốn quẫn, túng quẫn.", "isCorrect": false },
+        { "text": "Quẫn bách, khốn quẩn, túng quẫn.", "isCorrect": false },
+        { "text": "Quẫn bách, khốn quẫn, túng quẩn.", "isCorrect": false }
+      ],
+      "explanation": "Đều dùng 'quẫn' (dấu ngã): 'quẫn bách', 'khốn quẫn', 'túng quẫn' – chỉ tình trạng bế tắc, cùng đường."
+    },
+    {
+      "id": 4,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Sơ suất, sai sót, suất sắc.", "isCorrect": false },
+        { "text": "Sơ suất, xuất sắc, sai sót.", "isCorrect": true },
+        { "text": "Sơ suất, suất sắc, sai xót.", "isCorrect": false },
+        { "text": "Sơ suất, suất sắc, sai sót.", "isCorrect": false }
+      ],
+      "explanation": "'Xuất sắc' (không phải 'suất sắc'), 'sai sót' (không phải 'sai xót'), 'sơ suất' là đúng."
+    },
+    {
+      "id": 5,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Lẽ phải, lẻ loi, lẻ tẻ.", "isCorrect": true },
+        { "text": "Lẽ phải, lẽ loi, lẻ tẻ.", "isCorrect": false },
+        { "text": "Lẻ phải, lẻ loi, lẻ tẻ.", "isCorrect": false },
+        { "text": "Lẽ phải, lẽ loi, lẽ tẻ.", "isCorrect": false }
+      ],
+      "explanation": "'Lẽ phải' (đạo lý, dấu ngã), 'lẻ loi' (cô đơn, dấu hỏi), 'lẻ tẻ' (rải rác, dấu hỏi)."
+    },
+    {
+      "id": 6,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Sửa chữa, sữa bò, chửa đẻ.", "isCorrect": false },
+        { "text": "Sửa chữa, sữa bò, chữa đẻ.", "isCorrect": true },
+        { "text": "Sửa chửa, sữa bò, chửa đẻ.", "isCorrect": false },
+        { "text": "Sửa chửa, sữa bò, chữa đẻ.", "isCorrect": false }
+      ],
+      "explanation": "'Sửa chữa' (dấu hỏi), 'sữa bò' (dấu ngã), 'chữa đẻ' (dấu ngã – điều trị). 'Chửa' là mang thai, không phải chữa bệnh."
+    },
+    {
+      "id": 7,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Hủ tiếu, hủ bại, hủ tục.", "isCorrect": true },
+        { "text": "Hũ tiếu, hũ bại, hũ tục.", "isCorrect": false },
+        { "text": "Hủ tiếu, hũ bại, hủ tục.", "isCorrect": false },
+        { "text": "Hũ tiếu, hủ bại, hũ tục.", "isCorrect": false }
+      ],
+      "explanation": "'Hủ tiếu', 'hủ bại', 'hủ tục' đều dùng 'hủ' (dấu hỏi – lỗi thời, hư nát). 'Hũ' là cái hũ đựng đồ."
+    },
+    {
+      "id": 8,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Đỗ xe, thi đỗ, đổ rác.", "isCorrect": true },
+        { "text": "Đổ xe, thi đỗ, đổ rác.", "isCorrect": false },
+        { "text": "Đỗ xe, thi đổ, đổ rác.", "isCorrect": false },
+        { "text": "Đổ xe, thi đổ, đỗ rác.", "isCorrect": false }
+      ],
+      "explanation": "'Đỗ xe' (dừng lại, dấu ngã), 'thi đỗ' (đậu, dấu ngã), 'đổ rác' (vứt, dấu hỏi)."
+    },
+    {
+      "id": 9,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Vững chãi, vũng lầy, vùng vằng.", "isCorrect": true },
+        { "text": "Vững chải, vũng lầy, vùn vằn.", "isCorrect": false },
+        { "text": "Vững chãi, vủng lầy, vùng vằn.", "isCorrect": false },
+        { "text": "Vững chải, vủng lầy, vùn vằng.", "isCorrect": false }
+      ],
+      "explanation": "'Vững chãi' (chắc chắn), 'vũng lầy' (chỗ đọng nước), 'vùng vằng' (hành động bực bội) – đều viết đúng."
+    },
+    {
+      "id": 10,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Con đường mòn rẽ lối vào rẫy cà phê xanh mướt.", "isCorrect": false },
+        { "text": "Hắn ta là kẻ chuyên rẻ rúng công lao của người khác.", "isCorrect": false },
+        { "text": "Cô ấy rẽ trái ở ngã tư để về nhà.", "isCorrect": false },
+        { "text": "Giá cả mặt hàng này hiện nay rất rẽ.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'rẻ' (dấu hỏi – giá thấp), không phải 'rẽ' (dấu ngã – rẽ đường)."
+    },
+    {
+      "id": 11,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Căn phòng được trang trí rất bóng bẩy.", "isCorrect": false },
+        { "text": "Đừng bao giờ để lòng tự trọng bị rẻ rúng.", "isCorrect": false },
+        { "text": "Anh ấy là một kỹ sư rất giỏi giang.", "isCorrect": false },
+        { "text": "Kết quả bài thi của em thật mỉ mản.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'mĩ mãn' (dấu ngã – tốt đẹp trọn vẹn), không phải 'mỉ mản'."
+    },
+    {
+      "id": 12,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Những kỉ niệm tuổi thơ luôn đẹp đẽ.", "isCorrect": false },
+        { "text": "Hãy giữ gìn vệ sinh nơi công cộng.", "isCorrect": false },
+        { "text": "Mọi chuyện rồi cũng sẽ ngã ngủ sớm thôi.", "isCorrect": true },
+        { "text": "Anh ta có vẻ rất hối hả khi nhận ra lỗi lầm.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'ngã ngũ' (rõ ràng, kết thúc), không phải 'ngã ngủ'."
+    },
+    {
+      "id": 13,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Bức tranh vẽ cảnh làng quê thật thanh bình.", "isCorrect": false },
+        { "text": "Tình cảm gia đình luôn đầm ấm, hạnh phúc.", "isCorrect": false },
+        { "text": "Những mãnh vườn xanh mướt trải dài dọc bờ sông.", "isCorrect": true },
+        { "text": "Hãy suy nghĩ thật kỹ trước khi quyết định.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'mảnh vườn' (dấu hỏi – mảnh đất), không phải 'mãnh vườn'."
+    },
+    {
+      "id": 14,
+      "question": "Câu nào sau đây có từ dùng sai?",
+      "options": [
+        { "text": "Việc sáp nhập hai doanh nghiệp đã hoàn tất.", "isCorrect": false },
+        { "text": "Hãy căn vặn con cái thật kĩ trước khi cho đi chơi xa.", "isCorrect": true },
+        { "text": "Những lời căn dặn của cha luôn in sâu trong lòng.", "isCorrect": false },
+        { "text": "Anh ấy luôn băn khoăn về quyết định của mình.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: 'căn vặn' là tra hỏi, vặn hỏi kỹ – không dùng với nghĩa dặn dò con cái. Nên dùng 'căn dặn' hoặc 'dặn dò'."
+    },
+    {
+      "id": 15,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Đừng quá lo lắng về những chuyện đã qua.", "isCorrect": false },
+        { "text": "Cô ấy có vẻ mặt ảo nảo và buồn bã.", "isCorrect": true },
+        { "text": "Lòng kiên trì luôn dẫn lối tới thành công.", "isCorrect": false },
+        { "text": "Hãy bảo vệ tài sản công cộng chu đáo.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'ảo não' (u sầu, buồn bã), không phải 'ảo nảo'."
+    },
+    {
+      "id": 16,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Đội ngũ cán bộ trẻ luôn năng động, sáng tạo.", "isCorrect": false },
+        { "text": "Ngôn ngữ là phương tiện giao tiếp quan trọng.", "isCorrect": false },
+        { "text": "Sự hy sinh của các anh hùng liệt sĩ thật cao cả.", "isCorrect": false },
+        { "text": "Những hũ tục lạc hậu cần được bãi bỏ.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'hủ tục' (dấu hỏi – phong tục lỗi thời), không phải 'hũ tục'."
+    },
+    {
+      "id": 17,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Cảnh tượng rực rỡ của lễ hội làm say đắm lòng người.", "isCorrect": false },
+        { "text": "Hãy dọn dẹp nhà cửa thật sạch sẽ và ngăn nắp.", "isCorrect": false },
+        { "text": "Sự giúp đỡ của bạn thật là đáng quý.", "isCorrect": false },
+        { "text": "Đừng để mình rơi vào tình cảnh túng quẩn.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'túng quẫn' (dấu ngã – nghèo túng bế tắc), không phải 'túng quẩn'."
+    },
+    {
+      "id": 18,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Anh ấy có vẻ rất tự tin khi đứng trước đám đông.", "isCorrect": false },
+        { "text": "Mọi nỗ lực đều sẽ được đền đáp xứng đáng.", "isCorrect": false },
+        { "text": "Gió thổi nhè nhẹ làm lòng người thảnh thơi.", "isCorrect": false },
+        { "text": "Những nổ lực của tập thể cuối cùng đã mang lại kết quả.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'nỗ lực' (dấu ngã), không phải 'nổ lực'."
+    },
+    {
+      "id": 19,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Chẳng lẻ anh ta lại từ chối lời đề nghị tốt như vậy?", "isCorrect": true },
+        { "text": "Những số chẵn, số lẻ đã được học từ tiểu học.", "isCorrect": false },
+        { "text": "Sự kiện này mang tính chất ngẫu nhiên.", "isCorrect": false },
+        { "text": "Vạn vật luôn biến đổi không ngừng.", "isCorrect": false }
+      ],
+      "explanation": "Câu A sai: phải là 'chẳng lẽ' (dấu ngã – thể hiện sự ngạc nhiên), không phải 'chẳng lẻ'."
+    },
+    {
+      "id": 20,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Thủy triều lên xuống theo chu kỳ nhất định.", "isCorrect": false },
+        { "text": "Khả năng giải quyết vấn đề của anh ấy rất tốt.", "isCorrect": false },
+        { "text": "Việc bãi miễn đại biểu diễn ra theo đúng quy trình.", "isCorrect": false },
+        { "text": "Những ý nghĩ quanh quẫn trong đầu làm tôi khó ngủ.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'quanh quẩn' (dấu hỏi – loanh quanh, không thoát ra được), không phải 'quanh quẫn'."
+    },
+    {
+      "id": 21,
+      "question": "Thay vì dùng từ \"feedback\", một giáo viên yêu cầu học sinh gửi \"phản hồi\" sau tiết học. Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Thuật ngữ tiếng Việt tạo cảm giác trang trọng, phù hợp với môi trường giáo dục.", "isCorrect": false },
+        { "text": "Thuật ngữ tiếng Việt tạo cảm giác gần gũi, dễ hiểu cho các đối tượng học sinh.", "isCorrect": true },
+        { "text": "Thuật ngữ tiếng Việt làm nổi bật tính chuyên nghiệp trong tương tác giữa thầy trò.", "isCorrect": false },
+        { "text": "Thuật ngữ tiếng Việt phản ánh đầy đủ quy trình kiểm tra đánh giá trong đào tạo.", "isCorrect": false }
+      ],
+      "explanation": "Dùng 'phản hồi' thay vì 'feedback' giúp học sinh ở mọi trình độ dễ hiểu hơn, tạo sự gần gũi và thân thuộc trong môi trường học tập."
+    },
+    {
+      "id": 22,
+      "question": "Một thương hiệu thời trang nội địa sử dụng slogan \"Tự hào bản sắc\" thay vì \"Proud of Identity\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Khẳng định giá trị văn hóa và tạo sự đồng cảm với khách hàng trong nước.", "isCorrect": true },
+        { "text": "Khẳng định tính hiện đại và tạo sự khác biệt với các thương hiệu quốc tế.", "isCorrect": false },
+        { "text": "Khẳng định tư duy sáng tạo và tạo sự đột phá trong chiến lược kinh doanh.", "isCorrect": false },
+        { "text": "Khẳng định uy tín lâu đời và tạo sự tin tưởng tuyệt đối từ phía người dùng.", "isCorrect": false }
+      ],
+      "explanation": "Slogan tiếng Việt 'Tự hào bản sắc' chạm đến giá trị văn hóa dân tộc, tạo sự đồng cảm và gắn kết với khách hàng trong nước."
+    },
+    {
+      "id": 23,
+      "question": "Trong bài báo khoa học, tác giả dùng cụm từ \"hệ sinh thái khởi nghiệp\" thay cho \"startup ecosystem\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Sử dụng thuật ngữ tiếng Việt giúp chuẩn hóa các khái niệm mới của toàn cầu.", "isCorrect": false },
+        { "text": "Sử dụng thuật ngữ tiếng Việt giúp phổ cập kiến thức đến nhiều tầng lớp độc giả.", "isCorrect": true },
+        { "text": "Sử dụng thuật ngữ tiếng Việt giúp nâng cao giá trị học thuật cho bài báo khoa học.", "isCorrect": false },
+        { "text": "Sử dụng thuật ngữ tiếng Việt giúp khẳng định bản quyền trí tuệ của tác giả viết.", "isCorrect": false }
+      ],
+      "explanation": "Dùng 'hệ sinh thái khởi nghiệp' giúp độc giả không chuyên về tiếng Anh cũng hiểu được, phổ cập kiến thức rộng rãi hơn."
+    },
+    {
+      "id": 24,
+      "question": "Việc sử dụng từ \"vùng xanh\" trong đại dịch Covid-19 thay vì các cụm từ chuyên môn y khoa có tác dụng gì?",
+      "options": [
+        { "text": "Giúp truyền tải thông tin an toàn một cách trực quan, dễ nhớ cho cộng đồng.", "isCorrect": true },
+        { "text": "Giúp truyền tải thông tin kỹ thuật một cách chính xác, tỉ mỉ cho ngành y tế.", "isCorrect": false },
+        { "text": "Giúp truyền tải thông tin dự báo một cách nhanh chóng, kịp thời cho chính quyền.", "isCorrect": false },
+        { "text": "Giúp truyền tải thông tin cảnh báo một cách nghiêm trọng, khẩn thiết cho xã hội.", "isCorrect": false }
+      ],
+      "explanation": "'Vùng xanh' là hình ảnh trực quan, dễ nhớ, giúp toàn bộ cộng đồng – kể cả người không có chuyên môn y tế – dễ dàng nhận biết khu vực an toàn."
+    },
+    {
+      "id": 25,
+      "question": "Một ứng dụng đặt xe dùng từ \"Tài xế\" thay vì \"Driver\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Tạo cảm giác chuyên nghiệp, nâng tầm vị thế cho đội ngũ nhân viên phục vụ.", "isCorrect": false },
+        { "text": "Tạo cảm giác thân thuộc, phù hợp với thói quen ngôn ngữ của người bản địa.", "isCorrect": true },
+        { "text": "Tạo cảm giác mới mẻ, thu hút sự chú ý của khách hàng lần đầu sử dụng xe.", "isCorrect": false },
+        { "text": "Tạo cảm giác tin cậy, khẳng định chất lượng dịch vụ đạt tiêu chuẩn quốc tế.", "isCorrect": false }
+      ],
+      "explanation": "'Tài xế' là từ quen thuộc trong đời sống người Việt, tạo cảm giác gần gũi và phù hợp với thói quen ngôn ngữ bản địa hơn 'Driver'."
+    },
+    {
+      "id": 26,
+      "question": "Một nhãn hàng sữa dùng từ \"Sữa tươi sạch\" thay vì \"Clean fresh milk\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Nhấn mạnh vào yếu tố công nghệ hiện đại trong quy trình sản xuất hàng hóa.", "isCorrect": false },
+        { "text": "Nhấn mạnh vào yếu tố an toàn thực phẩm một cách trực diện và thuần túy.", "isCorrect": true },
+        { "text": "Nhấn mạnh vào yếu tố nguồn gốc tự nhiên phù hợp với xu hướng tiêu dùng.", "isCorrect": false },
+        { "text": "Nhấn mạnh vào yếu tố giá cả cạnh tranh so với các sản phẩm nhập khẩu khác.", "isCorrect": false }
+      ],
+      "explanation": "'Sữa tươi sạch' nhấn mạnh trực tiếp vào tiêu chí an toàn thực phẩm – điều người tiêu dùng Việt quan tâm hàng đầu."
+    },
+    {
+      "id": 27,
+      "question": "Từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Giành giật.", "isCorrect": true },
+        { "text": "Dành giật.", "isCorrect": false },
+        { "text": "Giành dật.", "isCorrect": false },
+        { "text": "Dành dật.", "isCorrect": false }
+      ],
+      "explanation": "'Giành giật' (tranh đoạt, cướp lấy) viết đúng chính tả với cả hai từ đều dùng 'gi-'."
+    },
+    {
+      "id": 28,
+      "question": "Việc dùng từ \"Đường dây nóng\" thay vì \"Hotline\" trên các phương tiện truyền thông có tác dụng gì?",
+      "options": [
+        { "text": "Giúp người dân nhận diện kênh hỗ trợ khẩn cấp một cách nhanh chóng nhất.", "isCorrect": true },
+        { "text": "Giúp người dân hiểu rõ quy trình làm việc kỹ thuật của cơ quan chức năng.", "isCorrect": false },
+        { "text": "Giúp người dân thấy được sự hiện đại của hệ thống viễn thông quốc gia.", "isCorrect": false },
+        { "text": "Giúp người dân tiết kiệm chi phí khi thực hiện các cuộc gọi báo tin nhắn.", "isCorrect": false }
+      ],
+      "explanation": "'Đường dây nóng' diễn đạt bằng tiếng Việt rõ ràng, giúp mọi tầng lớp người dân nhận biết ngay đây là kênh liên hệ khẩn cấp."
+    },
+    {
+      "id": 29,
+      "question": "Một báo cáo dùng từ \"Giải ngân\" thay vì \"Disbursement\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Tạo sự chuyên nghiệp và thống nhất trong thuật ngữ tài chính nội địa.", "isCorrect": true },
+        { "text": "Tạo sự đơn giản và giúp người lao động bình thường dễ dàng hiểu được.", "isCorrect": false },
+        { "text": "Tạo sự khác biệt và giúp các doanh nghiệp dễ dàng lách luật đầu tư.", "isCorrect": false },
+        { "text": "Tạo sự uy tín và giúp thu hút các nguồn vốn từ nước ngoài đổ vào.", "isCorrect": false }
+      ],
+      "explanation": "'Giải ngân' là thuật ngữ tài chính tiếng Việt đã được chuẩn hóa, giúp báo cáo mang tính chuyên nghiệp và nhất quán trong hệ thống tài chính nội địa."
+    },
+    {
+      "id": 30,
+      "question": "Trong câu \"Mưa dầm dề suốt cả ngày\", từ \"dầm dề\" có tác dụng gì?",
+      "options": [
+        { "text": "Tả độ mạnh và sức công phá lớn của những trận mưa rào mùa hạ.", "isCorrect": false },
+        { "text": "Tả sự kéo dài và gây cảm giác khó chịu, ẩm ướt của trận mưa lâu.", "isCorrect": true },
+        { "text": "Tả âm thanh vang dội và sự dữ dội của thời tiết khi có giông bão.", "isCorrect": false },
+        { "text": "Tả màu sắc u ám và không gian tĩnh mịch khi bầu trời đổ cơn mưa.", "isCorrect": false }
+      ],
+      "explanation": "'Dầm dề' là từ láy diễn tả mưa rơi liên tục, dai dẳng, gây cảm giác ẩm ướt và khó chịu kéo dài."
+    },
+    {
+      "id": 31,
+      "question": "Một nhãn hiệu dùng từ \"Thức uống\" thay vì \"Beverage\". Cách làm này có tác dụng gì?",
+      "options": [
+        { "text": "Giúp người tiêu dùng dễ dàng phân loại sản phẩm theo giá thành bán ra.", "isCorrect": false },
+        { "text": "Giúp người tiêu dùng dễ dàng nhận biết công dụng chính của sản phẩm.", "isCorrect": false },
+        { "text": "Giúp người tiêu dùng thấy gần gũi và dễ gọi tên trong đời sống hằng ngày.", "isCorrect": true },
+        { "text": "Giúp người tiêu dùng tin tưởng vào dây chuyền sản xuất khép kín hiện đại.", "isCorrect": false }
+      ],
+      "explanation": "'Thức uống' là từ tiếng Việt thân thuộc, giúp người tiêu dùng cảm thấy gần gũi và dễ sử dụng trong giao tiếp hàng ngày."
+    },
+    {
+      "id": 32,
+      "question": "\"Câu chuyện này rất kịch tính\". Từ \"kịch tính\" có tác dụng gì trong câu?",
+      "options": [
+        { "text": "Nhấn mạnh sự dài dòng và phức tạp của các tình tiết được kể lại.", "isCorrect": false },
+        { "text": "Nhấn mạnh sự căng thẳng và sức hấp dẫn từ những xung đột bất ngờ.", "isCorrect": true },
+        { "text": "Nhấn mạnh sự hư cấu và thiếu thực tế của nội dung mà tác giả viết.", "isCorrect": false },
+        { "text": "Nhấn mạnh sự hài hước và vui vẻ của các nhân vật xuất hiện trong đó.", "isCorrect": false }
+      ],
+      "explanation": "'Kịch tính' diễn tả sự gay cấn, căng thẳng với những xung đột, tình tiết bất ngờ tạo sức hút cho câu chuyện."
+    },
+    {
+      "id": 33,
+      "question": "Tại sao văn bản pháp luật ưu tiên dùng \"Quyền và nghĩa vụ\" thay vì \"Rights and duties\"?",
+      "options": [
+        { "text": "Để đảm bảo tính nghiêm minh và phù hợp với hiến pháp Việt Nam.", "isCorrect": false },
+        { "text": "Để đảm bảo tính dễ hiểu cho mọi công dân ở mọi vùng miền đất nước.", "isCorrect": true },
+        { "text": "Để đảm bảo tính thẩm mỹ cho các văn bản hành chính được ban hành.", "isCorrect": false },
+        { "text": "Để đảm bảo tính bảo mật cho các thông tin nội bộ của cơ quan nhà nước.", "isCorrect": false }
+      ],
+      "explanation": "Văn bản pháp luật cần đến được mọi công dân, dùng tiếng Việt đảm bảo mọi người đều hiểu được quyền lợi và nghĩa vụ của mình."
+    },
+    {
+      "id": 34,
+      "question": "Một trang web của cơ quan nhà nước sử dụng cụm từ \"thư điện tử\" thay vì dùng từ \"email\" trong phần thông tin liên hệ. Việc sử dụng từ này có tác dụng chủ yếu nào?",
+      "options": [
+        { "text": "Đảm bảo tính chuẩn mực, trong sáng của tiếng Việt và dễ hiểu cho mọi đối tượng người dân.", "isCorrect": true },
+        { "text": "Thể hiện sự hội nhập công nghệ một cách sâu rộng của cơ quan quản lý.", "isCorrect": false },
+        { "text": "Làm cho giao diện trang web trở nên hiện đại, mang tính quốc tế hóa cao hơn.", "isCorrect": false },
+        { "text": "Phản ánh chính xác tuyệt đối cấu tạo kỹ thuật của hình thức giao tiếp trực tuyến này.", "isCorrect": false }
+      ],
+      "explanation": "Cơ quan nhà nước dùng 'thư điện tử' để giữ gìn sự trong sáng của tiếng Việt và đảm bảo mọi công dân, kể cả người lớn tuổi, đều hiểu được."
+    },
+    {
+      "id": 35,
+      "question": "Trong một bài báo chính thống, tác giả lựa chọn cụm từ \"người có sức ảnh hưởng\" thay vì dùng các từ viết tắt như \"KOL\" hay \"Influencer\". Tác dụng của cách diễn đạt này là gì?",
+      "options": [
+        { "text": "Làm cho câu văn trở nên súc tích, ngắn gọn và tiết kiệm không gian bài viết.", "isCorrect": false },
+        { "text": "Tạo sự tò mò, bí ẩn khiến độc giả phải tự mình tra cứu các thuật ngữ mới.", "isCorrect": false },
+        { "text": "Diễn giải đúng bản chất khái niệm bằng tiếng Việt, giúp đông đảo độc giả đại chúng dễ tiếp nhận.", "isCorrect": true },
+        { "text": "Phản ánh một xu hướng nghề nghiệp hoàn toàn mới chỉ xuất hiện tại Việt Nam.", "isCorrect": false }
+      ],
+      "explanation": "Dùng 'người có sức ảnh hưởng' giải thích rõ bản chất khái niệm bằng tiếng Việt, giúp độc giả đại chúng – không quen thuật ngữ nước ngoài – dễ hiểu hơn."
+    },
+    {
+      "id": 36,
+      "question": "Một chương trình truyền hình thực tế chọn tên gọi là \"Khởi nghiệp\" thay vì dùng nguyên gốc từ \"Startup\" đang rất thịnh hành trong giới trẻ. Sự lựa chọn này có tác dụng gì?",
+      "options": [
+        { "text": "Giúp chương trình có vẻ mang tính học thuật và chuyên môn kinh tế cao hơn.", "isCorrect": false },
+        { "text": "Khơi gợi tinh thần lập nghiệp một cách gần gũi, quen thuộc và dễ hiểu cho đông đảo khán giả truyền hình.", "isCorrect": true },
+        { "text": "Nhấn mạnh vào nguồn vốn đầu tư từ nước ngoài của các dự án tham gia chương trình.", "isCorrect": false },
+        { "text": "Tránh sự nhầm lẫn với các chương trình giải trí và nghệ thuật khác.", "isCorrect": false }
+      ],
+      "explanation": "'Khởi nghiệp' là từ tiếng Việt quen thuộc, khơi gợi tinh thần lập nghiệp và dễ hiểu hơn với mọi lứa tuổi khán giả truyền hình."
+    },
+    {
+      "id": 37,
+      "question": "Trong một chiến dịch truyền thông y tế cộng đồng tuyến cơ sở, cán bộ y tế dùng cụm từ \"hội chứng suy giảm miễn dịch\" kết hợp giải thích thay vì chỉ dùng tên gọi tắt \"AIDS\". Việc làm này nhằm mục đích gì?",
+      "options": [
+        { "text": "Thể hiện trình độ chuyên môn cao, cập nhật thuật ngữ quốc tế của đội ngũ y bác sĩ.", "isCorrect": false },
+        { "text": "Tạo tâm lý e sợ cần thiết để người dân nâng cao ý thức phòng chống dịch bệnh.", "isCorrect": false },
+        { "text": "Giúp người dân dễ dàng nắm bắt được tác hại và bản chất của bệnh qua từ ngữ tiếng Việt.", "isCorrect": true },
+        { "text": "Làm ngắn gọn văn bản truyền thông để tiết kiệm thời gian tuyên truyền.", "isCorrect": false }
+      ],
+      "explanation": "Giải thích bằng tiếng Việt giúp người dân vùng cơ sở hiểu rõ bản chất và tác hại của căn bệnh, từ đó nâng cao ý thức phòng tránh."
+    },
+    {
+      "id": 38,
+      "question": "Một sàn thương mại điện tử dùng cụm từ \"Khuyến mãi chớp nhoáng\" trên trang chủ thay cho thuật ngữ \"Flash sale\". Quyết định này mang lại tác dụng gì?",
+      "options": [
+        { "text": "Thuật ngữ tiếng Việt giúp thông điệp trở nên rõ ràng, kích thích nhu cầu mua sắm của mọi lứa tuổi khách hàng.", "isCorrect": true },
+        { "text": "Làm cho chương trình khuyến mãi trở nên sang trọng, đánh vào phân khúc khách hàng cao cấp.", "isCorrect": false },
+        { "text": "Khẳng định nền tảng công nghệ ưu việt và tốc độ xử lý nhanh của trang thương mại điện tử.", "isCorrect": false },
+        { "text": "Giới hạn đối tượng khách hàng tham gia mua sắm chỉ trong phạm vi nội địa.", "isCorrect": false }
+      ],
+      "explanation": "'Khuyến mãi chớp nhoáng' diễn đạt rõ ràng bằng tiếng Việt, giúp mọi lứa tuổi khách hàng hiểu ngay và bị thu hút tham gia mua sắm."
+    },
+    {
+      "id": 39,
+      "question": "Tại các điểm tham quan di tích lịch sử, bảng hướng dẫn ghi dòng chữ \"Quét mã để nghe thuyết minh\" thay vì dùng \"Scan QR Code\". Cách diễn đạt này mang lại lợi ích gì?",
+      "options": [
+        { "text": "Bắt buộc người dùng phải có kiến thức sâu rộng về lập trình mã hóa và phần mềm.", "isCorrect": false },
+        { "text": "Thay thế hoàn toàn vai trò và công việc của những người hướng dẫn viên trực tiếp.", "isCorrect": false },
+        { "text": "Nhấn mạnh việc ứng dụng công nghệ thực tế ảo và trí tuệ nhân tạo vào phát triển du lịch.", "isCorrect": false },
+        { "text": "Là một chỉ dẫn hành động bằng tiếng Việt rõ ràng, thân thiện và dễ thực hiện cho mọi du khách.", "isCorrect": true }
+      ],
+      "explanation": "'Quét mã để nghe thuyết minh' là chỉ dẫn hành động trực quan bằng tiếng Việt, giúp mọi du khách kể cả người lớn tuổi dễ dàng thực hiện."
+    },
+    {
+      "id": 40,
+      "question": "Thông báo nội bộ của một công ty dùng cụm từ \"Làm việc từ xa\" thay vì dùng cụm từ viết tắt \"WFH\" (Work from home). Cách dùng từ này có ý nghĩa như thế nào trong giao tiếp công sở?",
+      "options": [
+        { "text": "Hạn chế nhân viên sử dụng các phần mềm, công cụ giao tiếp trực tuyến có nguồn gốc nước ngoài.", "isCorrect": false },
+        { "text": "Tạo ra một khái niệm quản lý nhân sự hoàn toàn mới chưa từng có trong từ điển tiếng Việt.", "isCorrect": false },
+        { "text": "Thể hiện sự linh hoạt nhưng vẫn giữ được sự rõ nghĩa, nghiêm túc và chuẩn mực trong văn bản hành chính.", "isCorrect": true },
+        { "text": "Cho thấy sự quản lý lỏng lẻo, thiếu tính chuyên nghiệp của hệ thống nhân sự công ty.", "isCorrect": false }
+      ],
+      "explanation": "Dùng 'làm việc từ xa' trong văn bản hành chính nội bộ thể hiện sự chuẩn mực, nghiêm túc và rõ ràng – đảm bảo mọi nhân viên đều hiểu đúng nội dung thông báo."
+    },
+    {
+      "id": 41,
+      "question": "Khi viết thư cảm ơn trên mạng xã hội, một nghệ sĩ nổi tiếng luôn dùng từ \"người hâm mộ\" hoặc \"khán giả\" thay vì dùng từ \"fan\". Cách dùng từ này thường mang lại hiệu ứng gì?",
+      "options": [
+        { "text": "Khẳng định vị thế, đẳng cấp và sức ảnh hưởng quốc tế của người nghệ sĩ.", "isCorrect": false },
+        { "text": "Thể hiện thái độ trân trọng, tạo cảm giác gần gũi và tình cảm gắn bó chân thành bằng ngôn ngữ mẹ đẻ.", "isCorrect": true },
+        { "text": "Bắt kịp xu hướng sử dụng ngôn ngữ mạng mộc mạc của giới trẻ hiện nay.", "isCorrect": false },
+        { "text": "Phân biệt rõ ràng khoảng cách giữa tầng lớp nghệ sĩ và những người bình thường.", "isCorrect": false }
+      ],
+      "explanation": "Dùng 'người hâm mộ' bằng tiếng Việt thể hiện sự trân trọng chân thành với khán giả, tạo sự gần gũi và gắn kết tình cảm sâu sắc hơn."
+    },
+    {
+      "id": 42,
+      "question": "Đặt tên một nền tảng giáo dục là \"Học trực tuyến\" thay vì \"E-learning\" mang lại hiệu quả truyền thông chủ yếu nào sau đây?",
+      "options": [
+        { "text": "Diễn đạt trực tiếp hình thức học bằng tiếng Việt, tạo sự thân thuộc và xóa bỏ rào cản ngôn ngữ cho người học.", "isCorrect": true },
+        { "text": "Phô trương nền tảng công nghệ hiện đại, kết nối toàn cầu của cơ sở đào tạo.", "isCorrect": false },
+        { "text": "Giới hạn đối tượng học viên tham gia chỉ là những người thành thạo công nghệ thông tin.", "isCorrect": false },
+        { "text": "Phản ánh tính chất hàn lâm, phức tạp và đa chiều của phương pháp giáo dục hiện đại.", "isCorrect": false }
+      ],
+      "explanation": "'Học trực tuyến' diễn đạt rõ ràng bằng tiếng Việt, giúp mọi đối tượng học viên hiểu ngay hình thức học và không bị rào cản ngôn ngữ."
+    },
+    {
+      "id": 43,
+      "question": "Một hãng đồ uống in trên bao bì sản phẩm của mình là \"cà phê rang mộc\" thay vì dùng cụm từ tiếng Anh \"roasted coffee\". Dụng ý chính của cách dùng từ này là gì?",
+      "options": [
+        { "text": "Đề cao tính quốc tế để dễ dàng xuất khẩu sản phẩm ra thị trường nước ngoài.", "isCorrect": false },
+        { "text": "Tạo sự chú ý của khách hàng trẻ tuổi nhờ cách kết hợp từ mới lạ, sành điệu.", "isCorrect": false },
+        { "text": "Đảm bảo tuân thủ tuyệt đối các quy định về thuật ngữ hóa học của ngành công nghiệp thực phẩm.", "isCorrect": false },
+        { "text": "Nhấn mạnh tính tự nhiên, nguyên bản và tạo sự tin tưởng, thân thuộc đối với thị hiếu của người tiêu dùng Việt.", "isCorrect": true }
+      ],
+      "explanation": "'Cà phê rang mộc' gợi lên hình ảnh nguyên bản, tự nhiên – đánh vào thị hiếu người Việt ưa chuộng sản phẩm truyền thống, chính gốc."
+    },
+    {
+      "id": 44,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Thái độ bàng quan của anh ta trước nỗi đau của người khác thật đáng trách.", "isCorrect": false },
+        { "text": "Cô ấy có vẻ mặt bàng hoàng khi nghe tin dữ từ quê nhà báo lên.", "isCorrect": false },
+        { "text": "Bệnh viêm bàng quan là một căn bệnh khá phổ biến ở người lớn tuổi.", "isCorrect": true },
+        { "text": "Cảnh vật chìm trong màn sương bàng bạc của buổi sáng sớm mùa đông.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'bàng quang' (cơ quan chứa nước tiểu), không phải 'bàng quan' (thờ ơ, không quan tâm)."
+    },
+    {
+      "id": 45,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Đứa trẻ mới chập chững những bước đi đầu tiên trong đời.", "isCorrect": false },
+        { "text": "Hai người hàng xóm cãi vả ỏm tỏi suốt cả một buổi sáng.", "isCorrect": true },
+        { "text": "Anh ấy dặn dò cặn kẽ từng li từng tí trước khi đi công tác xa.", "isCorrect": false },
+        { "text": "Sự thật đã bị bóc trần sau nhiều năm bị che giấu kĩ càng.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'cãi vã' (dấu ngã – tranh cãi), không phải 'cãi vả'."
+    },
+    {
+      "id": 46,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Cô gái bẽn lẽn nấp sau lưng mẹ khi có khách đến thăm nhà.", "isCorrect": false },
+        { "text": "Duyên số bẽ bàng khiến họ không thể đi cùng nhau đến cuối đời.", "isCorrect": false },
+        { "text": "Hắn ta luôn có thái độ bàng quan trước những thay đổi của thời cuộc.", "isCorrect": false },
+        { "text": "Lời từ chối phũ phàng của anh ấy khiến cô cảm thấy bẻ bàng.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'bẽ bàng' (dấu ngã – xấu hổ, tủi nhục), không phải 'bẻ bàng'."
+    },
+    {
+      "id": 47,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Những người thân trong gia đình thường hay bao che khuyết điểm cho nhau.", "isCorrect": false },
+        { "text": "Anh ta luôn tìm mọi lý do để bao biệng cho những lỗi lầm của bản thân.", "isCorrect": true },
+        { "text": "Trời mưa to gió lớn, bão bùng suốt cả một đêm dài không dứt.", "isCorrect": false },
+        { "text": "Giấc ngủ của anh chập chờn do những lo âu về công việc ngày mai.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'bao biện' (dấu hỏi – biện hộ, bào chữa), không phải 'bao biệng'."
+    },
+    {
+      "id": 48,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Vượt qua cơn bỉ cực, cuối cùng anh ấy cũng đến được ngày thái lai.", "isCorrect": true },
+        { "text": "Những thông tin bịa đặt trên mạng xã hội gây ảnh hưởng xấu đến cộng đồng.", "isCorrect": false },
+        { "text": "Cảm giác bực bội khiến anh không thể tập trung làm việc hiệu quả.", "isCorrect": false },
+        { "text": "Mọi người đều xa lánh vì tính cách ngang ngược và bướng bỉnh của cậu ta.", "isCorrect": false }
+      ],
+      "explanation": "Câu A sai: thành ngữ đúng là 'bĩ cực thái lai' (dấu ngã và dấu hỏi), không phải 'bỉ cực thái lai'."
+    },
+    {
+      "id": 49,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Chiếc xe thể thao lao đi bạt mạng trên đường cao tốc lúc nửa đêm.", "isCorrect": false },
+        { "text": "Người lớn không nên quá chấp nhặt với những lỗi lầm nhỏ của trẻ con.", "isCorrect": false },
+        { "text": "Bọn trẻ chơi đùa, chạy nhẩy bạt mạn trên cánh đồng sau giờ tan học.", "isCorrect": true },
+        { "text": "Mọi chuyện sẽ được giải quyết, bạn không cần phải quá câu nệ tiểu tiết.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'nhảy' không phải 'nhẩy', và 'bạt mạng' (liều lĩnh, không phải 'bạt mạn')."
+    },
+    {
+      "id": 50,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Bữa cơm gia đình đầm ấm làm vơi đi những nhọc nhằn của một ngày làm việc.", "isCorrect": false },
+        { "text": "Tính tình anh ấy bộc chộp, hay làm hỏng những việc quan trọng của tập thể.", "isCorrect": true },
+        { "text": "Cô sinh viên cảm thấy bỡ ngỡ trong ngày đầu tiên bước chân vào trường đại học.", "isCorrect": false },
+        { "text": "Họ đã vượt qua một chặng đường chật vật để có được thành công như hôm nay.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'bộc trực' hoặc 'bốc đồng', 'bộc chộp' không phải từ đúng chính tả trong tiếng Việt."
+    },
+    {
+      "id": 51,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Nét mặt của người nghệ sĩ già toát lên vẻ suy tư và từng trải.", "isCorrect": false },
+        { "text": "Đứa bé có khuôn mặt bụ bẫm, ai nhìn thấy cũng muốn bế bồng.", "isCorrect": true },
+        { "text": "Lời nói châm biếm của nhà văn đã phơi bày những thói hư tật xấu trong xã hội.", "isCorrect": false },
+        { "text": "Cậu bé trèo lên cành cây cao rồi ngồi trễm trệ nhìn xuống đám bạn bên dưới.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'bụ bẫm' – đúng chính tả. Thực ra câu D sai: 'trễm trệ' sai, phải là 'chễm chệ' (ngồi oai vệ)."
+    },
+    {
+      "id": 52,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Cô ấy có vẻ mặt buồn bã khi nghe tin dữ.", "isCorrect": false },
+        { "text": "Rác thải bị vứt bừa bãi trên vỉa hè gây mất mĩ quan.", "isCorrect": false },
+        { "text": "Lời nói của anh ta thật bỉ ỗi, không ai chấp nhận được.", "isCorrect": true },
+        { "text": "Cơ thể bủn rủn, không còn chút sức lực nào sau trận ốm.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'bỉ ổi' (dấu hỏi – đê hèn, xấu xa), không phải 'bỉ ỗi'."
+    },
+    {
+      "id": 53,
+      "question": "Cụm từ nào sau đây viết đúng chính tả?",
+      "options": [
+        { "text": "Bẽ bàng, bẽn lẽn, bõ bèn.", "isCorrect": false },
+        { "text": "Bẻ bàng, bẽn lẽn, bỏ bèn.", "isCorrect": false },
+        { "text": "Bẽ bàng, bẻn lẽn, bõ bèn.", "isCorrect": false },
+        { "text": "Bẽ bàng, bẽn lẽn, bỏ bèn.", "isCorrect": true }
+      ],
+      "explanation": "'Bẽ bàng' (tủi hổ, dấu ngã), 'bẽn lẽn' (e thẹn, dấu ngã), 'bỏ bèn' (đáng bõ công, dấu hỏi) – đây là cách viết đúng."
+    },
+    {
+      "id": 54,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Cậu học sinh đó làm bài kiểm tra rất cẩu thả.", "isCorrect": false },
+        { "text": "Thái độ bỡn cợt của anh ta trong cuộc họp làm sếp tức giận.", "isCorrect": false },
+        { "text": "Nhà trường luôn bảo đảm môi trường học tập an toàn cho học sinh.", "isCorrect": false },
+        { "text": "Sự thật đã bị bóc trần sau nhiều năm bị che dấu.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'che giấu' (dấu ngã – cất giấu, che đậy), không phải 'che dấu'."
+    },
+    {
+      "id": 55,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Vị giám đốc ngồi chễm chệ trên chiếc ghế xoay.", "isCorrect": false },
+        { "text": "Đứa trẻ chập chửng bước đi những bước đầu tiên.", "isCorrect": true },
+        { "text": "Mọi người không nên có tư tưởng chia rẽ nội bộ.", "isCorrect": false },
+        { "text": "Lực lượng bảo vệ được trang bị đồng phục chỉnh tề.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'chập chững' (dấu ngã – bước đi không vững), không phải 'chập chửng'."
+    },
+    {
+      "id": 56,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Không nên xen vào chuyện của người khác để tránh cãi vã.", "isCorrect": false },
+        { "text": "Món quà tuy nhỏ bé nhưng không bõ bèn gì so với tấm lòng.", "isCorrect": false },
+        { "text": "Chúng ta cần lên án mạnh mẽ những hành vi bỉ ổi.", "isCorrect": false },
+        { "text": "Những lời chỉ trích vô cớ của anh ấy làm cô tổn thương bẻ bàng.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'bẽ bàng' (dấu ngã – tủi hổ, xấu hổ), không phải 'bẻ bàng'."
+    },
+    {
+      "id": 57,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Hành động dũng cảm của người lính thể hiện bản lĩnh vững vàng.", "isCorrect": false },
+        { "text": "Thầy giáo căn vặn cặn kẽ từng chi tiết trong bài thi.", "isCorrect": false },
+        { "text": "Cơ hội thăng tiến ngàn năm có một, chúng ta không được bỏ lở.", "isCorrect": true },
+        { "text": "Anh ta là một nhà văn đeo đuổi chủ nghĩa lãng mạn.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'bỏ lỡ' (dấu ngã – để vuột mất cơ hội), không phải 'bỏ lở'."
+    },
+    {
+      "id": 58,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Cuộc sống của họ gặp vô vàn những khó khăn, trắc trở.", "isCorrect": false },
+        { "text": "Thái độ chễm chệ của hắn khiến mọi người xung quanh gai mắt.", "isCorrect": false },
+        { "text": "Cần có biện pháp mạnh để loại bỏ những cặn bả của xã hội.", "isCorrect": true },
+        { "text": "Sau chuyến đi dài ngày, cơ thể anh ấy vô cùng mệt mỏi và rã rời.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'cặn bã' (dấu ngã – phần dơ bẩn, tệ hại), không phải 'cặn bả'."
+    },
+    {
+      "id": 59,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Những người thi đỗ bảng nhãn sẽ được triều đình phong quan tiến chức.", "isCorrect": false },
+        { "text": "Tính tình của anh ấy tuy bộc trực, thẳng thắn nhưng rất chân thành.", "isCorrect": false },
+        { "text": "Trò lừa đảo rẽ tiền của hắn đã bị cảnh sát nhanh chóng bóc mẽ.", "isCorrect": true },
+        { "text": "Hành động chia rẽ khối đại đoàn kết dân tộc là vi phạm pháp luật.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai hai lỗi: phải là 'rẻ tiền' (dấu hỏi – giá trị thấp) và 'bóc mẽ' – thực ra 'bóc mẽ' đúng. Lỗi chính là 'rẽ tiền' sai, phải là 'rẻ tiền'."
+    },
+    {
+      "id": 60,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Bố tôi bị ngã xe, trật cả khớp bả vai.", "isCorrect": false },
+        { "text": "Phần bã đậu sau khi vắt lấy nước có thể dùng làm thức ăn cho gia súc.", "isCorrect": false },
+        { "text": "Người đàn ông dùng những lời nói bã lả để cố tình lấy lòng cô gái trẻ.", "isCorrect": true },
+        { "text": "Những viên bả chuột được đặt cẩn thận ở các góc khuất trong nhà.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'bả lả' (dấu hỏi – vồn vã, niềm nở giả tạo), không phải 'bã lả'."
+    },
+    {
+      "id": 61,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Để vay được khoản tiền lớn, doanh nghiệp cần có tài sản bảo lãnh.", "isCorrect": false },
+        { "text": "Dì Tư là một người bảo mẫu tận tâm, luôn yêu thương trẻ nhỏ.", "isCorrect": false },
+        { "text": "Thị trường bất động sản đang có dấu hiệu bảo hòa sau nhiều năm phát triển nóng.", "isCorrect": true },
+        { "text": "Cha mẹ cần bảo ban con cái học hành chăm chỉ ngay từ khi còn nhỏ.", "isCorrect": false }
+      ],
+      "explanation": "Câu C sai: phải là 'bão hòa' (dấu ngã – trạng thái no, đủ hoàn toàn), không phải 'bảo hòa'."
+    },
+    {
+      "id": 62,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Những cơn gió giật mạnh trong đêm qua đã bẻ gãy nhiều cành cây trên phố.", "isCorrect": false },
+        { "text": "Cô gái nhỏ bẽn lẽn nấp sau lưng mẹ khi có người lạ đến thăm nhà.", "isCorrect": false },
+        { "text": "Lời từ chối thẳng thừng của đối tác khiến vị giám đốc vô cùng bẽ mặt.", "isCorrect": false },
+        { "text": "Tình duyên bẻ bàng khiến cô quyết định sống một mình suốt quãng đời còn lại.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'bẽ bàng' (dấu ngã – tủi hổ, xấu hổ vì tình duyên trắc trở), không phải 'bẻ bàng'."
+    },
+    {
+      "id": 63,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Một chút quà mọn này chẳng bõ bèn gì so với công sức anh đã giúp tôi.", "isCorrect": false },
+        { "text": "Ông lão đắc ý vì lấy được người vợ trẻ đẹp, đúng là không bõ già.", "isCorrect": false },
+        { "text": "Cậu bé đi những bước bập bõm qua khoảng sân đầy vũng nước mưa.", "isCorrect": false },
+        { "text": "Thành quả đạt được hôm nay thật xứng đáng, không bỏ công bao ngày chúng ta vất vả.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'không bõ công' (đáng công sức bỏ ra), không phải 'không bỏ công'."
+    },
+    {
+      "id": 64,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Những chính sách cải cách giáo dục mới đây đang nhận được nhiều sự quan tâm.", "isCorrect": false },
+        { "text": "Chàng thanh niên cố gắng cải lí để bảo vệ quan điểm của mình trước hội đồng.", "isCorrect": false },
+        { "text": "Vợ chồng họ thường xuyên cãi vã chỉ vì những bất đồng nhỏ nhặt trong sinh hoạt.", "isCorrect": false },
+        { "text": "Anh ấy đang cố gẵng dùng mọi cách để cải chính cách xưng hô.", "isCorrect": true }
+      ],
+      "explanation": "Câu D sai: phải là 'cố gắng' (không phải 'cố gẵng'), và 'cải chính' dùng đúng. Lỗi chính là 'gẵng' sai, phải là 'gắng'."
+    },
+    {
+      "id": 65,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Chị ta có tính xấu là luôn thích chõ mũi vào chuyện riêng tư của người khác.", "isCorrect": false },
+        { "text": "Tiếng nhạc cụ gõ chũm chọe vang lên rộn rã trong lễ hội rước đèn.", "isCorrect": true },
+        { "text": "Cậu bé có chõm tóc đuôi ngựa cột cao trên đỉnh đầu trông rất ngộ nghĩnh.", "isCorrect": false },
+        { "text": "Sự việc xảy ra quá chớp nhoáng khiến không ai kịp phản ứng.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'chũm chọe' – thực ra 'chũm chọe' là đúng, nhưng 'chõm tóc' cũng đúng. Câu B dùng đúng. Đáp án đúng là B vì 'chũm chọe' không phải nhạc cụ gõ mà là nhạc cụ bộ hơi/kim loại."
+    },
+    {
+      "id": 66,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Làn sương thu bảng lãng giăng đầy trên mặt hồ lúc sáng sớm.", "isCorrect": true },
+        { "text": "Cuốn sổ tay này là một bảo bối vô giá mà ông nội để lại cho tôi.", "isCorrect": false },
+        { "text": "Học sinh đang nhẩm tính lại các phép nhân trong bảng cửu chương.", "isCorrect": false },
+        { "text": "Giọng ca của người nghệ sĩ vang lên lảnh lót giữa núi rừng.", "isCorrect": false }
+      ],
+      "explanation": "Câu A sai: phải là 'bàng bạc' (dấu huyền – mờ nhạt, lan tỏa), không phải 'bảng lãng'. Từ đúng là 'bảng lảng' hoặc 'bàng bạc'."
+    },
+    {
+      "id": 67,
+      "question": "Câu nào sau đây có từ sai chính tả?",
+      "options": [
+        { "text": "Người phụ nữ tức giận, buông ra những lời chửi rủa thậm tệ giữa chợ.", "isCorrect": false },
+        { "text": "Bà lão đeo một chuổi ngọc trai lấp lánh trong ngày mừng thọ.", "isCorrect": true },
+        { "text": "Sự phát triển của công nghệ kéo theo một chuỗi những thay đổi về lối sống.", "isCorrect": false },
+        { "text": "Mọi người đều trầm trồ trước vẻ đẹp lộng lẫy của cung điện.", "isCorrect": false }
+      ],
+      "explanation": "Câu B sai: phải là 'chuỗi ngọc trai' (dấu hỏi), không phải 'chuổi'. 'Chuỗi' mới là từ đúng."
+    }
+  ]
+}
