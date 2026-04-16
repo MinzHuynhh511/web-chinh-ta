@@ -64,12 +64,12 @@
       "id": 6,
       "question": "Cụm từ nào sau đây viết đúng chính tả?",
       "options": [
-        { "text": "Sửa chữa, sữa bò, chửa đẻ.", "isCorrect": false },
-        { "text": "Sửa chữa, sữa bò, chữa đẻ.", "isCorrect": true },
+        { "text": "Sửa chữa, sữa bò, chửa đẻ.", "isCorrect": true },
+        { "text": "Sửa chữa, sữa bò, chữa đẻ.", "isCorrect": false },
         { "text": "Sửa chửa, sữa bò, chửa đẻ.", "isCorrect": false },
         { "text": "Sửa chửa, sữa bò, chữa đẻ.", "isCorrect": false }
       ],
-      "explanation": "'Sửa chữa' (dấu hỏi), 'sữa bò' (dấu ngã), 'chữa đẻ' (dấu ngã – điều trị). 'Chửa' là mang thai, không phải chữa bệnh."
+      "explanation": "'Sửa chữa' (dấu hỏi), 'sữa bò' (dấu ngã), Chửa đẻ: (đúng) Chỉ việc mang thai và sinh nở"
     },
     {
       "id": 7,
@@ -317,12 +317,12 @@
       "id": 29,
       "question": "Một báo cáo dùng từ \"Giải ngân\" thay vì \"Disbursement\". Cách làm này có tác dụng gì?",
       "options": [
-        { "text": "Tạo sự chuyên nghiệp và thống nhất trong thuật ngữ tài chính nội địa.", "isCorrect": true },
-        { "text": "Tạo sự đơn giản và giúp người lao động bình thường dễ dàng hiểu được.", "isCorrect": false },
+        { "text": "Tạo sự chuyên nghiệp và thống nhất trong thuật ngữ tài chính nội địa.", "isCorrect": false },
+        { "text": "Tạo sự đơn giản và giúp người lao động bình thường dễ dàng hiểu được.", "isCorrect": true },
         { "text": "Tạo sự khác biệt và giúp các doanh nghiệp dễ dàng lách luật đầu tư.", "isCorrect": false },
         { "text": "Tạo sự uy tín và giúp thu hút các nguồn vốn từ nước ngoài đổ vào.", "isCorrect": false }
       ],
-      "explanation": "'Giải ngân' là thuật ngữ tài chính tiếng Việt đã được chuẩn hóa, giúp báo cáo mang tính chuyên nghiệp và nhất quán trong hệ thống tài chính nội địa."
+      "explanation": ":v ai biết đúng sai đâu"
     },
     {
       "id": 30,
@@ -560,11 +560,11 @@
       "question": "Câu nào sau đây có từ sai chính tả?",
       "options": [
         { "text": "Nét mặt của người nghệ sĩ già toát lên vẻ suy tư và từng trải.", "isCorrect": false },
-        { "text": "Đứa bé có khuôn mặt bụ bẫm, ai nhìn thấy cũng muốn bế bồng.", "isCorrect": true },
+        { "text": "Đứa bé có khuôn mặt bụ bẫm, ai nhìn thấy cũng muốn bế bồng.", "isCorrect": false },
         { "text": "Lời nói châm biếm của nhà văn đã phơi bày những thói hư tật xấu trong xã hội.", "isCorrect": false },
-        { "text": "Cậu bé trèo lên cành cây cao rồi ngồi trễm trệ nhìn xuống đám bạn bên dưới.", "isCorrect": false }
+        { "text": "Cậu bé trèo lên cành cây cao rồi ngồi trễm trệ nhìn xuống đám bạn bên dưới.", "isCorrect": true }
       ],
-      "explanation": "Câu B sai: phải là 'bụ bẫm' – đúng chính tả. Thực ra câu D sai: 'trễm trệ' sai, phải là 'chễm chệ' (ngồi oai vệ)."
+      "explanation": "D sai: 'trễm trệ' sai, phải là 'chễm chệ' (ngồi oai vệ)."
     },
     {
       "id": 52,
@@ -581,12 +581,12 @@
       "id": 53,
       "question": "Cụm từ nào sau đây viết đúng chính tả?",
       "options": [
-        { "text": "Bẽ bàng, bẽn lẽn, bõ bèn.", "isCorrect": false },
+        { "text": "Bẽ bàng, bẽn lẽn, bõ bèn.", "isCorrect": true },
         { "text": "Bẻ bàng, bẽn lẽn, bỏ bèn.", "isCorrect": false },
         { "text": "Bẽ bàng, bẻn lẽn, bõ bèn.", "isCorrect": false },
-        { "text": "Bẽ bàng, bẽn lẽn, bỏ bèn.", "isCorrect": true }
+        { "text": "Bẽ bàng, bẽn lẽn, bỏ bèn.", "isCorrect": false }
       ],
-      "explanation": "'Bẽ bàng' (tủi hổ, dấu ngã), 'bẽn lẽn' (e thẹn, dấu ngã), 'bỏ bèn' (đáng bõ công, dấu hỏi) – đây là cách viết đúng."
+      "explanation": "'Bẽ bàng' (tủi hổ, dấu ngã), 'bẽn lẽn' (e thẹn, dấu ngã), 'bõ bèn'– đây là cách viết đúng."
     },
     {
       "id": 54,
@@ -707,18 +707,18 @@
         { "text": "Vợ chồng họ thường xuyên cãi vã chỉ vì những bất đồng nhỏ nhặt trong sinh hoạt.", "isCorrect": false },
         { "text": "Anh ấy đang cố gẵng dùng mọi cách để cải chính cách xưng hô.", "isCorrect": true }
       ],
-      "explanation": "Câu D sai: phải là 'cố gắng' (không phải 'cố gẵng'), và 'cải chính' dùng đúng. Lỗi chính là 'gẵng' sai, phải là 'gắng'."
+      "explanation": "Cần kiểm tra lại"
     },
     {
       "id": 65,
       "question": "Câu nào sau đây có từ sai chính tả?",
       "options": [
         { "text": "Chị ta có tính xấu là luôn thích chõ mũi vào chuyện riêng tư của người khác.", "isCorrect": false },
-        { "text": "Tiếng nhạc cụ gõ chũm chọe vang lên rộn rã trong lễ hội rước đèn.", "isCorrect": true },
-        { "text": "Cậu bé có chõm tóc đuôi ngựa cột cao trên đỉnh đầu trông rất ngộ nghĩnh.", "isCorrect": false },
+        { "text": "Tiếng nhạc cụ gõ chũm chọe vang lên rộn rã trong lễ hội rước đèn.", "isCorrect": false },
+        { "text": "Cậu bé có chõm tóc đuôi ngựa cột cao trên đỉnh đầu trông rất ngộ nghĩnh.", "isCorrect": true },
         { "text": "Sự việc xảy ra quá chớp nhoáng khiến không ai kịp phản ứng.", "isCorrect": false }
       ],
-      "explanation": "Câu B sai: phải là 'chũm chọe' – thực ra 'chũm chọe' là đúng, nhưng 'chõm tóc' cũng đúng. Câu B dùng đúng. Đáp án đúng là B vì 'chũm chọe' không phải nhạc cụ gõ mà là nhạc cụ bộ hơi/kim loại."
+      "explanation": "Chỏm tóc"
     },
     {
       "id": 66,
