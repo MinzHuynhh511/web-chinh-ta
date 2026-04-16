@@ -64,20 +64,20 @@
       "id": 6,
       "question": "Cụm từ nào sau đây viết đúng chính tả?",
       "options": [
-        { "text": "Sửa chữa, sữa bò, chửa đẻ", "isCorrect": false },
-        { "text": "Sửa chữa, sữa bò, chữa đẻ", "isCorrect": true },
+        { "text": "Sửa chữa, sữa bò, chửa đẻ", "isCorrect": true },
+        { "text": "Sửa chữa, sữa bò, chữa đẻ", "isCorrect": false },
         { "text": "Sửa chửa, sữa bò, chửa đẻ", "isCorrect": false },
         { "text": "Sửa chửa, sữa bò, chữa đẻ", "isCorrect": false }
       ],
-      "explanation": "'Sửa chữa' (hỏi – sửa lại), 'sữa bò' (ngã – chất lỏng dinh dưỡng), 'chữa đẻ' (ngã – đỡ đẻ). 'Chửa' (hỏi) có nghĩa là mang thai."
+      "explanation": "'Sửa chữa' (hỏi – sửa lại), 'sữa bò' (ngã – chất lỏng dinh dưỡng), 'chửa đẻ' (ngã – đỡ đẻ). "
     },
     {
       "id": 7,
       "question": "Cụm từ nào sau đây viết đúng chính tả?",
       "options": [
-        { "text": "Hủ tiếu, hủ bại, hủ tục", "isCorrect": false },
+        { "text": "Hủ tiếu, hủ bại, hủ tục", "isCorrect": true },
         { "text": "Hũ tiếu, hũ bại, hũ tục", "isCorrect": false },
-        { "text": "Hủ tiếu, hũ bại, hủ tục", "isCorrect": true },
+        { "text": "Hủ tiếu, hũ bại, hủ tục", "isCorrect": false },
         { "text": "Hũ tiếu, hủ bại, hũ tục", "isCorrect": false }
       ],
       "explanation": "'Hủ tiếu' và 'hủ tục', 'hủ bại' đều viết với 'hủ' (hỏi) khi mang nghĩa lạc hậu, cũ kỹ (từ Hán Việt). 'Hũ' (ngã) là cái hũ – đồ dùng đựng."
