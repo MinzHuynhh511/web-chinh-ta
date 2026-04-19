@@ -1,0 +1,1209 @@
+{
+  "id": "luyen-tap-tu-vung-tieng-anh-1-toi-21",
+  "title": "Luyện Tập Từ Vựng Tiếng Anh - 309 Câu - P2",
+  "description": "Bài trắc nghiệm kiểm tra từ vựng tiếng Anh tổng hợp",
+  "icon": "📚",
+  "color": "#10b981",
+  "questions": [
+	[
+	{
+      "id": 201,
+      "question": "Nghĩa của từ: 'chiến dịch' (Câu 16 trang 7) là gì?",
+      "options": [
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": true },
+        { "text": "poll (n) (/poul/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "strategy (n)", "isCorrect": false }
+      ],
+      "explanation": "campaign (n): một chuỗi các hoạt động có mục tiêu cụ thể (quảng cáo, bầu cử)."
+    },
+    {
+      "id": 202,
+      "question": "Nghĩa của từ: 'người điều hành' (Câu 17 trang 7) là gì?",
+      "options": [
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": true },
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "executive (n): người cấp cao trong ban quản trị."
+    },
+    {
+      "id": 203,
+      "question": "Nghĩa của từ: 'chuyên gia' (Câu 1 trang 8) là gì?",
+      "options": [
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": true },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false }
+      ],
+      "explanation": "expert (n): người có kiến thức sâu rộng về một lĩnh vực."
+    },
+    {
+      "id": 204,
+      "question": "Nghĩa của từ: 'ứng cử viên' (Câu 2 trang 8) là gì?",
+      "options": [
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": true },
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": false },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": false },
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": false }
+      ],
+      "explanation": "candidate (n): người tham gia ứng cử hoặc thi tuyển."
+    },
+    {
+      "id": 205,
+      "question": "Nghĩa của từ: 'đối thủ cạnh tranh' (Câu 3 trang 8) là gì?",
+      "options": [
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": true },
+        { "text": "partner (n)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false }
+      ],
+      "explanation": "competitor (n): người hoặc công ty đối đầu trong kinh doanh/thi đấu."
+    },
+    {
+      "id": 206,
+      "question": "Nghĩa của từ: 'người nộp đơn' (Câu 4 trang 8) là gì?",
+      "options": [
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": true },
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "applicant (n): người gửi đơn xin việc hoặc xin phép."
+    },
+    {
+      "id": 207,
+      "question": "Nghĩa của từ: 'người tham gia' (Câu 5 trang 8) là gì?",
+      "options": [
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": true },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": false },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false }
+      ],
+      "explanation": "participant (n): người trực tiếp góp mặt vào một sự kiện."
+    },
+    {
+      "id": 208,
+      "question": "Nghĩa của từ: 'trợ lý' (Câu 6 trang 8) là gì?",
+      "options": [
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": true },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "assistant (n): người hỗ trợ công việc cho cấp trên."
+    },
+    {
+      "id": 209,
+      "question": "Nghĩa của từ: 'tổng quát/chung chung' (Câu 7 trang 8) là gì?",
+      "options": [
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": true },
+        { "text": "specific (adj)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "general (adj): không đi sâu vào chi tiết, mang tính bao quát."
+    },
+    {
+      "id": 210,
+      "question": "Nghĩa của từ: 'lý tưởng' (Câu 8 trang 8) là gì?",
+      "options": [
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": true },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false }
+      ],
+      "explanation": "ideal (adj): hoàn hảo cho một mục đích nào đó."
+    },
+    {
+      "id": 211,
+      "question": "Nghĩa của từ: 'sắp diễn ra' (Câu 9 trang 8) là gì?",
+      "options": [
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": true },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false }
+      ],
+      "explanation": "upcoming (adj): chuẩn bị xuất hiện hoặc diễn ra."
+    },
+    {
+      "id": 212,
+      "question": "Nghĩa của từ: 'chính xác' (Câu 10 trang 8) là gì?",
+      "options": [
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": true },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false }
+      ],
+      "explanation": "exact (adj): đúng hoàn toàn, không có sai số."
+    },
+    {
+      "id": 213,
+      "question": "Nghĩa của từ: 'khuyến khích/ủng hộ' (Câu 11 trang 8) là gì?",
+      "options": [
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": true },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "support (v): giúp đỡ hoặc đồng tình với một ý tưởng."
+    },
+    {
+      "id": 214,
+      "question": "Nghĩa của từ: 'nâng cấp' (Câu 12 trang 8) là gì?",
+      "options": [
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": true },
+        { "text": "upgrade (v)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "update (v): cập nhật thông tin hoặc phiên bản mới."
+    },
+    {
+      "id": 215,
+      "question": "Nghĩa của từ: 'hỗ trợ' (Câu 13 trang 8) là gì?",
+      "options": [
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": true },
+        { "text": "allow (v) (/əˈlaʊ/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "assist (v): giúp một tay trong công việc."
+    },
+    {
+      "id": 216,
+      "question": "Nghĩa của từ: 'tổ chức/dàn dàn dựng' (Câu 14 trang 8) là gì?",
+      "options": [
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": true },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": false }
+      ],
+      "explanation": "stage (v): tổ chức một sự kiện công cộng hoặc vở diễn."
+    },
+    {
+      "id": 217,
+      "question": "Nghĩa của từ: 'vận chuyển' (Câu 15 trang 8) là gì?",
+      "options": [
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": true },
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false }
+      ],
+      "explanation": "transit (n): việc đi qua hoặc chuyển tải."
+    },
+    {
+      "id": 218,
+      "question": "Nghĩa của từ: 'vị trí/địa điểm' (Câu 16 trang 8) là gì?",
+      "options": [
+        { "text": "site (n) (/saɪt/)", "isCorrect": true },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false },
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false }
+      ],
+      "explanation": "site (n): vị trí cụ thể của một tòa nhà hoặc công trình."
+    },
+    {
+      "id": 219,
+      "question": "Nghĩa của từ: 'kích cỡ' (Câu 17 trang 8) là gì?",
+      "options": [
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": true },
+        { "text": "size (n)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false }
+      ],
+      "explanation": "dimension (n): chiều hướng hoặc kích thước đo được."
+    },
+    {
+      "id": 220,
+      "question": "Nghĩa của từ: 'dùng thử' (Câu 18 trang 8) là gì?",
+      "options": [
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": true },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false },
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": false },
+        { "text": "poll (n) (/poul/)", "isCorrect": false }
+      ],
+      "explanation": "trial (n): quá trình kiểm tra chất lượng hoặc tính năng."
+    },
+    {
+      "id": 221,
+      "question": "Nghĩa của từ: 'vị trí trống' (Câu 19 trang 8) là gì?",
+      "options": [
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": true },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "position (n)", "isCorrect": false }
+      ],
+      "explanation": "vacancy (n): một công việc chưa có người đảm nhận."
+    },
+    {
+      "id": 222,
+      "question": "Nghĩa của từ: 'sự hỗ trợ' (dạng danh từ) là gì?",
+      "options": [
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": true },
+        { "text": "assistance (v)", "isCorrect": false },
+        { "text": "aid (n) (/eɪd/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "assistance (n): danh từ chỉ hành động giúp đỡ."
+    },
+    {
+      "id": 223,
+      "question": "Nghĩa của từ: 'gần đây' (adj) là gì?",
+      "options": [
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": true },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "recent (adj): thời gian gần với hiện tại."
+    },
+    {
+      "id": 224,
+      "question": "Nghĩa của từ: 'giao thông' là gì?",
+      "options": [
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": true },
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false },
+        { "text": "intersection (n) (/ˌɪn.təˈsek.ʃən/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false }
+      ],
+      "explanation": "traffic (n): sự đi lại của các phương tiện."
+    },
+    {
+      "id": 225,
+      "question": "Nghĩa của từ: 'thuộc khu vực' là gì?",
+      "options": [
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": true },
+        { "text": "local (adj)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false }
+      ],
+      "explanation": "regional (adj): liên quan đến một vùng cụ thể."
+    },
+    {
+      "id": 226,
+      "question": "Nghĩa của từ: 'người di chuyển đi làm' là gì?",
+      "options": [
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": true },
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": false },
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": false },
+        { "text": "passenger (n)", "isCorrect": false }
+      ],
+      "explanation": "commuter (n): người đi làm hàng ngày bằng phương tiện công cộng/cá nhân từ xa."
+    },
+    {
+      "id": 227,
+      "question": "Nghĩa của từ: 'tình huống' là gì?",
+      "options": [
+        { "text": "circumstance (n) (/ˈsɝː.kəm.stæns/)", "isCorrect": true },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "case (n)", "isCorrect": false }
+      ],
+      "explanation": "circumstance (n): điều kiện/tình cảnh xảy ra sự việc."
+    },
+    {
+      "id": 228,
+      "question": "Nghĩa của từ: 'độ nghiêng' là gì?",
+      "options": [
+        { "text": "lean (n) (/li:n/)", "isCorrect": true },
+        { "text": "slope (n)", "isCorrect": false },
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false },
+        { "text": "stage (n) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "lean (n): trạng thái không thẳng đứng."
+    },
+    {
+      "id": 229,
+      "question": "Nghĩa của từ: 'cho phép' là gì?",
+      "options": [
+        { "text": "allow (v) (/əˈlaʊ/)", "isCorrect": true },
+        { "text": "permit (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false }
+      ],
+      "explanation": "allow (v): cho quyền làm gì đó."
+    },
+    {
+      "id": 230,
+      "question": "Nghĩa của từ: 'báo thức/báo động' là gì?",
+      "options": [
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": true },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "bell (n)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false }
+      ],
+      "explanation": "alarm (n): tiếng kêu cảnh báo."
+    },
+    {
+      "id": 231,
+      "question": "Nghĩa của từ: 'ngã tư' là gì?",
+      "options": [
+        { "text": "intersection (n) (/ˌɪn.təˈsek.ʃən/)", "isCorrect": true },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false }
+      ],
+      "explanation": "intersection (n): điểm giao nhau của đường sá."
+    },
+    {
+      "id": 232,
+      "question": "Nghĩa của từ: 'va chạm' là gì?",
+      "options": [
+        { "text": "crash (n, v) (/kræʃ/)", "isCorrect": true },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "impact (n)", "isCorrect": false },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false }
+      ],
+      "explanation": "crash: tai nạn đâm xe hoặc máy tính ngừng hoạt động."
+    },
+    {
+      "id": 233,
+      "question": "Nghĩa của từ: 'tư pháp/công bằng' là gì?",
+      "options": [
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": true },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "law (n)", "isCorrect": false }
+      ],
+      "explanation": "justice (n): sự thực thi pháp luật công minh."
+    },
+    {
+      "id": 234,
+      "question": "Nghĩa của từ: 'chật hẹp' là gì?",
+      "options": [
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": true },
+        { "text": "wide (adj)", "isCorrect": false },
+        { "text": "small (adj)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false }
+      ],
+      "explanation": "narrow (adj): khoảng cách giữa hai bên rất nhỏ."
+    },
+    {
+      "id": 235,
+      "question": "Nghĩa của từ: 'rủi ro/tai nạn' là gì?",
+      "options": [
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": true },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "crash (n) (/kræʃ/)", "isCorrect": false },
+        { "text": "incident (n)", "isCorrect": false }
+      ],
+      "explanation": "accident (n): sự cố ngoài ý muốn gây thiệt hại."
+    },
+    {
+      "id": 236,
+      "question": "Nghĩa của từ: 'xe trung chuyển' là gì?",
+      "options": [
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": true },
+        { "text": "bus (n)", "isCorrect": false },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": false }
+      ],
+      "explanation": "shuttle (n): xe đưa đón theo lịch trình cố định."
+    },
+    {
+      "id": 237,
+      "question": "Nghĩa của từ: 'khẩn cấp' là gì?",
+      "options": [
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": true },
+        { "text": "circumstance (n) (/ˈsɝː.kəm.stæns/)", "isCorrect": false },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false },
+        { "text": "urgent (adj)", "isCorrect": false }
+      ],
+      "explanation": "emergency (n): việc hệ trọng cần xử lý ngay lập tức."
+    },
+    {
+      "id": 238,
+      "question": "Nghĩa của từ: 'có tham vọng' là gì?",
+      "options": [
+        { "text": "ambitious (adj) (/æmˈbɪʃ.əs/)", "isCorrect": true },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "professional (adj)", "isCorrect": false }
+      ],
+      "explanation": "ambitious (adj): mong muốn đạt được thành công lớn."
+    },
+    {
+      "id": 239,
+      "question": "Nghĩa của từ: 'bình chọn/thăm dò' là gì?",
+      "options": [
+        { "text": "poll (n) (/poul/)", "isCorrect": true },
+        { "text": "vote (n)", "isCorrect": false },
+        { "text": "meeting (n) (/'mi:tiɳ/)", "isCorrect": false },
+        { "text": "survey (n)", "isCorrect": false }
+      ],
+      "explanation": "poll (n): bảng khảo sát ý kiến số đông."
+    },
+    {
+      "id": 240,
+      "question": "Nghĩa của từ: 'tư cách ứng cử' là gì?",
+      "options": [
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": true },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false },
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "candidacy (n): trạng thái hoặc quá trình ứng cử."
+    },
+    {
+      "id": 241,
+      "question": "Nghĩa của từ: 'bổ nhiệm/chỉ định' là gì?",
+      "options": [
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": true },
+        { "text": "appoint (v)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "designate (v): xác định rõ một người cho một nhiệm vụ."
+    },
+    {
+      "id": 242,
+      "question": "Nghĩa của từ: 'đạo luật/diễn' là gì?",
+      "options": [
+        { "text": "act (n, v) (/ækt/)", "isCorrect": true },
+        { "text": "law (n)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false }
+      ],
+      "explanation": "act: có thể là hành động hoặc một bộ luật đã thông qua."
+    },
+    {
+      "id": 243,
+      "question": "Nghĩa của từ: 'lịch trình/nội dung' là gì?",
+      "options": [
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": true },
+        { "text": "schedule (n)", "isCorrect": false },
+        { "text": "meeting (n) (/'mi:tiɳ/)", "isCorrect": false },
+        { "text": "plan (n)", "isCorrect": false }
+      ],
+      "explanation": "agenda (n): danh sách các việc cần làm trong buổi họp."
+    },
+    {
+      "id": 244,
+      "question": "Nghĩa của từ: 'ép buộc/lực lượng' là gì?",
+      "options": [
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": true },
+        { "text": "power (n)", "isCorrect": false },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false }
+      ],
+      "explanation": "force (n): sức mạnh vật lý hoặc quân đội/nhân sự."
+    },
+    {
+      "id": 245,
+      "question": "Nghĩa của từ: 'toàn bộ nhân viên' là gì?",
+      "options": [
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": true },
+        { "text": "staff (n)", "isCorrect": false },
+        { "text": "employee (n)", "isCorrect": false },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false }
+      ],
+      "explanation": "personnel (n): đội ngũ nhân sự của tổ chức."
+    },
+    {
+      "id": 246,
+      "question": "Nghĩa của từ: 'buổi họp' là gì?",
+      "options": [
+        { "text": "meeting (n) (/'mi:tiɳ/)", "isCorrect": true },
+        { "text": "gathering (n)", "isCorrect": false },
+        { "text": "poll (n) (/poul/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false }
+      ],
+      "explanation": "meeting (n): cuộc tập hợp người để bàn bạc."
+    },
+    {
+      "id": 247,
+      "question": "Nghĩa của từ: 'viện trợ/giúp' là gì?",
+      "options": [
+        { "text": "aid (n, v) (/eɪd/)", "isCorrect": true },
+        { "text": "help (v)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "donate (v) (/ˈdoʊ.neɪt/)", "isCorrect": false }
+      ],
+      "explanation": "aid: sự trợ giúp mang tính nhân đạo hoặc tài chính."
+    },
+    {
+      "id": 248,
+      "question": "Nghĩa của từ: 'quyền lực/chính quyền' là gì?",
+      "options": [
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": true },
+        { "text": "government (n)", "isCorrect": false },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "authority (n): người hoặc tổ chức có quyền ra quyết định."
+    },
+    {
+      "id": 249,
+      "question": "Nghĩa của từ: 'chính thức' (adj) là gì?",
+      "options": [
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": true },
+        { "text": "formal (adj)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false }
+      ],
+      "explanation": "official (adj): được công nhận bởi cơ quan có thẩm quyền."
+    },
+    {
+      "id": 250,
+      "question": "Nghĩa của từ: 'tặng' là gì?",
+      "options": [
+        { "text": "donate (v) (/ˈdoʊ.neɪt/)", "isCorrect": true },
+        { "text": "give (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "aid (v) (/eɪd/)", "isCorrect": false }
+      ],
+      "explanation": "donate (v): hành động cho đi vì mục đích tốt đẹp."
+    },
+	{
+      "id": 251,
+      "question": "Nghĩa của từ: 'phiếu bầu/thăm dò ý kiến' là gì?",
+      "options": [
+        { "text": "poll (n) (/poul/)", "isCorrect": true },
+        { "text": "survey (n)", "isCorrect": false },
+        { "text": "ballot (n)", "isCorrect": false },
+        { "text": "label (n)", "isCorrect": false }
+      ],
+      "explanation": "poll (n): sự thăm dò dư luận hoặc nơi bỏ phiếu."
+    },
+    {
+      "id": 252,
+      "question": "Nghĩa của từ: 'người đi làm bằng phương tiện công cộng' là gì?",
+      "options": [
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": true },
+        { "text": "traveler (n)", "isCorrect": false },
+        { "text": "cyclist (n)", "isCorrect": false },
+        { "text": "driver (n)", "isCorrect": false }
+      ],
+      "explanation": "commuter (n): người thường xuyên di chuyển xa giữa nhà và nơi làm việc."
+    },
+    {
+      "id": 253,
+      "question": "Nghĩa của từ: 'công việc/nghề nghiệp' (Câu 1 trang 10) là gì?",
+      "options": [
+        { "text": "occupation (n) (/ˌɑː.kjəˈpeɪ.ʃən/)", "isCorrect": true },
+        { "text": "vocation (n)", "isCorrect": false },
+        { "text": "career (n)", "isCorrect": false },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false }
+      ],
+      "explanation": "occupation (n): công việc hoặc nghề nghiệp chính của một người."
+    },
+    {
+      "id": 254,
+      "question": "Nghĩa của từ: 'phù hợp/tương ứng' (Câu 2 trang 10) là gì?",
+      "options": [
+        { "text": "match (v) (/mætʃ/)", "isCorrect": true },
+        { "text": "fit (v)", "isCorrect": false },
+        { "text": "suit (v)", "isCorrect": false },
+        { "text": "adapt (v)", "isCorrect": false }
+      ],
+      "explanation": "match (v): làm cho phù hợp hoặc tìm thứ tương ứng."
+    },
+    {
+      "id": 255,
+      "question": "Nghĩa của từ: 'đối thủ' (Câu 3 trang 10) là gì?",
+      "options": [
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": true },
+        { "text": "opponent (n)", "isCorrect": false },
+        { "text": "enemy (n)", "isCorrect": false },
+        { "text": "partner (n)", "isCorrect": false }
+      ],
+      "explanation": "competitor (n): người tham gia thi đấu hoặc cạnh tranh kinh doanh."
+    },
+    {
+      "id": 256,
+      "question": "Nghĩa của từ: 'chuyên nghiệp' (Câu 4 trang 10) là gì?",
+      "options": [
+        { "text": "professional (adj) (/prəˈfeʃ.ən.əl/)", "isCorrect": true },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false }
+      ],
+      "explanation": "professional (adj): có kỹ năng, trình độ chuyên môn cao."
+    },
+    {
+      "id": 257,
+      "question": "Nghĩa của từ: 'mở rộng' (Câu 5 trang 10) là gì?",
+      "options": [
+        { "text": "expand (v) (/ɪkˈspænd/)", "isCorrect": true },
+        { "text": "increase (v)", "isCorrect": false },
+        { "text": "develop (v)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false }
+      ],
+      "explanation": "expand (v): làm cho lớn hơn về quy mô hoặc diện tích."
+    },
+    {
+      "id": 258,
+      "question": "Nghĩa của từ: 'hợp tác' (Câu 6 trang 10) là gì?",
+      "options": [
+        { "text": "collaborate (v) (/kəˈlæb.ə.reɪt/)", "isCorrect": true },
+        { "text": "cooperate (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false }
+      ],
+      "explanation": "collaborate (v): làm việc cùng nhau để đạt mục đích chung."
+    },
+    {
+      "id": 259,
+      "question": "Nghĩa của từ: 'trì hoãn' (Câu 7 trang 10) là gì?",
+      "options": [
+        { "text": "postpone (v) (/poʊstˈpoʊn/)", "isCorrect": true },
+        { "text": "delay (v)", "isCorrect": false },
+        { "text": "cancel (v)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "postpone (v): lùi lịch trình sang một thời điểm muộn hơn."
+    },
+    {
+      "id": 260,
+      "question": "Nghĩa của từ: 'chiến lược' (Câu 8 trang 10) là gì?",
+      "options": [
+        { "text": "strategy (n) (/ˈstræt̬.ə.dʒi/)", "isCorrect": true },
+        { "text": "plan (n)", "isCorrect": false },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false }
+      ],
+      "explanation": "strategy (n): kế hoạch hành động dài hạn."
+    },
+    {
+      "id": 261,
+      "question": "Nghĩa của từ: 'quan tâm/lo lắng' (Câu 9 trang 10) là gì?",
+      "options": [
+        { "text": "concern (n, v) (/kənˈsɝːn/)", "isCorrect": true },
+        { "text": "worry (v)", "isCorrect": false },
+        { "text": "interest (n)", "isCorrect": false },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false }
+      ],
+      "explanation": "concern: sự lo âu hoặc vấn đề cần quan tâm."
+    },
+    {
+      "id": 262,
+      "question": "Nghĩa của từ: 'lợi ích/tiền lãi' (Câu 10 trang 10) là gì?",
+      "options": [
+        { "text": "interest (n) (/ˈɪn.trɪst/)", "isCorrect": true },
+        { "text": "profit (n)", "isCorrect": false },
+        { "text": "benefit (n)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "interest: lãi suất ngân hàng hoặc sự hứng thú, quyền lợi."
+    },
+    {
+      "id": 263,
+      "question": "Nghĩa của từ: 'thỏa thuận' (Câu 11 trang 10) là gì?",
+      "options": [
+        { "text": "agreement (n) (/əˈɡriː.mənt/)", "isCorrect": true },
+        { "text": "contract (n)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false }
+      ],
+      "explanation": "agreement (n): sự đồng ý hoặc hợp đồng cam kết giữa các bên."
+    },
+    {
+      "id": 264,
+      "question": "Nghĩa của từ: 'thời hạn' (Câu 12 trang 10) là gì?",
+      "options": [
+        { "text": "deadline (n) (/ˈded.laɪn/)", "isCorrect": true },
+        { "text": "schedule (n)", "isCorrect": false },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false }
+      ],
+      "explanation": "deadline (n): thời điểm cuối cùng phải hoàn thành công việc."
+    },
+    {
+      "id": 265,
+      "question": "Nghĩa của từ: 'tài liệu/hồ sơ' (Câu 13 trang 10) là gì?",
+      "options": [
+        { "text": "document (n) (/ˈdɑː.kjə.mənt/)", "isCorrect": true },
+        { "text": "file (n)", "isCorrect": false },
+        { "text": "record (n)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false }
+      ],
+      "explanation": "document (n): văn bản chứa thông tin chính thức."
+    },
+    {
+      "id": 266,
+      "question": "Nghĩa của từ: 'nhiệm vụ' (Câu 14 trang 10) là gì?",
+      "options": [
+        { "text": "task (n) (/tæsk/)", "isCorrect": true },
+        { "text": "duty (n)", "isCorrect": false },
+        { "text": "mission (n)", "isCorrect": false },
+        { "text": "act (n) (/ækt/)", "isCorrect": false }
+      ],
+      "explanation": "task (n): một phần công việc cụ thể cần thực hiện."
+    },
+    {
+      "id": 267,
+      "question": "Nghĩa của từ: 'liên hệ' (Câu 15 trang 10) là gì?",
+      "options": [
+        { "text": "contact (v, n) (/ˈkɑːn.tækt/)", "isCorrect": true },
+        { "text": "connect (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": false }
+      ],
+      "explanation": "contact: giao tiếp hoặc thông tin liên lạc."
+    },
+    {
+      "id": 268,
+      "question": "Nghĩa của từ: 'ngân sách' (Câu 16 trang 10) là gì?",
+      "options": [
+        { "text": "budget (n) (/ˈbʌdʒ.ɪt/)", "isCorrect": true },
+        { "text": "fund (n)", "isCorrect": false },
+        { "text": "finance (n)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false }
+      ],
+      "explanation": "budget (n): số tiền dự tính để chi tiêu."
+    },
+    {
+      "id": 269,
+      "question": "Nghĩa của từ: 'giới thiệu/đề xuất' (Câu 17 trang 10) là gì?",
+      "options": [
+        { "text": "recommend (v) (/ˌrek.əˈmend/)", "isCorrect": true },
+        { "text": "suggest (v)", "isCorrect": false },
+        { "text": "advise (v)", "isCorrect": false },
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": false }
+      ],
+      "explanation": "recommend (v): khuyên nên chọn hoặc giới thiệu điều tốt."
+    },
+    {
+      "id": 270,
+      "question": "Nghĩa của từ: 'kết quả' (Câu 18 trang 10) là gì?",
+      "options": [
+        { "text": "result (n) (/rɪˈzʌlt/)", "isCorrect": true },
+        { "text": "outcome (n)", "isCorrect": false },
+        { "text": "effect (n)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "result (n): thứ thu được sau một hành động hoặc quá trình."
+    },
+    {
+      "id": 271,
+      "question": "Nghĩa của từ: 'năng suất/hiệu quả' là gì?",
+      "options": [
+        { "text": "efficiency (n) (/ɪˈfɪʃ.ən.si/)", "isCorrect": true },
+        { "text": "productivity (n)", "isCorrect": false },
+        { "text": "power (n)", "isCorrect": false },
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": false }
+      ],
+      "explanation": "efficiency (n): khả năng làm việc không lãng phí thời gian, công sức."
+    },
+    {
+      "id": 272,
+      "question": "Nghĩa của từ: 'giải quyết' (vấn đề) là gì?",
+      "options": [
+        { "text": "solve (v) (/sɑːlv/)", "isCorrect": true },
+        { "text": "resolve (v)", "isCorrect": false },
+        { "text": "fix (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "solve (v): tìm ra câu trả lời hoặc cách xử lý khó khăn."
+    },
+    {
+      "id": 273,
+      "question": "Nghĩa của từ: 'đổi mới' là gì?",
+      "options": [
+        { "text": "innovate (v) (/ˈɪn.ə.veɪt/)", "isCorrect": true },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "expand (v) (/ɪkˈspænd/)", "isCorrect": false },
+        { "text": "design (v)", "isCorrect": false }
+      ],
+      "explanation": "innovate (v): đưa vào những ý tưởng hoặc phương pháp mới."
+    },
+    {
+      "id": 274,
+      "question": "Nghĩa của từ: 'sự cho phép' (danh từ) là gì?",
+      "options": [
+        { "text": "permission (n) (/pɚˈmɪʃ.ən/)", "isCorrect": true },
+        { "text": "allowance (n)", "isCorrect": false },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false }
+      ],
+      "explanation": "permission (n): danh từ của allow/permit."
+    },
+    {
+      "id": 275,
+      "question": "Nghĩa của từ: 'lịch trình' là gì?",
+      "options": [
+        { "text": "itinerary (n) (/aɪˈtɪn.ə.rer.i/)", "isCorrect": true },
+        { "text": "schedule (n)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false }
+      ],
+      "explanation": "itinerary (n): kế hoạch chi tiết cho một chuyến đi."
+    },
+    {
+      "id": 276,
+      "question": "Nghĩa của từ: 'hợp đồng' là gì?",
+      "options": [
+        { "text": "contract (n) (/ˈkɑːn.trækt/)", "isCorrect": true },
+        { "text": "agreement (n) (/əˈɡriː.mənt/)", "isCorrect": false },
+        { "text": "document (n) (/ˈdɑː.kjə.mənt/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false }
+      ],
+      "explanation": "contract (n): văn bản pháp lý ràng buộc giữa hai bên."
+    },
+    {
+      "id": 277,
+      "question": "Nghĩa của từ: 'thương lượng' là gì?",
+      "options": [
+        { "text": "negotiate (v) (/nəˈɡoʊ.ʃi.eɪt/)", "isCorrect": true },
+        { "text": "discuss (v)", "isCorrect": false },
+        { "text": "collaborate (v) (/kəˈlæb.ə.reɪt/)", "isCorrect": false },
+        { "text": "match (v) (/mætʃ/)", "isCorrect": false }
+      ],
+      "explanation": "negotiate (v): đàm phán để đạt được thỏa thuận."
+    },
+    {
+      "id": 278,
+      "question": "Nghĩa của từ: 'khách hàng' là gì?",
+      "options": [
+        { "text": "client (n) (/ˈklaɪ.ənt/)", "isCorrect": true },
+        { "text": "customer (n)", "isCorrect": false },
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": false },
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": false }
+      ],
+      "explanation": "client (n): người sử dụng dịch vụ chuyên nghiệp."
+    },
+    {
+      "id": 279,
+      "question": "Nghĩa của từ: 'doanh thu' là gì?",
+      "options": [
+        { "text": "revenue (n) (/ˈrev.ə.nuː/)", "isCorrect": true },
+        { "text": "profit (n)", "isCorrect": false },
+        { "text": "budget (n) (/ˈbʌdʒ.ɪt/)", "isCorrect": false },
+        { "text": "interest (n) (/ˈɪn.trɪst/)", "isCorrect": false }
+      ],
+      "explanation": "revenue (n): tổng số tiền thu được từ kinh doanh."
+    },
+    {
+      "id": 280,
+      "question": "Nghĩa của từ: 'lợi nhuận' là gì?",
+      "options": [
+        { "text": "profit (n) (/ˈprɑː.fɪt/)", "isCorrect": true },
+        { "text": "revenue (n) (/ˈrev.ə.nuː/)", "isCorrect": false },
+        { "text": "budget (n) (/ˈbʌdʒ.ɪt/)", "isCorrect": false },
+        { "text": "interest (n) (/ˈɪn.trɪst/)", "isCorrect": false }
+      ],
+      "explanation": "profit (n): tiền lãi sau khi trừ chi phí."
+    },
+    {
+      "id": 281,
+      "question": "Nghĩa của từ: 'tư vấn' là gì?",
+      "options": [
+        { "text": "consult (v) (/kənˈsʌlt/)", "isCorrect": true },
+        { "text": "advise (v)", "isCorrect": false },
+        { "text": "recommend (v) (/ˌrek.əˈmend/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪs.tənt/)", "isCorrect": false }
+      ],
+      "explanation": "consult (v): hỏi ý kiến chuyên gia hoặc tra cứu thông tin."
+    },
+    {
+      "id": 282,
+      "question": "Nghĩa của từ: 'đồ tiếp liệu' là gì?",
+      "options": [
+        { "text": "supplies (n) (/səˈplaɪz/)", "isCorrect": true },
+        { "text": "equipment (n)", "isCorrect": false },
+        { "text": "inventory (n)", "isCorrect": false },
+        { "text": "budget (n) (/ˈbʌdʒ.ɪt/)", "isCorrect": false }
+      ],
+      "explanation": "supplies (n): các vật dụng cần thiết cho hoạt động hàng ngày (như văn phòng phẩm)."
+    },
+    {
+      "id": 283,
+      "question": "Nghĩa của từ: 'nhà cung cấp' là gì?",
+      "options": [
+        { "text": "vendor (n) (/ˈven.dɚ/)", "isCorrect": true },
+        { "text": "supplier (n)", "isCorrect": false },
+        { "text": "client (n) (/ˈklaɪ.ənt/)", "isCorrect": false },
+        { "text": "official (n) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "vendor (n): người hoặc công ty bán hàng hóa/dịch vụ."
+    },
+    {
+      "id": 284,
+      "question": "Nghĩa của từ: 'tổ chức/doanh nghiệp' là gì?",
+      "options": [
+        { "text": "enterprise (n) (/ˈen.t̬ɚ.praɪz/)", "isCorrect": true },
+        { "text": "corporation (n)", "isCorrect": false },
+        { "text": "firm (n)", "isCorrect": false },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false }
+      ],
+      "explanation": "enterprise (n): một tổ chức kinh doanh hoặc dự án táo bạo."
+    },
+    {
+      "id": 285,
+      "question": "Nghĩa của từ: 'phản hồi' là gì?",
+      "options": [
+        { "text": "feedback (n) (/ˈfiːd.bæk/)", "isCorrect": true },
+        { "text": "response (n)", "isCorrect": false },
+        { "text": "comment (n)", "isCorrect": false },
+        { "text": "poll (n) (/poul/)", "isCorrect": false }
+      ],
+      "explanation": "feedback (n): ý kiến phản hồi về một sản phẩm hoặc công việc."
+    },
+    {
+      "id": 286,
+      "question": "Nghĩa của từ: 'thăng tiến/quảng bá' là gì?",
+      "options": [
+        { "text": "promote (v) (/prəˈmoʊt/)", "isCorrect": true },
+        { "text": "advance (v)", "isCorrect": false },
+        { "text": "expand (v) (/ɪkˈspænd/)", "isCorrect": false },
+        { "text": "recommend (v) (/ˌrek.əˈmend/)", "isCorrect": false }
+      ],
+      "explanation": "promote (v): nâng chức hoặc đẩy mạnh việc bán hàng."
+    },
+    {
+      "id": 287,
+      "question": "Nghĩa của từ: 'đơn xin việc/ứng dụng' là gì?",
+      "options": [
+        { "text": "application (n) (/ˌæp.ləˈkeɪ.ʃən/)", "isCorrect": true },
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": false },
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": false },
+        { "text": "document (n) (/ˈdɑː.kjə.mənt/)", "isCorrect": false }
+      ],
+      "explanation": "application (n): tờ đơn hoặc phần mềm máy tính."
+    },
+    {
+      "id": 288,
+      "question": "Nghĩa của từ: 'đào tạo' là gì?",
+      "options": [
+        { "text": "training (n) (/ˈtreɪ.nɪŋ/)", "isCorrect": true },
+        { "text": "coaching (n)", "isCorrect": false },
+        { "text": "education (n)", "isCorrect": false },
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": false }
+      ],
+      "explanation": "training (n): việc dạy kỹ năng cho công việc cụ thể."
+    },
+    {
+      "id": 289,
+      "question": "Nghĩa của từ: 'năng lực' là gì?",
+      "options": [
+        { "text": "capacity (n) (/kəˈpæs.ə.t̬i/)", "isCorrect": true },
+        { "text": "ability (n)", "isCorrect": false },
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false },
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": false }
+      ],
+      "explanation": "capacity (n): sức chứa hoặc khả năng làm việc."
+    },
+    {
+      "id": 290,
+      "question": "Nghĩa của từ: 'đảm bảo' là gì?",
+      "options": [
+        { "text": "ensure (v) (/ɪnˈʃʊr/)", "isCorrect": true },
+        { "text": "guarantee (v)", "isCorrect": false },
+        { "text": "assure (v)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "ensure (v): làm cho điều gì đó chắc chắn xảy ra."
+    },
+    {
+      "id": 291,
+      "question": "Nghĩa của từ: 'trách nhiệm' là gì?",
+      "options": [
+        { "text": "responsibility (n) (/rɪˌspɑːn.səˈbɪl.ə.t̬i/)", "isCorrect": true },
+        { "text": "duty (n)", "isCorrect": false },
+        { "text": "task (n) (/tæsk/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "responsibility (n): bổn phận phải thực hiện hoặc chịu trách nhiệm."
+    },
+    {
+      "id": 292,
+      "question": "Nghĩa của từ: 'tăng lên' là gì?",
+      "options": [
+        { "text": "increase (v) (/ɪnˈkriːs/)", "isCorrect": true },
+        { "text": "expand (v) (/ɪkˈspænd/)", "isCorrect": false },
+        { "text": "promote (v) (/prəˈmoʊt/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false }
+      ],
+      "explanation": "increase (v): làm cho lớn hơn về số lượng hoặc mức độ."
+    },
+    {
+      "id": 293,
+      "question": "Nghĩa của từ: 'giảm xuống' là gì?",
+      "options": [
+        { "text": "decrease (v) (/dɪˈkriːs/)", "isCorrect": true },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false },
+        { "text": "postpone (v) (/poʊstˈpoʊn/)", "isCorrect": false },
+        { "text": "decrease (n)", "isCorrect": false }
+      ],
+      "explanation": "decrease (v): làm cho nhỏ đi hoặc ít đi."
+    },
+    {
+      "id": 294,
+      "question": "Nghĩa của từ: 'giải pháp' là gì?",
+      "options": [
+        { "text": "solution (n) (/səˈluː.ʃən/)", "isCorrect": true },
+        { "text": "result (n) (/rɪˈzʌlt/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false }
+      ],
+      "explanation": "solution (n): cách để giải quyết một vấn đề."
+    },
+    {
+      "id": 295,
+      "question": "Nghĩa của từ: 'phân tích' là gì?",
+      "options": [
+        { "text": "analyze (v) (/ˈæn.əl.aɪz/)", "isCorrect": true },
+        { "text": "consult (v) (/kənˈsʌlt/)", "isCorrect": false },
+        { "text": "negotiate (v) (/nəˈɡoʊ.ʃi.eɪt/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "analyze (v): nghiên cứu chi tiết để hiểu rõ bản chất."
+    },
+    {
+      "id": 296,
+      "question": "Nghĩa của từ: 'đánh giá' là gì?",
+      "options": [
+        { "text": "evaluate (v) (/ɪˈvæl.ju.eɪt/)", "isCorrect": true },
+        { "text": "recommend (v) (/ˌrek.əˈmend/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "innovate (v) (/ˈɪn.ə.veɪt/)", "isCorrect": false }
+      ],
+      "explanation": "evaluate (v): nhận định giá trị hoặc chất lượng của thứ gì đó."
+    },
+    {
+      "id": 297,
+      "question": "Nghĩa của từ: 'mục tiêu' là gì?",
+      "options": [
+        { "text": "objective (n) (/əbˈdʒek.tɪv/)", "isCorrect": true },
+        { "text": "goal (n)", "isCorrect": false },
+        { "text": "target (n)", "isCorrect": false },
+        { "text": "strategy (n) (/ˈstræt̬.ə.dʒi/)", "isCorrect": false }
+      ],
+      "explanation": "objective (n): thứ mà người ta cố gắng đạt được."
+    },
+    {
+      "id": 298,
+      "question": "Nghĩa của từ: 'linh hoạt' là gì?",
+      "options": [
+        { "text": "flexible (adj) (/ˈflek.sə.bəl/)", "isCorrect": true },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "flexible (adj): có thể thay đổi để phù hợp với hoàn cảnh."
+    },
+    {
+      "id": 299,
+      "question": "Nghĩa của từ: 'tạm thời' là gì?",
+      "options": [
+        { "text": "temporary (adj) (/ˈtem.pə.rer.i/)", "isCorrect": true },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false }
+      ],
+      "explanation": "temporary (adj): chỉ diễn ra trong một thời gian ngắn."
+    },
+    {
+      "id": 300,
+      "question": "Nghĩa của từ: 'vĩnh viễn' là gì?",
+      "options": [
+        { "text": "permanent (adj) (/ˈpɝː.mə.nənt/)", "isCorrect": true },
+        { "text": "temporary (adj) (/ˈtem.pə.rer.i/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false }
+      ],
+      "explanation": "permanent (adj): lâu dài, không thay đổi."
+    },
+    {
+      "id": 301,
+      "question": "Nghĩa của từ: 'phù hợp/thích hợp' là gì?",
+      "options": [
+        { "text": "appropriate (adj) (/əˈproʊ.pri.ət/)", "isCorrect": true },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "flexible (adj) (/ˈflek.sə.bəl/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false }
+      ],
+      "explanation": "appropriate (adj): đúng và phù hợp với hoàn cảnh."
+    },
+    {
+      "id": 302,
+      "question": "Nghĩa của từ: 'thực hiện/triển khai' là gì?",
+      "options": [
+        { "text": "implement (v) (/ˈɪm.plə.ment/)", "isCorrect": true },
+        { "text": "act (v) (/ækt/)", "isCorrect": false },
+        { "text": "innovate (v) (/ˈɪn.ə.veɪt/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false }
+      ],
+      "explanation": "implement (v): bắt đầu thực hiện một kế hoạch hoặc hệ thống."
+    },
+    {
+      "id": 303,
+      "question": "Nghĩa của từ: 'ưu tiên' là gì?",
+      "options": [
+        { "text": "priority (n) (/praɪˈɔːr.ə.t̬i/)", "isCorrect": true },
+        { "text": "preference (n)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "objective (n) (/əbˈdʒek.tɪv/)", "isCorrect": false }
+      ],
+      "explanation": "priority (n): thứ quan trọng nhất cần làm trước."
+    },
+    {
+      "id": 304,
+      "question": "Nghĩa của từ: 'đóng góp' là gì?",
+      "options": [
+        { "text": "contribute (v) (/kənˈtrɪb.juːt/)", "isCorrect": true },
+        { "text": "donate (v) (/ˈdoʊ.neɪt/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "collaborate (v) (/kəˈlæb.ə.reɪt/)", "isCorrect": false }
+      ],
+      "explanation": "contribute (v): góp phần hoặc tặng tiền/công sức."
+    },
+    {
+      "id": 305,
+      "question": "Nghĩa của từ: 'tiêu chuẩn' là gì?",
+      "options": [
+        { "text": "standard (n) (/ˈstæn.dɚd/)", "isCorrect": true },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "standard (n): mức độ chất lượng được chấp nhận rộng rãi."
+    },
+    {
+      "id": 306,
+      "question": "Nghĩa của từ: 'tối ưu hóa' là gì?",
+      "options": [
+        { "text": "optimize (v) (/ˈɑːp.tə.maɪz/)", "isCorrect": true },
+        { "text": "improve (v)", "isCorrect": false },
+        { "text": "innovate (v) (/ˈɪn.ə.veɪt/)", "isCorrect": false },
+        { "text": "expand (v) (/ɪkˈspænd/)", "isCorrect": false }
+      ],
+      "explanation": "optimize (v): làm cho thứ gì đó hoạt động hiệu quả nhất có thể."
+    },
+    {
+      "id": 307,
+      "question": "Nghĩa của từ: 'sự tham gia' là gì?",
+      "options": [
+        { "text": "participation (n) (/pɑːrˌtɪs.əˈpeɪ.ʃən/)", "isCorrect": true },
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": false },
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": false },
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": false }
+      ],
+      "explanation": "participation (n): danh từ của participate."
+    },
+    {
+      "id": 308,
+      "question": "Nghĩa của từ: 'phức tạp' là gì?",
+      "options": [
+        { "text": "complex (adj) (/kɑːmˈpleks/)", "isCorrect": true },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "complex (adj): có nhiều phần liên quan khó hiểu."
+    },
+    {
+      "id": 309,
+      "question": "Nghĩa của từ: 'hiệu quả' (kết quả mong đợi) là gì?",
+      "options": [
+        { "text": "effective (adj) (/əˈfek.tɪv/)", "isCorrect": true },
+        { "text": "efficiency (n) (/ɪˈfɪʃ.ən.si/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "professional (adj) (/prəˈfeʃ.ən.əl/)", "isCorrect": false }
+      ],
+      "explanation": "effective (adj): đem lại kết quả như ý muốn."
+    }
+  ]
+}
