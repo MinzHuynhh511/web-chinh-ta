@@ -3,14 +3,12 @@
 
 import luyentap from './luyen-tap.json';
 import tracnghiemtoeicp1 from './TA_309_cau_p1.json';
-import toeicp2 from './TA_309_cau_p2.json';
 
 // Mảng này tự động được đọc để hiển thị trang chủ
 // Thứ tự trong mảng = thứ tự hiển thị trên trang chủ
 const allQuizzes = [
   luyentap,
-  tracnghiemtoeicp1,
-  toeicp2
+  tracnghiemtoeicp1
 ];
 
 export default allQuizzes;
