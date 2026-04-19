@@ -1,0 +1,724 @@
+{
+  "id": "luyen-tap-tu-vung-tieng-anh-01",
+  "title": "Luyện Tập Từ Vựng Tiếng Anh - Bài 1",
+  "description": "Bài trắc nghiệm kiểm tra từ vựng tiếng Anh tổng hợp",
+  "icon": "📚",
+  "color": "#10b981",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Nghĩa của từ: 'sự giúp đỡ, hỗ trợ' là gì?",
+      "options": [
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": true },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false }
+      ],
+      "explanation": "'assistance (n)' có nghĩa là sự giúp đỡ, hỗ trợ."
+    },
+    {
+      "id": 2,
+      "question": "Nghĩa của từ: 'gần đây, xảy ra gần đây, mới đây' là gì?",
+      "options": [
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": true },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false }
+      ],
+      "explanation": "'recent (adj)' có nghĩa là gần đây, mới đây."
+    },
+    {
+      "id": 3,
+      "question": "Nghĩa của từ: 'giao thông' là gì?",
+      "options": [
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": true },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "'traffic (n)' có nghĩa là giao thông."
+    },
+    {
+      "id": 4,
+      "question": "Nghĩa của từ: '(thuộc) vùng; địa phương' là gì?",
+      "options": [
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": true }
+      ],
+      "explanation": "'regional (adj)' có nghĩa là (thuộc) vùng, địa phương."
+    },
+    {
+      "id": 5,
+      "question": "Nghĩa của từ: 'đi lại' là gì?",
+      "options": [
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false },
+        { "text": "commute (v) (/kəˈmjuːt/)", "isCorrect": true },
+        { "text": "allow (v) (/əˈlaʊ/)", "isCorrect": false },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": false }
+      ],
+      "explanation": "'commute (v)' là động từ chỉ hành động đi lại (thường là đi làm)."
+    },
+    {
+      "id": 6,
+      "question": "Nghĩa của từ: 'hoàn cảnh, tình huống' là gì?",
+      "options": [
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": false },
+        { "text": "circumstance (n) (/ˈsɝː.kəm.stæns/)", "isCorrect": true },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "intersection (n) (/ˌɪn.təˈsek.ʃən/)", "isCorrect": false }
+      ],
+      "explanation": "'circumstance (n)' có nghĩa là hoàn cảnh, tình huống."
+    },
+    {
+      "id": 7,
+      "question": "Nghĩa của từ: 'người đi lại (trên tàu, xe...)' là gì?",
+      "options": [
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": true }
+      ],
+      "explanation": "'commuter (n)' là danh từ chỉ người đi lại thường xuyên bằng phương tiện giao thông."
+    },
+    {
+      "id": 8,
+      "question": "Nghĩa của từ: 'độ nghiêng, độ dốc' là gì?",
+      "options": [
+        { "text": "lean (n) (/li:n/)", "isCorrect": true },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "'lean (n)' có nghĩa là độ nghiêng, sự nghiêng."
+    },
+    {
+      "id": 9,
+      "question": "Nghĩa của từ: 'cho phép, để cho' là gì?",
+      "options": [
+        { "text": "commute (v) (/kəˈmjuːt/)", "isCorrect": false },
+        { "text": "allow (v) (/əˈlaʊ/)", "isCorrect": true },
+        { "text": "lean (n) (/li:n/)", "isCorrect": false },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false }
+      ],
+      "explanation": "'allow (v)' là động từ mang nghĩa cho phép."
+    },
+    {
+      "id": 10,
+      "question": "Nghĩa của từ: 'sự báo động; báo động' là gì?",
+      "options": [
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": true },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "lean (n) (/li:n/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false }
+      ],
+      "explanation": "'alarm (n)' có nghĩa là sự báo động."
+    },
+    {
+      "id": 11,
+      "question": "Nghĩa của từ: 'giao lộ, ngã tư' là gì?",
+      "options": [
+        { "text": "intersection (n) (/ˌɪn.təˈsek.ʃən/)", "isCorrect": true },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "circumstance (n) (/ˈsɝː.kəm.stæns/)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false }
+      ],
+      "explanation": "'intersection (n)' có nghĩa là giao lộ, ngã tư đường."
+    },
+    {
+      "id": 12,
+      "question": "Nghĩa của từ: 'sự va đập, va đập' là gì?",
+      "options": [
+        { "text": "crash (n, v) (/kræʃ/)", "isCorrect": true },
+        { "text": "allow (v) (/əˈlaʊ/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false }
+      ],
+      "explanation": "'crash' mang nghĩa là sự va đập, đâm sầm vào."
+    },
+    {
+      "id": 13,
+      "question": "Nghĩa của từ: 'sự công bằng, luật pháp' là gì?",
+      "options": [
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": true },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false }
+      ],
+      "explanation": "'justice (n)' có nghĩa là sự công bằng, công lý."
+    },
+    {
+      "id": 14,
+      "question": "Nghĩa của từ: 'hẹp, chật hẹp' là gì?",
+      "options": [
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": true },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false }
+      ],
+      "explanation": "'narrow (adj)' là tính từ chỉ sự chật hẹp."
+    },
+    {
+      "id": 15,
+      "question": "Nghĩa của từ: 'tai nạn, sự tình cờ' là gì?",
+      "options": [
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": false },
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": true }
+      ],
+      "explanation": "'accident (n)' có nghĩa là tai nạn, sự cố."
+    },
+    {
+      "id": 16,
+      "question": "Nghĩa của từ: 'xe đưa đón' là gì?",
+      "options": [
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": true },
+        { "text": "alarm (n) (/əˈlɑːrm/)", "isCorrect": false },
+        { "text": "justice (n) (/ˈdʒʌs.tɪs/)", "isCorrect": false },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false }
+      ],
+      "explanation": "'shuttle (n)' là danh từ chỉ các tuyến xe buýt/xe đưa đón."
+    },
+    {
+      "id": 17,
+      "question": "Nghĩa của từ: 'trường hợp khẩn cấp' là gì?",
+      "options": [
+        { "text": "accident (n) (/ˈæk.sə.dənt/)", "isCorrect": false },
+        { "text": "commuter (n) (/kəˈmjuː.t̬ɚ/)", "isCorrect": false },
+        { "text": "assistance (n) (/əˈsɪs.təns/)", "isCorrect": false },
+        { "text": "emergency (n) (/ɪˈmɝː.dʒən.si/)", "isCorrect": true }
+      ],
+      "explanation": "'emergency (n)' có nghĩa là tình huống khẩn cấp, trường hợp cấp cứu."
+    },
+    {
+      "id": 18,
+      "question": "Nghĩa của từ: 'tham vọng' là gì?",
+      "options": [
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": false },
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": false },
+        { "text": "ambitious (adj) (/æmˈbɪʃ.əs/)", "isCorrect": true }
+      ],
+      "explanation": "'ambitious (adj)' có nghĩa là tham vọng, có nhiều hoài bão."
+    },
+    {
+      "id": 19,
+      "question": "Nghĩa của từ: 'sự bầu cử; số phiếu bầu' là gì?",
+      "options": [
+        { "text": "poll (n) (/poul/)", "isCorrect": true },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false }
+      ],
+      "explanation": "'poll (n)' có nghĩa là sự bầu cử, cuộc thăm dò ý kiến hoặc số phiếu bầu."
+    },
+    {
+      "id": 20,
+      "question": "Nghĩa của từ: 'sự ứng cử' là gì?",
+      "options": [
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "candidacy (n) (/ˈkæn.dɪ.də.si/)", "isCorrect": true },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false }
+      ],
+      "explanation": "'candidacy (n)' có nghĩa là sự ứng cử."
+    },
+    {
+      "id": 21,
+      "question": "Nghĩa của từ: 'chỉ định, bổ nhiệm' là gì?",
+      "options": [
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": false },
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": true },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "donate (v) (/ˈdoʊ.neɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'designate (v)' có nghĩa là chỉ định, bổ nhiệm ai đó vào một chức vụ."
+    },
+    {
+      "id": 22,
+      "question": "Nghĩa của từ: 'hành động; thực hiện' là gì?",
+      "options": [
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": false },
+        { "text": "poll (n) (/poul/)", "isCorrect": false },
+        { "text": "act (n, v) (/ækt/)", "isCorrect": true },
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": false }
+      ],
+      "explanation": "'act (n, v)' có nghĩa là hành động, thực hiện."
+    },
+    {
+      "id": 23,
+      "question": "Nghĩa của từ: 'chương trình nghị sự, kế hoạch chương trình' là gì?",
+      "options": [
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": true },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false }
+      ],
+      "explanation": "'agenda (n)' là chương trình nghị sự hoặc kế hoạch làm việc."
+    },
+    {
+      "id": 24,
+      "question": "Nghĩa của từ: 'sức mạnh, quyền lực' là gì?",
+      "options": [
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "poll (n) (/poul/)", "isCorrect": false },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": true }
+      ],
+      "explanation": "'force (n)' có nghĩa là sức mạnh, lực lượng."
+    },
+    {
+      "id": 25,
+      "question": "Nghĩa của từ: 'nhân viên, công chức (cơ quan, nhà máy...)' là gì?",
+      "options": [
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": true },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false }
+      ],
+      "explanation": "'personnel (n)' có nghĩa là nhân viên, nhân sự."
+    },
+    {
+      "id": 26,
+      "question": "Nghĩa của từ: 'cuộc họp' là gì?",
+      "options": [
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false },
+        { "text": "meeting (n) (/'mi:tiɳ/)", "isCorrect": true },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false }
+      ],
+      "explanation": "'meeting (n)' có nghĩa là cuộc họp, hội nghị."
+    },
+    {
+      "id": 27,
+      "question": "Nghĩa của từ: 'sự giúp đỡ; cứu trợ, viện trợ' là gì?",
+      "options": [
+        { "text": "force (n) (/fɔːrs/)", "isCorrect": false },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "aid (n, v) (/eɪd/)", "isCorrect": true },
+        { "text": "poll (n) (/poul/)", "isCorrect": false }
+      ],
+      "explanation": "'aid (n, v)' có nghĩa là sự giúp đỡ, cứu trợ."
+    },
+    {
+      "id": 28,
+      "question": "Nghĩa của từ: 'quyền thế, nhà chức trách, chính quyền' là gì?",
+      "options": [
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": true },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false }
+      ],
+      "explanation": "'authority (n)' có nghĩa là quyền thế, nhà chức trách."
+    },
+    {
+      "id": 29,
+      "question": "Nghĩa của từ: '(thuộc) chính quyền; (thuộc) văn phòng' là gì?",
+      "options": [
+        { "text": "ambitious (adj) (/æmˈbɪʃ.əs/)", "isCorrect": false },
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": false },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "official (adj) (/ə'fiʃəl/)", "isCorrect": true }
+      ],
+      "explanation": "'official (adj)' có nghĩa là chính thức, thuộc về chính quyền."
+    },
+    {
+      "id": 30,
+      "question": "Nghĩa của từ: 'quyên góp, đóng góp' là gì?",
+      "options": [
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "donate (v) (/ˈdoʊ.neɪt/)", "isCorrect": true },
+        { "text": "designate (v) (/ˈdez.ɪɡ.neɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'donate (v)' có nghĩa là quyên góp, tài trợ."
+    },
+    {
+      "id": 31,
+      "question": "Nghĩa của từ: 'hoạt động chính trị, công việc chính trị' là gì?",
+      "options": [
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": true },
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false }
+      ],
+      "explanation": "'politics (n)' có nghĩa là hoạt động chính trị."
+    },
+    {
+      "id": 32,
+      "question": "Nghĩa của từ: 'tổ chức từ thiện' là gì?",
+      "options": [
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "meeting (n) (/'mi:tiɳ/)", "isCorrect": false },
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": true }
+      ],
+      "explanation": "'charity (n)' có nghĩa là hội từ thiện, tổ chức từ thiện."
+    },
+    {
+      "id": 33,
+      "question": "Nghĩa của từ: 'nhà chính trị; chính khách' là gì?",
+      "options": [
+        { "text": "authority (n) (/əˈθɔːr.ə.t̬i/)", "isCorrect": false },
+        { "text": "politician (n) (/,pɒlə'tɪʃn/)", "isCorrect": true },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "personnel (n) (/¸pə:sə´nel/)", "isCorrect": false }
+      ],
+      "explanation": "'politician (n)' có nghĩa là nhà chính trị gia, chính khách."
+    },
+    {
+      "id": 34,
+      "question": "Nghĩa của từ: 'chính sách (của chính phủ, đảng...)' là gì?",
+      "options": [
+        { "text": "act (n, v) (/ækt/)", "isCorrect": false },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "policy (n) (/pɔlisi/)", "isCorrect": true },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false }
+      ],
+      "explanation": "'policy (n)' có nghĩa là chính sách."
+    },
+    {
+      "id": 35,
+      "question": "Nghĩa của từ: 'chiến dịch, cuộc vận động' là gì?",
+      "options": [
+        { "text": "campaign (n) (/kæmˈpeɪn/)", "isCorrect": true },
+        { "text": "politics (n) (/'pɔlitiks/)", "isCorrect": false },
+        { "text": "charity (n) (/ˈtʃer.ə.t̬i/)", "isCorrect": false },
+        { "text": "agenda (n) (/əˈdʒen.də/)", "isCorrect": false }
+      ],
+      "explanation": "'campaign (n)' có nghĩa là chiến dịch (chính trị, quảng cáo...)."
+    },
+	{
+      "id": 36,
+      "question": "Nghĩa của từ: 'tổng quát, chung chung' là gì?",
+      "options": [
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": true },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "'general (adj)' có nghĩa là chung, tổng quát."
+    },
+    {
+      "id": 37,
+      "question": "Nghĩa của từ: 'lý tưởng' là gì?",
+      "options": [
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": true }
+      ],
+      "explanation": "'ideal (adj)' có nghĩa là lý tưởng."
+    },
+    {
+      "id": 38,
+      "question": "Nghĩa của từ: 'sắp tới, sắp diễn ra' là gì?",
+      "options": [
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": true }
+      ],
+      "explanation": "'upcoming (adj)' có nghĩa là sắp tới, sắp xảy ra."
+    },
+    {
+      "id": 39,
+      "question": "Nghĩa của từ: 'chính xác' là gì?",
+      "options": [
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false },
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": true }
+      ],
+      "explanation": "'exact (adj)' có nghĩa là chính xác."
+    },
+    {
+      "id": 40,
+      "question": "Nghĩa của từ: 'ủng hộ, khuyến khích' là gì?",
+      "options": [
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": true },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "'support (v)' có nghĩa là ủng hộ, hỗ trợ."
+    },
+    {
+      "id": 41,
+      "question": "Nghĩa của từ: 'nâng cấp, cập nhật' là gì?",
+      "options": [
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": true },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "'update (v)' có nghĩa là cập nhật hoặc nâng cấp."
+    },
+    {
+      "id": 42,
+      "question": "Nghĩa của từ: 'vận chuyển' là gì?",
+      "options": [
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": true },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false }
+      ],
+      "explanation": "'transit (n)' có nghĩa là sự đi qua, sự vận chuyển."
+    },
+    {
+      "id": 43,
+      "question": "Nghĩa của từ: 'địa điểm (xây dựng)' là gì?",
+      "options": [
+        { "text": "site (n) (/saɪt/)", "isCorrect": true },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'site (n)' thường dùng để chỉ một địa điểm xây dựng hoặc vị trí cụ thể."
+    },
+    {
+      "id": 44,
+      "question": "Nghĩa của từ: 'giúp đỡ, trợ lý' là gì?",
+      "options": [
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": true },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "'assist (v)' có nghĩa là hỗ trợ, giúp đỡ."
+    },
+    {
+      "id": 45,
+      "question": "Nghĩa của từ: 'kích thước, khổ' là gì?",
+      "options": [
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": true },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false }
+      ],
+      "explanation": "'dimension (n)' có nghĩa là kích thước (chiều rộng, chiều cao...)."
+    },
+    {
+      "id": 46,
+      "question": "Nghĩa của từ: 'sự thử nghiệm' là gì?",
+      "options": [
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": true },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'trial (n)' có nghĩa là việc dùng thử, thử nghiệm."
+    },
+    {
+      "id": 47,
+      "question": "Nghĩa của từ: 'giai đoạn' là gì?",
+      "options": [
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": true },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "'stage' có nghĩa là giai đoạn hoặc sân khấu."
+    },
+    {
+      "id": 48,
+      "question": "Nghĩa của từ: 'chỗ trống' là gì?",
+      "options": [
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": true },
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false }
+      ],
+      "explanation": "'vacancy (n)' có nghĩa là một vị trí hoặc chỗ còn trống (thường trong tuyển dụng)."
+    },
+	{
+      "id": 49,
+      "question": "Nghĩa của từ: 'người điều hành' là gì?",
+      "options": [
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": true },
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false }
+      ],
+      "explanation": "'executive (n)' là người điều hành hoặc quản trị cấp cao."
+    },
+    {
+      "id": 50,
+      "question": "Nghĩa của từ: 'chuyên gia' là gì?",
+      "options": [
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": true },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'expert (n)' có nghĩa là người am hiểu tường tận, chuyên gia."
+    },
+    {
+      "id": 51,
+      "question": "Nghĩa của từ: 'người xin việc, ứng cử viên' là gì?",
+      "options": [
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": true },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false }
+      ],
+      "explanation": "'candidate (n)' là ứng cử viên hoặc người dự tuyển."
+    },
+    {
+      "id": 52,
+      "question": "Nghĩa của từ: 'đối thủ cạnh tranh' là gì?",
+      "options": [
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false },
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": true },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false }
+      ],
+      "explanation": "'competitor (n)' là người hoặc công ty đối trọng, đối thủ cạnh tranh."
+    },
+	{
+      "id": 53,
+      "question": "Nghĩa của từ: 'người tham gia' là gì?",
+      "options": [
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": false },
+        { "text": "participant (n) (/pɑːrˈtɪs.ə.pənt/)", "isCorrect": true },
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": false },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false }
+      ],
+      "explanation": "'participant (n)' là người tham gia vào một hoạt động hoặc sự kiện."
+    },
+    {
+      "id": 54,
+      "question": "Nghĩa của từ: 'người nộp đơn, ứng cử viên' là gì?",
+      "options": [
+        { "text": "applicant (n) (/ˈæp.lɪ.kənt/)", "isCorrect": true },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false },
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "competitor (n) (/kəmˈpet̬.ə.t̬ɚ/)", "isCorrect": false }
+      ],
+      "explanation": "'applicant (n)' là người nộp đơn xin việc hoặc xin một vị trí nào đó."
+    },
+    {
+      "id": 55,
+      "question": "Nghĩa của từ: 'trợ lý' là gì?",
+      "options": [
+        { "text": "executive (n) (/ɪɡˈzek.jə.t̬ɪv/)", "isCorrect": false },
+        { "text": "candidate (n) (/ˈkæn.dɪ.deɪt/)", "isCorrect": false },
+        { "text": "assistant (n) (/əˈsɪs.tənt/)", "isCorrect": true },
+        { "text": "expert (n) (/ˈek.spɝːt/)", "isCorrect": false }
+      ],
+      "explanation": "'assistant (n)' có nghĩa là người trợ lý, người giúp đỡ."
+    },
+    {
+      "id": 56,
+      "question": "Nghĩa của từ: 'địa điểm, vũng' là gì?",
+      "options": [
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "site (n) (/saɪt/)", "isCorrect": true },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false }
+      ],
+      "explanation": "'site (n)' là địa điểm, vị trí hoặc công trường."
+    },
+    {
+      "id": 57,
+      "question": "Nghĩa của từ: 'chính xác (về số liệu, chi tiết)' là gì?",
+      "options": [
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": true },
+        { "text": "recent (adj) (/´ri:sənt/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": false }
+      ],
+      "explanation": "'exact (adj)' có nghĩa là chính xác, không sai lệch."
+    },
+    {
+      "id": 58,
+      "question": "Nghĩa của từ: 'sắp xảy ra' là gì?",
+      "options": [
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": true },
+        { "text": "regional (adj) (/ˈridʒənl/)", "isCorrect": false },
+        { "text": "narrow (adj) (/'nærou/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "'upcoming (adj)' là sắp tới hoặc sắp diễn ra."
+    },
+    {
+      "id": 59,
+      "question": "Nghĩa của từ: 'thông thường, chung' là gì?",
+      "options": [
+        { "text": "ideal (adj) (/aɪˈdiːəl/)", "isCorrect": false },
+        { "text": "general (adj) (/ˈdʒenrəl/)", "isCorrect": true },
+        { "text": "upcoming (adj) (/ˈʌpˌkʌm.ɪŋ/)", "isCorrect": false },
+        { "text": "exact (adj) (/ɪɡˈzækt/)", "isCorrect": false }
+      ],
+      "explanation": "'general (adj)' có nghĩa là chung chung, không cụ thể."
+    },
+    {
+      "id": 60,
+      "question": "Nghĩa của từ: 'việc dùng thử, sự thử nghiệm' là gì?",
+      "options": [
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": true },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false },
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": false }
+      ],
+      "explanation": "'trial (n)' có nghĩa là cuộc thử nghiệm hoặc sự dùng thử."
+    },
+	{
+      "id": 61,
+      "question": "Nghĩa của từ: 'giúp đỡ, hỗ trợ (động từ)' là gì?",
+      "options": [
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": true },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "'assist (v)' là động từ mang nghĩa giúp đỡ, trợ giúp."
+    },
+    {
+      "id": 62,
+      "question": "Nghĩa của từ: 'nâng cấp, cập nhật (động từ)' là gì?",
+      "options": [
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": true },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false },
+        { "text": "stage (v) (/steɪdʒ/)", "isCorrect": false }
+      ],
+      "explanation": "'update (v)' có nghĩa là cập nhật hoặc nâng cấp thông tin/phần mềm."
+    },
+    {
+      "id": 63,
+      "question": "Nghĩa của từ: 'sự vận chuyển, quá cảnh' là gì?",
+      "options": [
+        { "text": "transit (n) (/ˈtræn.zɪt/)", "isCorrect": true },
+        { "text": "shuttle (n) (/ˈʃʌt̬.əl/)", "isCorrect": false },
+        { "text": "traffic (n) (/ˈtræf.ɪk/)", "isCorrect": false },
+        { "text": "commute (v) (/kəˈmjuːt/)", "isCorrect": false }
+      ],
+      "explanation": "'transit (n)' là sự đi qua hoặc sự vận chuyển hàng hóa/hành khách."
+    },
+    {
+      "id": 64,
+      "question": "Nghĩa của từ: 'kích thước, chiều (không gian)' là gì?",
+      "options": [
+        { "text": "dimension (n) (/daɪˈmenʃn/)", "isCorrect": true },
+        { "text": "site (n) (/saɪt/)", "isCorrect": false },
+        { "text": "trial (n) (/traɪəl/)", "isCorrect": false },
+        { "text": "vacancy (n) (/ˈveɪ.kən.si/)", "isCorrect": false }
+      ],
+      "explanation": "'dimension (n)' có nghĩa là kích thước, khổ hoặc chiều đo."
+    },
+    {
+      "id": 65,
+      "question": "Nghĩa của từ: 'giai đoạn, sân khấu' là gì?",
+      "options": [
+        { "text": "stage (n, v) (/steɪdʒ/)", "isCorrect": true },
+        { "text": "update (v) (/ʌpˈdeɪt/)", "isCorrect": false },
+        { "text": "assist (v) (/əˈsɪst/)", "isCorrect": false },
+        { "text": "support (v) (/səˈpɔrt/)", "isCorrect": false }
+      ],
+      "explanation": "'stage' vừa có nghĩa là giai đoạn phát triển, vừa có nghĩa là sân khấu."
+    }
+  ]
+}
