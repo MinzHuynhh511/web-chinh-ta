@@ -14,7 +14,7 @@
         { "text": "Quá trình kiểm thử phần mềm", "isCorrect": false },
         { "text": "Quá trình bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Quá trình xác định các thành phần phần mềm và mối liên kết giữa chúng dựa trên yêu cầu của khách hàng."
+      "explanation": "Giải thích đáp án: Thiết kế phần mềm là quá trình xác định các thành phần phần mềm và mối liên kết giữa chúng dựa trên yêu cầu khách hàng. Đây là bước chuyển hóa yêu cầu thành kiến trúc cụ thể, chứ không phải viết code hay kiểm thử."
     },
     {
       "id": 2,
@@ -25,7 +25,7 @@
         { "text": "Quá trình viết tài liệu hướng dẫn", "isCorrect": false },
         { "text": "Quá trình bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Quá trình hiện thực hóa thiết kế thành chương trình."
+      "explanation": "Giải thích đáp án: Hiện thực phần mềm là quá trình chuyển thiết kế thành chương trình thực tế (tức là lập trình/coding). Các đáp án còn lại là các giai đoạn khác trong vòng đời phần mềm."
     },
     {
       "id": 3,
@@ -36,7 +36,7 @@
         { "text": "Hoàn toàn độc lập", "isCorrect": false },
         { "text": "Không liên quan đến nhau", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Đan xen lẫn nhau."
+      "explanation": "Giải thích đáp án: Thiết kế và hiện thực đan xen nhau vì trong thực tế, khi lập trình người ta thường phát hiện vấn đề và quay lại điều chỉnh thiết kế, hai bước này không thể tách biệt hoàn toàn."
     },
     {
       "id": 4,
@@ -47,7 +47,7 @@
         { "text": "HTML", "isCorrect": false },
         { "text": "XML", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: UML."
+      "explanation": "Giải thích đáp án: UML."
     },
     {
       "id": 5,
@@ -58,7 +58,7 @@
         { "text": "Một phương pháp để giải quyết các vấn đề thiết kế thường gặp", "isCorrect": true },
         { "text": "Một phương pháp kiểm thử phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Một phương pháp để giải quyết các vấn đề thiết kế thường gặp."
+      "explanation": "Giải thích đáp án:Thiết kế mẫu (Design Pattern) là các giải pháp tái sử dụng cho các vấn đề thiết kế thường gặp (ví dụ: Singleton, Factory, Observer...)."
     },
     {
       "id": 6,
@@ -69,7 +69,7 @@
         { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
         { "text": "Quản lý dự án phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Sử dụng và phát triển các thành phần mã nguồn mở."
+      "explanation": "Giải thích đáp án: Phát triển mã nguồn mở liên quan đến việc sử dụng và đóng góp các thành phần mã nguồn mở (open-source components)."
     },
     {
       "id": 7,
@@ -80,7 +80,7 @@
         { "text": "Tăng tốc độ phát triển phần mềm", "isCorrect": false },
         { "text": "Giảm chi phí phát triển", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Tính đến nhu cầu, kinh nghiệm và khả năng của người dùng hệ thống."
+      "explanation": "Giải thích đáp án: Nguyên tắc cốt lõi của thiết kế UI là phải lấy người dùng làm trung tâm, tức là tính đến nhu cầu, kinh nghiệm và khả năng của người dùng."
     },
     {
       "id": 8,
@@ -91,7 +91,7 @@
         { "text": "Các công nghệ mới nhất", "isCorrect": false },
         { "text": "Các yêu cầu chức năng của hệ thống", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Các hạn chế về vật lý và tinh thần của người dùng."
+      "explanation": "Giải thích đáp án: Thiết kế UI cần nhận thức được các hạn chế về vật lý (thị lực, tay...) và tinh thần (khả năng ghi nhớ, tập trung...) của người dùng."
     },
     {
       "id": 9,
@@ -102,7 +102,7 @@
         { "text": "Tăng chi phí dự án", "isCorrect": false },
         { "text": "Giảm số lượng lỗi phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Là cơ chế giao tiếp quan trọng giữa các nhóm thiết kế khác nhau."
+      "explanation": "Giải thích đáp án: Trong dự án lớn với nhiều nhóm làm việc song song, các mô hình thiết kế hệ thống là cơ chế giao tiếp quan trọng để các nhóm hiểu nhau và phối hợp."
     },
     {
       "id": 10,
@@ -113,7 +113,7 @@
         { "text": "Quá trình viết mã nguồn", "isCorrect": false },
         { "text": "Quá trình kiểm thử phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Quá trình thiết kế các thuật toán để giải quyết các vấn đề cụ thể."
+      "explanation": "Giải thích đáp án:Thiết kế thuật toán là quá trình xác định các bước xử lý để giải quyết một vấn đề cụ thể, khác với viết code hay kiểm thử."
     },
     {
       "id": 11,
@@ -124,7 +124,7 @@
         { "text": "Thiết kế các thuật toán", "isCorrect": false },
         { "text": "Kiểm thử cơ sở dữ liệu", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Thiết kế cấu trúc và tổ chức của cơ sở dữ liệu."
+      "explanation": "Giải thích đáp án:  Thiết kế CSDL liên quan đến việc thiết kế cấu trúc và tổ chức dữ liệu (bảng, quan hệ, khóa, chỉ mục...)."
     },
     {
       "id": 12,
@@ -135,7 +135,7 @@
         { "text": "Hệ thống không bao giờ gặp lỗi", "isCorrect": false },
         { "text": "Giao diện không cần thân thiện", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Ai cũng có thể nhầm lẫn."
+      "explanation": "Giải thích đáp án: Trong thiết kế UI, phải thừa nhận rằng ai cũng có thể nhầm lẫn, do đó hệ thống cần hỗ trợ phục hồi lỗi và không gây hại khi người dùng thao tác sai."
     },
     {
       "id": 13,
@@ -146,7 +146,7 @@
         { "text": "Giảm chi phí phát triển", "isCorrect": false },
         { "text": "Tăng tính bảo mật của hệ thống", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Đáp ứng nhu cầu và trải nghiệm người dùng."
+      "explanation": "Giải thích đáp án:  Mục tiêu chính của thiết kế UI là đáp ứng nhu cầu và trải nghiệm người dùng (UX – User Experience)."
     },
     {
       "id": 14,
@@ -157,7 +157,7 @@
         { "text": "Kiểm thử phần mềm", "isCorrect": false },
         { "text": "Bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Định nghĩa các thành phần phần mềm và mối liên kết giữa chúng."
+      "explanation": "Giải thích đáp án:  Quá trình thiết kế phần mềm là định nghĩa các thành phần và mối liên kết giữa chúng (tương tự câu 1, nhấn mạnh phần thiết kế)."
     },
     {
       "id": 15,
@@ -168,7 +168,7 @@
         { "text": "Biểu đồ hoạt động swimming lane", "isCorrect": true },
         { "text": "Biểu đồ thành phần", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Biểu đồ hoạt động swimming lane."
+      "explanation": "Giải thích đáp án: Biểu đồ hoạt động swimming lane (làn bơi) là ví dụ điển hình của activity diagram, dùng để phân chia trách nhiệm giữa các vai/bộ phận."
     },
     {
       "id": 16,
@@ -179,7 +179,7 @@
         { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
         { "text": "Bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Duy trì thông tin về các thành phần mã nguồn mở đã tải về và sử dụng."
+      "explanation": "Giải thích đáp án: Quản lý bản quyền trong phần mềm đòi hỏi duy trì thông tin về các thành phần mã nguồn mở đã dùng (tên, phiên bản, giấy phép) để tuân thủ pháp lý."
     },
     {
       "id": 17,
@@ -190,7 +190,7 @@
         { "text": "Tăng số lượng thành phần phần mềm", "isCorrect": false },
         { "text": "Giảm thiểu tài liệu hướng dẫn", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Đảm bảo phần mềm dễ dàng bảo trì và mở rộng."
+      "explanation": "Giải thích đáp án: Nguyên tắc quan trọng trong thiết kế là đảm bảo phần mềm dễ bảo trì và mở rộng (maintainability & scalability)."
     },
     {
       "id": 18,
@@ -201,7 +201,7 @@
         { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
         { "text": "Kiểm thử cơ sở dữ liệu", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong cơ sở dữ liệu."
+      "explanation": "Giải thích đáp án: Thiết kế CSDL bao gồm xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong CSDL (schema, bảng, quan hệ...)."
     },
     {
       "id": 19,
@@ -212,7 +212,7 @@
         { "text": "Tăng tốc độ phát triển phần mềm", "isCorrect": false },
         { "text": "Bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Giải quyết các vấn đề cụ thể bằng cách xác định các bước xử lý."
+      "explanation": "Giải thích đáp án: Vai trò của thiết kế thuật toán là giải quyết các vấn đề cụ thể bằng cách xác định các bước xử lý rõ ràng."
     },
     {
       "id": 20,
@@ -223,7 +223,7 @@
         { "text": "Tăng tính phức tạp của mã nguồn", "isCorrect": false },
         { "text": "Giảm chi phí phát triển", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Đáp ứng các yêu cầu thiết kế chi tiết."
+      "explanation": "Giải thích đáp án: Mục đích của hiện thực phần mềm là đáp ứng các yêu cầu thiết kế chi tiết đã được xác định trước đó."
     },
     {
       "id": 21,
@@ -234,7 +234,7 @@
         { "text": "Tạo lập các tài liệu hướng dẫn sử dụng", "isCorrect": false },
         { "text": "Kiểm tra và bảo trì phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Lập trình các đơn vị phần mềm nhỏ nhất."
+      "explanation": "Giải thích đáp án:  Unit Implementation là lập trình các đơn vị phần mềm nhỏ nhất (hàm, phương thức, class)."
     },
     {
       "id": 22,
@@ -245,7 +245,7 @@
         { "text": "Tập trung vào việc lập trình nhanh chóng", "isCorrect": false },
         { "text": "Đơn giản hóa tất cả các quy trình", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm tra các yêu cầu và thiết kế lại một lần nữa."
+      "explanation": "Giải thích đáp án: Quy tắc vàng là kiểm tra lại các yêu cầu và thiết kế trước khi code, tránh hiện thực sai thiết kế."
     },
     {
       "id": 23,
@@ -256,7 +256,7 @@
         { "text": "Để tiết kiệm thời gian kiểm thử", "isCorrect": false },
         { "text": "Để tăng tốc độ mã hóa", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để đảm bảo các thiết kế đáp ứng yêu cầu của người dùng."
+      "explanation": "Giải thích đáp án: Xác nhận thiết kế chi tiết trước khi hiện thực để đảm bảo thiết kế đáp ứng yêu cầu người dùng, tránh phải làm lại tốn kém."
     },
     {
       "id": 24,
@@ -267,7 +267,7 @@
         { "text": "Để phân tích thị trường", "isCorrect": false },
         { "text": "Để tăng tốc độ phát triển phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để theo dõi và sửa chữa lỗi một cách hệ thống."
+      "explanation": "Giải thích đáp án: Ghi lại lỗi bằng form giúp theo dõi và sửa chữa lỗi một cách hệ thống, có thể phân loại, truy vết và không bỏ sót."
     },
     {
       "id": 25,
@@ -278,7 +278,7 @@
         { "text": "Tính đơn giản và nhanh chóng", "isCorrect": false },
         { "text": "Tính bảo mật và khả năng mở rộng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Tính đúng đắn và rõ ràng."
+      "explanation": "Giải thích đáp án: Tiêu chuẩn mã hóa cần tính đúng đắn và rõ ràng để người khác đọc hiểu và bảo trì được."
     },
     {
       "id": 26,
@@ -289,7 +289,7 @@
         { "text": "Yêu cầu khách hàng", "isCorrect": false },
         { "text": "Ngân sách dự án", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Dữ liệu đã có."
+      "explanation": "Giải thích đáp án: Ước lượng kích thước và thời gian dựa trên dữ liệu đã có (dữ liệu lịch sử dự án trước) là cách khoa học và chính xác nhất."
     },
     {
       "id": 27,
@@ -300,7 +300,7 @@
         { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
         { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Lập kế hoạch cấu trúc và thiết kế mã."
+      "explanation": "Giải thích đáp án: Hiện thực mã chương trình bắt đầu bằng lập kế hoạch cấu trúc và thiết kế mã, trước khi bắt tay viết code."
     },
     {
       "id": 28,
@@ -311,7 +311,7 @@
         { "text": "Để giảm chi phí phát triển", "isCorrect": false },
         { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để đảm bảo tính đúng đắn và hiệu quả của mã nguồn."
+      "explanation": "Giải thích đáp án: Tự kiểm tra lại thiết kế/cấu trúc trước khi code để đảm bảo tính đúng đắn và hiệu quả, tránh viết lại."
     },
     {
       "id": 29,
@@ -322,7 +322,7 @@
         { "text": "Phức tạp và chi tiết", "isCorrect": false },
         { "text": "Bất kỳ tên nào cũng được", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Phù hợp và rõ ràng."
+      "explanation": "Giải thích đáp án: Quy tắc đặt tên cần phù hợp và rõ ràng (ví dụ: tên biến, hàm phải nói lên chức năng của nó)."
     },
     {
       "id": 30,
@@ -333,7 +333,7 @@
         { "text": "Header của Class có mô tả mục đích của hàm hay không", "isCorrect": false },
         { "text": "Tất cả các ý trên", "isCorrect": true }
       ],
-      "explanation": "Đáp án đúng: Tất cả các ý trên."
+      "explanation": "Giải thích đáp án: Kiểm tra Class cần xem xét tất cả: tên có thích hợp không, có được trừu tượng hóa không, và header có mô tả mục đích không.Kiểm tra Class cần xem xét tất cả: tên có thích hợp không, có được trừu tượng hóa không, và header có mô tả mục đích không."
     },
     {
       "id": 31,
@@ -344,7 +344,7 @@
         { "text": "Thuộc tính có nên là final không", "isCorrect": false },
         { "text": "Tất cả các ý trên", "isCorrect": true }
       ],
-      "explanation": "Đáp án đúng: Tất cả các ý trên."
+      "explanation": "Giải thích đáp án:  Kiểm tra thuộc tính cần xem xét cả ba: có cần thiết không, có thể là static không, có nên là final không."
     },
     {
       "id": 32,
@@ -355,7 +355,7 @@
         { "text": "Phương thức có initialize tất cả các thuộc tính không", "isCorrect": false },
         { "text": "Tất cả các ý trên", "isCorrect": true }
       ],
-      "explanation": "Đáp án đúng: Tất cả các ý trên."
+      "explanation": "Giải thích đáp án:  Kiểm tra constructor cần xem xét cả ba: có cần thiết không, có tái dụng constructor sẵn có không, có khởi tạo đầy đủ thuộc tính không."
     },
     {
       "id": 33,
@@ -366,7 +366,7 @@
         { "text": "Tập trung vào các yêu cầu của khách hàng", "isCorrect": false },
         { "text": "Giảm thời gian kiểm tra mã", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Lập kế hoạch cấu trúc và thiết kế mã chương trình."
+      "explanation": "Giải thích đáp án:  Để lập trình nhanh (1000 LoC/ngày) cần lập kế hoạch cấu trúc và thiết kế mã rõ ràng trước, giúp code trơn tru không bị vướng mắc."
     },
     {
       "id": 34,
@@ -377,7 +377,7 @@
         { "text": "Thuộc tính có nên là final hay không", "isCorrect": false },
         { "text": "Tất cả các ý trên", "isCorrect": true }
       ],
-      "explanation": "Đáp án đúng: Tất cả các ý trên."
+      "explanation": "Giải thích đáp án: Cần kiểm tra sự cần thiết, static, và final của thuộc tính."
     },
     {
       "id": 35,
@@ -388,7 +388,7 @@
         { "text": "Để phân tích thị trường", "isCorrect": false },
         { "text": "Để giảm chi phí phát triển", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để theo dõi tiến độ và quản lý thời gian hiệu quả."
+      "explanation": "Giải thích đáp án:  Ghi chú mốc thời gian giúp theo dõi tiến độ và quản lý thời gian hiệu quả trong dự án."
     },
     {
       "id": 36,
@@ -399,7 +399,7 @@
         { "text": "Đo thời gian phân loại theo các bước", "isCorrect": false },
         { "text": "Tất cả các ý trên", "isCorrect": true }
       ],
-      "explanation": "Đáp án đúng: Tất cả các ý trên."
+      "explanation": "Giải thích đáp án: Chuẩn bị để hiện thực bao gồm cả ba: xác nhận thiết kế, mã hóa từ thiết kế bằng văn bản, và đo thời gian theo bước."
     },
     {
       "id": 37,
@@ -410,7 +410,7 @@
         { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
         { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm tra và sửa chữa các lỗi cú pháp."
+      "explanation": "Giải thích đáp án: Mục đích của biên dịch (compile) là kiểm tra và sửa các lỗi cú pháp (syntax error)."
     },
     {
       "id": 38,
@@ -421,7 +421,7 @@
         { "text": "Để tăng tốc độ lập trình", "isCorrect": false },
         { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để chỉ ra rằng chương trình thực hiện đúng như mong đợi và tìm ra lỗi."
+      "explanation": "Giải thích đáp án: Mục tiêu kiểm thử là hai việc: chứng minh chương trình hoạt động đúng và tìm ra lỗi còn tồn tại."
     },
     {
       "id": 39,
@@ -432,7 +432,7 @@
         { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử chức năng của các đối tượng hay các phương thức."
+      "explanation": "Giải thích đáp án: Unit testing tập trung vào kiểm thử từng đơn vị nhỏ (phương thức, hàm, đối tượng) một cách độc lập."
     },
     {
       "id": 40,
@@ -443,7 +443,7 @@
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
         { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử giao diện component."
+      "explanation": "Giải thích đáp án: Component testing kiểm thử giao diện của một component (cách nó giao tiếp với các phần khác), không phải từng hàm riêng lẻ."
     },
     {
       "id": 41,
@@ -454,7 +454,7 @@
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
         { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử tương tác giữa các component."
+      "explanation": "Giải thích đáp án: System testing kiểm thử tương tác giữa các component khi kết hợp lại thành hệ thống hoàn chỉnh."
     },
     {
       "id": 42,
@@ -465,7 +465,7 @@
         { "text": "Phần mềm thiết kế giao diện", "isCorrect": false },
         { "text": "Các chương trình bảo mật", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Framework kiểm thử tự động (như JUnit)."
+      "explanation": "Giải thích đáp án: Kiểm thử tự động dùng framework như JUnit (Java), pytest (Python)... để chạy test tự động, nhanh và nhất quán."
     },
     {
       "id": 43,
@@ -476,7 +476,7 @@
         { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Tìm ra lỗi gây ra bởi các lỗi giao diện hoặc giả định sai về các giao diện."
+      "explanation": "Giải thích đáp án:  Mục tiêu kiểm thử giao diện (interface testing) là tìm lỗi do giao tiếp sai giữa các module (truyền tham số sai, giả định sai...)."
     },
     {
       "id": 44,
@@ -487,7 +487,7 @@
         { "text": "Giao diện hệ thống", "isCorrect": false },
         { "text": "Giao diện bảo mật", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Giao diện có tham số."
+      "explanation": "Giải thích đáp án: Một loại giao diện trong kiểm thử là giao diện có tham số (parameter interface) – tức là các hàm truyền dữ liệu qua tham số."
     },
     {
       "id": 45,
@@ -498,7 +498,7 @@
         { "text": "Nhóm marketing", "isCorrect": false },
         { "text": "Nhóm hỗ trợ khách hàng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Đội ngũ phát triển phần mềm."
+      "explanation": "Giải thích đáp án: Kiểm thử phát triển (development testing) là trách nhiệm của đội ngũ phát triển phần mềm, không phải khách hàng hay bộ phận khác."
     },
     {
       "id": 46,
@@ -509,7 +509,7 @@
         { "text": "Kiểm thử hệ thống trong giai đoạn phát triển", "isCorrect": false },
         { "text": "Kiểm thử hệ thống trong giai đoạn bảo trì", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử hệ thống trước khi phát hành cho khách hàng."
+      "explanation": "Giải thích đáp án: Kiểm thử phát hành (release testing) là kiểm thử hệ thống trước khi phát hành cho khách hàng, để đảm bảo chất lượng."
     },
     {
       "id": 47,
@@ -520,7 +520,7 @@
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
         { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử chức năng của hệ thống mà không cần biết cấu trúc bên trong."
+      "explanation": "Giải thích đáp án: Kiểm thử hộp đen (black-box) chỉ quan tâm đầu vào/đầu ra, không cần biết cấu trúc bên trong hệ thống."
     },
     {
       "id": 48,
@@ -531,7 +531,7 @@
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
         { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử cấu trúc bên trong của hệ thống."
+      "explanation": "Giải thích đáp án: Kiểm thử hộp trắng (white-box) kiểm tra cấu trúc bên trong (code, luồng xử lý, nhánh điều kiện...)."
     },
     {
       "id": 49,
@@ -542,7 +542,7 @@
         { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
         { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kết hợp giữa kiểm thử hộp đen và kiểm thử hộp trắng."
+      "explanation": "Giải thích đáp án: Kiểm thử hộp xám (grey-box) là sự kết hợp: biết một phần cấu trúc bên trong nhưng vẫn kiểm thử từ góc độ người dùng."
     },
     {
       "id": 50,
@@ -553,7 +553,7 @@
         { "text": "Để giảm chi phí phát triển", "isCorrect": false },
         { "text": "Để tăng tốc độ lập trình", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra."
+      "explanation": "Giải thích đáp án: Kiểm thử validation nhằm chứng minh phần mềm thỏa mãn đúng các yêu cầu đặt ra (làm đúng việc cần làm)."
     },
     {
       "id": 51,
@@ -564,7 +564,7 @@
         { "text": "Để giảm chi phí phát triển", "isCorrect": false },
         { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để tìm ra các tình huống mà phần mềm không hoạt động đúng như mong đợi."
+      "explanation": "Giải thích đáp án: Kiểm thử defect nhằm tìm ra các tình huống phần mềm không hoạt động đúng (tìm bug, lỗi)."
     },
     {
       "id": 52,
@@ -575,7 +575,7 @@
         { "text": "Để phân tích thị trường", "isCorrect": false },
         { "text": "Để tăng tốc độ phát triển phần mềm", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để tìm ra lỗi và các bất thường."
+      "explanation": "Giải thích đáp án: Kiểm tra kết quả kiểm thử để tìm ra lỗi và các bất thường, từ đó sửa chữa.."
     },
     {
       "id": 53,
@@ -586,7 +586,7 @@
         { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
         { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Kiểm thử phần mềm bởi người dùng cuối."
+      "explanation": "Giải thích đáp án: Kiểm thử người dùng (user testing / UAT) là kiểm thử phần mềm do người dùng cuối thực hiện trong môi trường thực tế."
     },
     {
       "id": 54,
@@ -597,7 +597,7 @@
         { "text": "Giảm chi phí phát triển", "isCorrect": false },
         { "text": "Tập trung vào giao diện người dùng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Cải tiến các phương pháp phát triển và kiểm thử phần mềm."
+      "explanation": "Giải thích đáp án: Cải tiến quy trình phần mềm bao gồm cải tiến các phương pháp phát triển và kiểm thử để nâng cao chất lượng và hiệu suất."
     },
     {
       "id": 55,
@@ -608,7 +608,7 @@
         { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
         { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Sửa lỗi và nâng cấp phần mềm sau khi phát hành."
+      "explanation": "Giải thích đáp án: Bảo trì phần mềm bao gồm sửa lỗi và nâng cấp phần mềm sau khi phát hành (corrective, adaptive, perfective maintenance)."
     },
     {
       "id": 56,
@@ -619,7 +619,7 @@
         { "text": "Để tăng tốc độ lập trình", "isCorrect": false },
         { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
       ],
-      "explanation": "Đáp án đúng: Để đảm bảo phần mềm hoạt động đúng như mong đợi trước khi phát hành."
+      "explanation": "Giải thích đáp án: Mục đích kiểm thử bản release là đảm bảo phần mềm hoạt động đúng như mong đợi trước khi đưa ra thị trường."
     }
   ]
 }
