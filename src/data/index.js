@@ -4,7 +4,7 @@
 import luyentap from './luyen-tap.json';
 import tracnghiemtoeicp1 from './TA_309_cau_p1.json';
 import tracnghiemtoeicp2 from './TA_309_cau_p2.json';
-import CNPMP_Cuoi_Ky from './CNPMP_Cuoi_Ky.json';
+import CNPMPCuoiKy from './CNPMP_Cuoi_Ky.json';
 
 // Mảng này tự động được đọc để hiển thị trang chủ
 // Thứ tự trong mảng = thứ tự hiển thị trên trang chủ
@@ -12,7 +12,7 @@ const allQuizzes = [
   luyentap,
   tracnghiemtoeicp1,
   tracnghiemtoeicp2,
-  CNPMP_Cuoi_Ky
+  CNPMPCuoiKy
 ];
 
 export default allQuizzes;
