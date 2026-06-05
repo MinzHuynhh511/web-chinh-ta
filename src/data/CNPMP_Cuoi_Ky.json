@@ -1,0 +1,625 @@
+{
+  "id": "cnpmp-cuoi-ky",
+  "title": "Trắc nghiệm Cuối Kỳ - CNPMP",
+  "description": "Lấy 30 trong 56 câu (6 điểm)",
+  "icon": "📝",
+  "color": "#2563eb",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Thiết kế phần mềm là gì?",
+      "options": [
+        { "text": "Quá trình viết mã nguồn", "isCorrect": false },
+        { "text": "Quá trình xác định các thành phần phần mềm và mối liên kết giữa chúng dựa trên yêu cầu của khách hàng", "isCorrect": true },
+        { "text": "Quá trình kiểm thử phần mềm", "isCorrect": false },
+        { "text": "Quá trình bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Quá trình xác định các thành phần phần mềm và mối liên kết giữa chúng dựa trên yêu cầu của khách hàng."
+    },
+    {
+      "id": 2,
+      "question": "Hiện thực phần mềm là gì?",
+      "options": [
+        { "text": "Quá trình kiểm thử phần mềm", "isCorrect": false },
+        { "text": "Quá trình hiện thực hóa thiết kế thành chương trình", "isCorrect": true },
+        { "text": "Quá trình viết tài liệu hướng dẫn", "isCorrect": false },
+        { "text": "Quá trình bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Quá trình hiện thực hóa thiết kế thành chương trình."
+    },
+    {
+      "id": 3,
+      "question": "Thiết kế và hiện thực phần mềm là hai hoạt động như thế nào?",
+      "options": [
+        { "text": "Tách biệt hoàn toàn", "isCorrect": false },
+        { "text": "Đan xen lẫn nhau", "isCorrect": true },
+        { "text": "Hoàn toàn độc lập", "isCorrect": false },
+        { "text": "Không liên quan đến nhau", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Đan xen lẫn nhau."
+    },
+    {
+      "id": 4,
+      "question": "Thiết kế hướng đối tượng sử dụng gì để biểu diễn?",
+      "options": [
+        { "text": "UML", "isCorrect": true },
+        { "text": "SQL", "isCorrect": false },
+        { "text": "HTML", "isCorrect": false },
+        { "text": "XML", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: UML."
+    },
+    {
+      "id": 5,
+      "question": "Thiết kế mẫu là gì?",
+      "options": [
+        { "text": "Một phương pháp lập trình", "isCorrect": false },
+        { "text": "Một phương pháp thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Một phương pháp để giải quyết các vấn đề thiết kế thường gặp", "isCorrect": true },
+        { "text": "Một phương pháp kiểm thử phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Một phương pháp để giải quyết các vấn đề thiết kế thường gặp."
+    },
+    {
+      "id": 6,
+      "question": "Phát triển mã nguồn mở liên quan đến gì?",
+      "options": [
+        { "text": "Sử dụng phần mềm đóng gói", "isCorrect": false },
+        { "text": "Sử dụng và phát triển các thành phần mã nguồn mở", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Quản lý dự án phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Sử dụng và phát triển các thành phần mã nguồn mở."
+    },
+    {
+      "id": 7,
+      "question": "Một trong những nguyên tắc chính trong thiết kế giao diện người dùng là gì?",
+      "options": [
+        { "text": "Tối ưu hóa cho các thiết bị di động", "isCorrect": false },
+        { "text": "Tính đến nhu cầu, kinh nghiệm và khả năng của người dùng hệ thống", "isCorrect": true },
+        { "text": "Tăng tốc độ phát triển phần mềm", "isCorrect": false },
+        { "text": "Giảm chi phí phát triển", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Tính đến nhu cầu, kinh nghiệm và khả năng của người dùng hệ thống."
+    },
+    {
+      "id": 8,
+      "question": "Thiết kế UI cần nhận thức được điều gì?",
+      "options": [
+        { "text": "Các hạn chế về tài chính của dự án", "isCorrect": false },
+        { "text": "Các hạn chế về vật lý và tinh thần của người dùng", "isCorrect": true },
+        { "text": "Các công nghệ mới nhất", "isCorrect": false },
+        { "text": "Các yêu cầu chức năng của hệ thống", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Các hạn chế về vật lý và tinh thần của người dùng."
+    },
+    {
+      "id": 9,
+      "question": "Các mô hình thiết kế hệ thống có vai trò gì trong dự án lớn?",
+      "options": [
+        { "text": "Giảm thời gian phát triển", "isCorrect": false },
+        { "text": "Là cơ chế giao tiếp quan trọng giữa các nhóm thiết kế khác nhau", "isCorrect": true },
+        { "text": "Tăng chi phí dự án", "isCorrect": false },
+        { "text": "Giảm số lượng lỗi phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Là cơ chế giao tiếp quan trọng giữa các nhóm thiết kế khác nhau."
+    },
+    {
+      "id": 10,
+      "question": "Thiết kế thuật toán là gì?",
+      "options": [
+        { "text": "Quá trình thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Quá trình thiết kế các thuật toán để giải quyết các vấn đề cụ thể", "isCorrect": true },
+        { "text": "Quá trình viết mã nguồn", "isCorrect": false },
+        { "text": "Quá trình kiểm thử phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Quá trình thiết kế các thuật toán để giải quyết các vấn đề cụ thể."
+    },
+    {
+      "id": 11,
+      "question": "Thiết kế cơ sở dữ liệu liên quan đến điều gì?",
+      "options": [
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Thiết kế cấu trúc và tổ chức của cơ sở dữ liệu", "isCorrect": true },
+        { "text": "Thiết kế các thuật toán", "isCorrect": false },
+        { "text": "Kiểm thử cơ sở dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Thiết kế cấu trúc và tổ chức của cơ sở dữ liệu."
+    },
+    {
+      "id": 12,
+      "question": "Trong thiết kế giao diện người dùng, cần thừa nhận điều gì?",
+      "options": [
+        { "text": "Người dùng luôn biết cách sử dụng hệ thống", "isCorrect": false },
+        { "text": "Ai cũng có thể nhầm lẫn", "isCorrect": true },
+        { "text": "Hệ thống không bao giờ gặp lỗi", "isCorrect": false },
+        { "text": "Giao diện không cần thân thiện", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Ai cũng có thể nhầm lẫn."
+    },
+    {
+      "id": 13,
+      "question": "Mục tiêu chính của thiết kế giao diện người dùng là gì?",
+      "options": [
+        { "text": "Tăng tốc độ phát triển phần mềm", "isCorrect": false },
+        { "text": "Đáp ứng nhu cầu và trải nghiệm người dùng", "isCorrect": true },
+        { "text": "Giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Tăng tính bảo mật của hệ thống", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Đáp ứng nhu cầu và trải nghiệm người dùng."
+    },
+    {
+      "id": 14,
+      "question": "Quá trình thiết kế phần mềm bao gồm gì?",
+      "options": [
+        { "text": "Viết mã nguồn", "isCorrect": false },
+        { "text": "Định nghĩa các thành phần phần mềm và mối liên kết giữa chúng", "isCorrect": true },
+        { "text": "Kiểm thử phần mềm", "isCorrect": false },
+        { "text": "Bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Định nghĩa các thành phần phần mềm và mối liên kết giữa chúng."
+    },
+    {
+      "id": 15,
+      "question": "Một ví dụ về biểu đồ hoạt động trong thiết kế phần mềm là gì?",
+      "options": [
+        { "text": "Biểu đồ lớp", "isCorrect": false },
+        { "text": "Biểu đồ liên kết", "isCorrect": false },
+        { "text": "Biểu đồ hoạt động swimming lane", "isCorrect": true },
+        { "text": "Biểu đồ thành phần", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Biểu đồ hoạt động swimming lane."
+    },
+    {
+      "id": 16,
+      "question": "Quản lý bản quyền trong thiết kế phần mềm liên quan đến điều gì?",
+      "options": [
+        { "text": "Sử dụng các thành phần mã nguồn mở mà không cần kiểm tra", "isCorrect": false },
+        { "text": "Duy trì thông tin về các thành phần mã nguồn mở đã tải về và sử dụng", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Duy trì thông tin về các thành phần mã nguồn mở đã tải về và sử dụng."
+    },
+    {
+      "id": 17,
+      "question": "Một trong những nguyên tắc quan trọng trong thiết kế phần mềm là gì?",
+      "options": [
+        { "text": "Giảm thiểu số lượng mã nguồn", "isCorrect": false },
+        { "text": "Đảm bảo phần mềm dễ dàng bảo trì và mở rộng", "isCorrect": true },
+        { "text": "Tăng số lượng thành phần phần mềm", "isCorrect": false },
+        { "text": "Giảm thiểu tài liệu hướng dẫn", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Đảm bảo phần mềm dễ dàng bảo trì và mở rộng."
+    },
+    {
+      "id": 18,
+      "question": "Thiết kế cơ sở dữ liệu bao gồm việc gì?",
+      "options": [
+        { "text": "Xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong cơ sở dữ liệu", "isCorrect": true },
+        { "text": "Viết mã nguồn", "isCorrect": false },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Kiểm thử cơ sở dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Xác định cấu trúc dữ liệu và cách tổ chức dữ liệu trong cơ sở dữ liệu."
+    },
+    {
+      "id": 19,
+      "question": "Thiết kế thuật toán có vai trò gì trong phần mềm?",
+      "options": [
+        { "text": "Định nghĩa các giao diện người dùng", "isCorrect": false },
+        { "text": "Giải quyết các vấn đề cụ thể bằng cách xác định các bước xử lý", "isCorrect": true },
+        { "text": "Tăng tốc độ phát triển phần mềm", "isCorrect": false },
+        { "text": "Bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Giải quyết các vấn đề cụ thể bằng cách xác định các bước xử lý."
+    },
+    {
+      "id": 20,
+      "question": "Mục đích của việc hiện thực phần mềm là gì?",
+      "options": [
+        { "text": "Đáp ứng các yêu cầu thiết kế chi tiết", "isCorrect": true },
+        { "text": "Thỏa mãn người dùng cuối", "isCorrect": false },
+        { "text": "Tăng tính phức tạp của mã nguồn", "isCorrect": false },
+        { "text": "Giảm chi phí phát triển", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Đáp ứng các yêu cầu thiết kế chi tiết."
+    },
+    {
+      "id": 21,
+      "question": "Unit Implementation được hiểu là gì?",
+      "options": [
+        { "text": "Lập trình các đơn vị phần mềm nhỏ nhất", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Tạo lập các tài liệu hướng dẫn sử dụng", "isCorrect": false },
+        { "text": "Kiểm tra và bảo trì phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Lập trình các đơn vị phần mềm nhỏ nhất."
+    },
+    {
+      "id": 22,
+      "question": "Một quy tắc vàng trong hiện thực phần mềm là gì?",
+      "options": [
+        { "text": "Kiểm tra các yêu cầu và thiết kế lại một lần nữa", "isCorrect": true },
+        { "text": "Không cần kiểm tra lại thiết kế sau khi mã hóa", "isCorrect": false },
+        { "text": "Tập trung vào việc lập trình nhanh chóng", "isCorrect": false },
+        { "text": "Đơn giản hóa tất cả các quy trình", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm tra các yêu cầu và thiết kế lại một lần nữa."
+    },
+    {
+      "id": 23,
+      "question": "Tại sao cần xác nhận các thiết kế chi tiết trước khi hiện thực?",
+      "options": [
+        { "text": "Để đảm bảo các thiết kế đáp ứng yêu cầu của người dùng", "isCorrect": true },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để tiết kiệm thời gian kiểm thử", "isCorrect": false },
+        { "text": "Để tăng tốc độ mã hóa", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để đảm bảo các thiết kế đáp ứng yêu cầu của người dùng."
+    },
+    {
+      "id": 24,
+      "question": "Mục đích của việc ghi lại lỗi khi sử dụng form là gì?",
+      "options": [
+        { "text": "Để theo dõi và sửa chữa lỗi một cách hệ thống", "isCorrect": true },
+        { "text": "Để lưu trữ dữ liệu người dùng", "isCorrect": false },
+        { "text": "Để phân tích thị trường", "isCorrect": false },
+        { "text": "Để tăng tốc độ phát triển phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để theo dõi và sửa chữa lỗi một cách hệ thống."
+    },
+    {
+      "id": 25,
+      "question": "Tiêu chuẩn yêu cầu đối với việc mã hóa bao gồm gì?",
+      "options": [
+        { "text": "Tính đúng đắn và rõ ràng", "isCorrect": true },
+        { "text": "Tính linh hoạt và tiết kiệm", "isCorrect": false },
+        { "text": "Tính đơn giản và nhanh chóng", "isCorrect": false },
+        { "text": "Tính bảo mật và khả năng mở rộng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Tính đúng đắn và rõ ràng."
+    },
+    {
+      "id": 26,
+      "question": "Ước lượng kích thước và thời gian dựa trên gì?",
+      "options": [
+        { "text": "Dữ liệu đã có", "isCorrect": true },
+        { "text": "Kinh nghiệm cá nhân", "isCorrect": false },
+        { "text": "Yêu cầu khách hàng", "isCorrect": false },
+        { "text": "Ngân sách dự án", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Dữ liệu đã có."
+    },
+    {
+      "id": 27,
+      "question": "Hiện thực mã chương trình bao gồm bước nào sau đây?",
+      "options": [
+        { "text": "Lập kế hoạch cấu trúc và thiết kế mã", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
+        { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Lập kế hoạch cấu trúc và thiết kế mã."
+    },
+    {
+      "id": 28,
+      "question": "Tại sao cần tự kiểm tra lại thiết kế/cấu trúc trước khi mã hóa?",
+      "options": [
+        { "text": "Để đảm bảo tính đúng đắn và hiệu quả của mã nguồn", "isCorrect": true },
+        { "text": "Để tăng tốc độ mã hóa", "isCorrect": false },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để đảm bảo tính đúng đắn và hiệu quả của mã nguồn."
+    },
+    {
+      "id": 29,
+      "question": "Quy tắc đặt tên trong hiện thực mã chương trình cần tuân thủ những gì?",
+      "options": [
+        { "text": "Phù hợp và rõ ràng", "isCorrect": true },
+        { "text": "Ngắn gọn và xúc tích", "isCorrect": false },
+        { "text": "Phức tạp và chi tiết", "isCorrect": false },
+        { "text": "Bất kỳ tên nào cũng được", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Phù hợp và rõ ràng."
+    },
+    {
+      "id": 30,
+      "question": "Kiểm tra Class cần xem xét điều gì?",
+      "options": [
+        { "text": "Tên Class có thích hợp không", "isCorrect": false },
+        { "text": "Class có được trừu tượng không", "isCorrect": false },
+        { "text": "Header của Class có mô tả mục đích của hàm hay không", "isCorrect": false },
+        { "text": "Tất cả các ý trên", "isCorrect": true }
+      ],
+      "explanation": "Đáp án đúng: Tất cả các ý trên."
+    },
+    {
+      "id": 31,
+      "question": "Kiểm tra thuộc tính cần xác định điều gì?",
+      "options": [
+        { "text": "Thuộc tính có cần thiết không", "isCorrect": false },
+        { "text": "Thuộc tính có thể là static không", "isCorrect": false },
+        { "text": "Thuộc tính có nên là final không", "isCorrect": false },
+        { "text": "Tất cả các ý trên", "isCorrect": true }
+      ],
+      "explanation": "Đáp án đúng: Tất cả các ý trên."
+    },
+    {
+      "id": 32,
+      "question": "Phương pháp kiểm tra phương thức khởi dựng cần xác định điều gì?",
+      "options": [
+        { "text": "Phương thức có cần thiết không", "isCorrect": false },
+        { "text": "Phương thức có leverage các constructor hiện có không", "isCorrect": false },
+        { "text": "Phương thức có initialize tất cả các thuộc tính không", "isCorrect": false },
+        { "text": "Tất cả các ý trên", "isCorrect": true }
+      ],
+      "explanation": "Đáp án đúng: Tất cả các ý trên."
+    },
+    {
+      "id": 33,
+      "question": "Làm thế nào để lập trình 1000 LoC/ngày?",
+      "options": [
+        { "text": "Lập kế hoạch cấu trúc và thiết kế mã chương trình", "isCorrect": true },
+        { "text": "Tăng tốc độ đánh máy", "isCorrect": false },
+        { "text": "Tập trung vào các yêu cầu của khách hàng", "isCorrect": false },
+        { "text": "Giảm thời gian kiểm tra mã", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Lập kế hoạch cấu trúc và thiết kế mã chương trình."
+    },
+    {
+      "id": 34,
+      "question": "Kiểm tra thuộc tính có cần xác định điều gì?",
+      "options": [
+        { "text": "Sự cần thiết của thuộc tính", "isCorrect": false },
+        { "text": "Thuộc tính có thể là static hay không", "isCorrect": false },
+        { "text": "Thuộc tính có nên là final hay không", "isCorrect": false },
+        { "text": "Tất cả các ý trên", "isCorrect": true }
+      ],
+      "explanation": "Đáp án đúng: Tất cả các ý trên."
+    },
+    {
+      "id": 35,
+      "question": "Tại sao cần ghi chú lại các mốc thời gian trong quá trình hiện thực mã chương trình?",
+      "options": [
+        { "text": "Để theo dõi tiến độ và quản lý thời gian hiệu quả", "isCorrect": true },
+        { "text": "Để lưu trữ dữ liệu người dùng", "isCorrect": false },
+        { "text": "Để phân tích thị trường", "isCorrect": false },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để theo dõi tiến độ và quản lý thời gian hiệu quả."
+    },
+    {
+      "id": 36,
+      "question": "Việc chuẩn bị để hiện thực bao gồm gì?",
+      "options": [
+        { "text": "Xác nhận các thiết kế chi tiết phải hiện thực", "isCorrect": false },
+        { "text": "Mã hóa từ một thiết kế được mô tả bằng văn bản", "isCorrect": false },
+        { "text": "Đo thời gian phân loại theo các bước", "isCorrect": false },
+        { "text": "Tất cả các ý trên", "isCorrect": true }
+      ],
+      "explanation": "Đáp án đúng: Tất cả các ý trên."
+    },
+    {
+      "id": 37,
+      "question": "Mục đích của việc biên dịch mã lệnh là gì?",
+      "options": [
+        { "text": "Kiểm tra và sửa chữa các lỗi cú pháp", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
+        { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm tra và sửa chữa các lỗi cú pháp."
+    },
+    {
+      "id": 38,
+      "question": "Mục tiêu của kiểm thử phần mềm là gì?",
+      "options": [
+        { "text": "Để chỉ ra rằng chương trình thực hiện đúng như mong đợi và tìm ra lỗi", "isCorrect": true },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để tăng tốc độ lập trình", "isCorrect": false },
+        { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để chỉ ra rằng chương trình thực hiện đúng như mong đợi và tìm ra lỗi."
+    },
+    {
+      "id": 39,
+      "question": "Kiểm thử đơn vị (unit testing) tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử chức năng của các đối tượng hay các phương thức", "isCorrect": true },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử chức năng của các đối tượng hay các phương thức."
+    },
+    {
+      "id": 40,
+      "question": "Kiểm thử component (component testing) tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử giao diện component", "isCorrect": true },
+        { "text": "Kiểm thử chức năng của các phương thức", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử giao diện component."
+    },
+    {
+      "id": 41,
+      "question": "Kiểm thử hệ thống (system testing) tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử tương tác giữa các component", "isCorrect": true },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử tương tác giữa các component."
+    },
+    {
+      "id": 42,
+      "question": "Kiểm thử tự động nên sử dụng gì để hỗ trợ kiểm thử đơn vị?",
+      "options": [
+        { "text": "Framework kiểm thử tự động (như JUnit)", "isCorrect": true },
+        { "text": "Các công cụ kiểm thử thủ công", "isCorrect": false },
+        { "text": "Phần mềm thiết kế giao diện", "isCorrect": false },
+        { "text": "Các chương trình bảo mật", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Framework kiểm thử tự động (như JUnit)."
+    },
+    {
+      "id": 43,
+      "question": "Mục tiêu của kiểm thử giao diện là gì?",
+      "options": [
+        { "text": "Tìm ra lỗi gây ra bởi các lỗi giao diện hoặc giả định sai về các giao diện", "isCorrect": true },
+        { "text": "Kiểm thử chức năng của các phương thức", "isCorrect": false },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Tìm ra lỗi gây ra bởi các lỗi giao diện hoặc giả định sai về các giao diện."
+    },
+    {
+      "id": 44,
+      "question": "Một loại giao diện trong kiểm thử giao diện là gì?",
+      "options": [
+        { "text": "Giao diện có tham số", "isCorrect": true },
+        { "text": "Giao diện người dùng", "isCorrect": false },
+        { "text": "Giao diện hệ thống", "isCorrect": false },
+        { "text": "Giao diện bảo mật", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Giao diện có tham số."
+    },
+    {
+      "id": 45,
+      "question": "Kiểm thử phát triển là trách nhiệm của ai?",
+      "options": [
+        { "text": "Đội ngũ phát triển phần mềm", "isCorrect": true },
+        { "text": "Người dùng cuối", "isCorrect": false },
+        { "text": "Nhóm marketing", "isCorrect": false },
+        { "text": "Nhóm hỗ trợ khách hàng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Đội ngũ phát triển phần mềm."
+    },
+    {
+      "id": 46,
+      "question": "Kiểm thử phát hành là gì?",
+      "options": [
+        { "text": "Kiểm thử hệ thống trước khi phát hành cho khách hàng", "isCorrect": true },
+        { "text": "Kiểm thử hệ thống sau khi phát hành cho khách hàng", "isCorrect": false },
+        { "text": "Kiểm thử hệ thống trong giai đoạn phát triển", "isCorrect": false },
+        { "text": "Kiểm thử hệ thống trong giai đoạn bảo trì", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử hệ thống trước khi phát hành cho khách hàng."
+    },
+    {
+      "id": 47,
+      "question": "Phương pháp kiểm thử hộp đen tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử chức năng của hệ thống mà không cần biết cấu trúc bên trong", "isCorrect": true },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử chức năng của hệ thống mà không cần biết cấu trúc bên trong."
+    },
+    {
+      "id": 48,
+      "question": "Phương pháp kiểm thử hộp trắng tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử cấu trúc bên trong của hệ thống", "isCorrect": true },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử cấu trúc bên trong của hệ thống."
+    },
+    {
+      "id": 49,
+      "question": "Phương pháp kiểm thử hộp xám là gì?",
+      "options": [
+        { "text": "Kết hợp giữa kiểm thử hộp đen và kiểm thử hộp trắng", "isCorrect": true },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kết hợp giữa kiểm thử hộp đen và kiểm thử hộp trắng."
+    },
+    {
+      "id": 50,
+      "question": "Mục tiêu của kiểm thử validation là gì?",
+      "options": [
+        { "text": "Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra", "isCorrect": true },
+        { "text": "Để tìm ra các lỗi của phần mềm", "isCorrect": false },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để tăng tốc độ lập trình", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra."
+    },
+    {
+      "id": 51,
+      "question": "Mục tiêu của kiểm thử defect là gì?",
+      "options": [
+        { "text": "Để tìm ra các tình huống mà phần mềm không hoạt động đúng như mong đợi", "isCorrect": true },
+        { "text": "Để chỉ ra rằng phần mềm thỏa mãn các yêu cầu đưa ra", "isCorrect": false },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để tìm ra các tình huống mà phần mềm không hoạt động đúng như mong đợi."
+    },
+    {
+      "id": 52,
+      "question": "Tại sao cần kiểm tra kết quả của việc kiểm thử?",
+      "options": [
+        { "text": "Để tìm ra lỗi và các bất thường", "isCorrect": true },
+        { "text": "Để lưu trữ dữ liệu người dùng", "isCorrect": false },
+        { "text": "Để phân tích thị trường", "isCorrect": false },
+        { "text": "Để tăng tốc độ phát triển phần mềm", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để tìm ra lỗi và các bất thường."
+    },
+    {
+      "id": 53,
+      "question": "Kiểm thử người dùng tập trung vào điều gì?",
+      "options": [
+        { "text": "Kiểm thử phần mềm bởi người dùng cuối", "isCorrect": true },
+        { "text": "Kiểm thử tính bảo mật", "isCorrect": false },
+        { "text": "Kiểm thử hiệu suất hệ thống", "isCorrect": false },
+        { "text": "Kiểm thử giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Kiểm thử phần mềm bởi người dùng cuối."
+    },
+    {
+      "id": 54,
+      "question": "Cải tiến quy trình phần mềm bao gồm gì?",
+      "options": [
+        { "text": "Cải tiến các phương pháp phát triển và kiểm thử phần mềm", "isCorrect": true },
+        { "text": "Tăng tốc độ lập trình", "isCorrect": false },
+        { "text": "Giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Tập trung vào giao diện người dùng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Cải tiến các phương pháp phát triển và kiểm thử phần mềm."
+    },
+    {
+      "id": 55,
+      "question": "Bảo trì phần mềm bao gồm gì?",
+      "options": [
+        { "text": "Sửa lỗi và nâng cấp phần mềm sau khi phát hành", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Viết tài liệu hướng dẫn", "isCorrect": false },
+        { "text": "Tạo lập báo cáo phân tích", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Sửa lỗi và nâng cấp phần mềm sau khi phát hành."
+    },
+    {
+      "id": 56,
+      "question": "Mục đích của việc kiểm thử bản release là gì?",
+      "options": [
+        { "text": "Để đảm bảo phần mềm hoạt động đúng như mong đợi trước khi phát hành", "isCorrect": true },
+        { "text": "Để giảm chi phí phát triển", "isCorrect": false },
+        { "text": "Để tăng tốc độ lập trình", "isCorrect": false },
+        { "text": "Để làm hài lòng khách hàng", "isCorrect": false }
+      ],
+      "explanation": "Đáp án đúng: Để đảm bảo phần mềm hoạt động đúng như mong đợi trước khi phát hành."
+    }
+  ]
+}
