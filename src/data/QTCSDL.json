@@ -1,0 +1,894 @@
+Dưới đây là toàn bộ dữ liệu từ file Word của bạn đã được chuyển đổi sang định dạng JSON với cấu trúc tương tự file mẫu bạn cung cấp. Bạn có thể sao chép đoạn mã này và dán trực tiếp vào hệ thống của mình:
+
+```json
+{
+  "id": "trac-nghiem-quan-tri-csdl",
+  "title": "BỘ CÂU HỎI TRẮC NGHIỆM QUẢN TRỊ CƠ SỞ DỮ LIỆU",
+  "description": "Tổng hợp từ tài liệu (80 câu)",
+  "icon": "🗄️",
+  "color": "#10b981",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Chức năng nào sau đây KHÔNG thuộc về DBMS?",
+      "options": [
+        { "text": "Lưu trữ dữ liệu, sửa chữa và truy xuất", "isCorrect": false },
+        { "text": "Hỗ trợ các giao dịch và kiểm soát truy cập đồng thời", "isCorrect": false },
+        { "text": "Thiết kế giao diện người dùng đồ họa", "isCorrect": true },
+        { "text": "Đảm bảo sự toàn vẹn và độc lập dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Theo tài liệu, các chức năng của DBMS bao gồm: lưu trữ dữ liệu/sửa chữa/truy xuất; lưu danh sách người dùng được phép truy cập; hỗ trợ các giao dịch; kiểm soát sự truy cập đồng thời; phục hồi khi có sự cố; dịch vụ xác thực người dùng; hỗ trợ giao tiếp dữ liệu; đảm bảo sự toàn vẹn dữ liệu; đảm bảo tính độc lập dữ liệu; và các dịch vụ tiện ích khác. Thiết kế giao diện đồ họa không phải chức năng của DBMS."
+    },
+    {
+      "id": 2,
+      "question": "Đặc điểm 'Tự mô tả' (self-describing) của DBMS có nghĩa là gì?",
+      "options": [
+        { "text": "DBMS có thể tự động viết code cho người lập trình", "isCorrect": false },
+        { "text": "DBMS catalog lưu trữ tất cả các mô tả đặc thù của một CSDL như cấu trúc, kiểu và ràng buộc dữ liệu", "isCorrect": true },
+        { "text": "DBMS có thể tự sao lưu dữ liệu mà không cần người quản trị", "isCorrect": false },
+        { "text": "DBMS tự động tạo báo cáo cho người dùng", "isCorrect": false }
+      ],
+      "explanation": "Tự mô tả (self-describing) – DBMS catalog lưu trữ tất cả các mô tả đặc thù của một CSDL (cấu trúc dữ liệu, kiểu, ràng buộc). Các mô tả này gọi là meta-data. Điều này cho phép DBMS có thể làm việc với nhiều loại ứng dụng CSDL khác nhau."
+    },
+    {
+      "id": 3,
+      "question": "Khái niệm 'program-data independence' trong DBMS liên quan đến đặc điểm nào?",
+      "options": [
+        { "text": "Hỗ trợ nhiều góc nhìn (multiple views)", "isCorrect": false },
+        { "text": "Chia sẻ dữ liệu và xử lý giao dịch đồng thời", "isCorrect": false },
+        { "text": "Cách ly (insulation) chương trình và dữ liệu", "isCorrect": true },
+        { "text": "Trừu tượng hóa dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Cách ly (insulation) chương trình và dữ liệu – Gọi là program-data independence. Cho phép thay đổi cấu trúc dữ liệu và tổ chức lưu trữ mà không phải thay đổi chương trình truy cập CSDL."
+    },
+    {
+      "id": 4,
+      "question": "Mô hình dữ liệu (data model) trong DBMS có mục đích chính là gì?",
+      "options": [
+        { "text": "Tăng tốc độ xử lý giao dịch", "isCorrect": false },
+        { "text": "Che dấu các chi tiết lưu trữ vật lý và chỉ thể hiện góc nhìn ở mức ý niệm cho người dùng", "isCorrect": true },
+        { "text": "Quản lý quyền truy cập của người dùng", "isCorrect": false },
+        { "text": "Sao lưu dữ liệu tự động", "isCorrect": false }
+      ],
+      "explanation": "Mô hình dữ liệu (data model) dùng để che dấu các chi tiết lưu trữ vật lý và chỉ thể hiện cho người dùng góc nhìn ở mức ý niệm. Các chương trình tham chiếu đến cấu trúc của mô hình dữ liệu chứ không phải đến chi tiết lưu trữ của dữ liệu."
+    },
+    {
+      "id": 5,
+      "question": "OLTP là viết tắt của cụm từ nào và dùng để làm gì?",
+      "options": [
+        { "text": "Online Logical Transaction Protocol – giao thức truyền dữ liệu trực tuyến", "isCorrect": false },
+        { "text": "Online Transaction Processing – cho phép nhiều giao dịch đồng thời được thực thi cùng một thời điểm", "isCorrect": true },
+        { "text": "Offline Transaction Processing – xử lý giao dịch ngoại tuyến", "isCorrect": false },
+        { "text": "Optimized Logical Table Processing – tối ưu hóa bảng dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "OLTP (Online Transaction Processing) cho phép nhiều giao dịch (transaction) đồng thời được thực thi cùng một thời điểm. Kiểm soát truy cập đồng thời đảm bảo mỗi giao dịch đều được thực hiện đầy đủ hoặc bị hủy bỏ."
+    },
+    {
+      "id": 6,
+      "question": "Ngôn ngữ DDL (Data Definition Language) dùng để làm gì?",
+      "options": [
+        { "text": "Thao tác đến dữ liệu như truy vấn, thêm, xóa, cập nhật", "isCorrect": false },
+        { "text": "Kiểm soát việc truy cập vào CSDL", "isCorrect": false },
+        { "text": "Xác định sơ đồ CSDL bằng cách đặc tả kiểu dữ liệu, cấu trúc và các ràng buộc dữ liệu", "isCorrect": true },
+        { "text": "Quản lý các giao dịch trong CSDL", "isCorrect": false }
+      ],
+      "explanation": "Ngôn ngữ định nghĩa dữ liệu (Data Definition Language - DDL) – Cho phép xác định sơ đồ CSDL, bằng cách đặc tả kiểu dữ liệu, cấu trúc và các ràng buộc dữ liệu. Kết quả được lưu trong từ điển dữ liệu (data dictionary) của hệ thống → metadata."
+    },
+    {
+      "id": 7,
+      "question": "Kết quả của ngôn ngữ DDL được lưu ở đâu?",
+      "options": [
+        { "text": "Trong transaction log", "isCorrect": false },
+        { "text": "Trong RAM của máy chủ", "isCorrect": false },
+        { "text": "Trong từ điển dữ liệu (data dictionary) → metadata", "isCorrect": true },
+        { "text": "Trong file backup", "isCorrect": false }
+      ],
+      "explanation": "Kết quả của DDL được lưu trong từ điển dữ liệu (data dictionary) của hệ thống → metadata. Từ điển dữ liệu sẽ được cập nhật mỗi khi có sự sửa chữa cấu trúc của các bảng dữ liệu (table)."
+    },
+    {
+      "id": 8,
+      "question": "Ngôn ngữ DML (Data Manipulation Language) bao gồm những thao tác nào?",
+      "options": [
+        { "text": "Chỉ truy vấn (query) dữ liệu", "isCorrect": false },
+        { "text": "Truy vấn (query), thêm (insert), xóa (delete) và cập nhật (update) dữ liệu", "isCorrect": true },
+        { "text": "Định nghĩa bảng và các ràng buộc", "isCorrect": false },
+        { "text": "Cấp quyền và thu hồi quyền truy cập", "isCorrect": false }
+      ],
+      "explanation": "Ngôn ngữ thao tác dữ liệu (DML) – Cho phép người dùng thao tác đến dữ liệu (data) trong CSDL, bao gồm việc truy vấn (query), thêm (insert), xóa (delete) và cập nhật (update) dữ liệu. Có hai kiểu: có thủ tục (Procedural DML) và phi thủ tục (Nonprocedural DML)."
+    },
+    {
+      "id": 9,
+      "question": "Ngôn ngữ DCL (Data Control Language) kiểm soát điều gì?",
+      "options": [
+        { "text": "Cấu trúc bảng và các ràng buộc toàn vẹn", "isCorrect": false },
+        { "text": "Thứ tự thực thi các câu truy vấn", "isCorrect": false },
+        { "text": "Việc truy cập vào CSDL, liên quan đến bảo mật, kiểm soát truy cập đồng thời và kiểm soát phục hồi", "isCorrect": true },
+        { "text": "Phân vùng lưu trữ dữ liệu trên đĩa", "isCorrect": false }
+      ],
+      "explanation": "Ngôn ngữ kiểm soát dữ liệu (DCL) – Cho phép kiểm soát việc truy cập vào CSDL. Việc kiểm soát có thể liên quan đến: Bảo mật (security), Kiểm soát truy cập đồng thời (concurrency control), Kiểm soát việc phục hồi (recovery control)."
+    },
+    {
+      "id": 10,
+      "question": "'Actors on the Scene' trong hệ thống CSDL là những ai?",
+      "options": [
+        { "text": "Chỉ là những người thiết kế và phát triển phần mềm DBMS", "isCorrect": false },
+        { "text": "Những người thực sự sử dụng/kiểm soát CSDL và những người thiết kế/phát triển/bảo trì ứng dụng CSDL", "isCorrect": true },
+        { "text": "Chỉ là người quản trị cơ sở dữ liệu (DBA)", "isCorrect": false },
+        { "text": "Những người vận hành hệ thống máy tính", "isCorrect": false }
+      ],
+      "explanation": "'Actors on the Scene' là những người thực sự sử dụng và kiểm soát nội dung trong CSDL và những người thiết kế, phát triển và bảo trì ứng dụng CSDL. Ngược lại, 'Workers Behind the Scene' là những người thiết kế và phát triển phần mềm DBMS và những người vận hành hệ thống máy tính."
+    },
+    {
+      "id": 11,
+      "question": "Database Administrator (DBA) có trách nhiệm chính là gì?",
+      "options": [
+        { "text": "Chỉ viết các câu truy vấn SQL cho ứng dụng", "isCorrect": false },
+        { "text": "Cấp quyền truy cập CSDL, giám sát tài nguyên hệ thống, theo dõi hiệu suất, sao lưu và phục hồi", "isCorrect": true },
+        { "text": "Thiết kế giao diện người dùng", "isCorrect": false },
+        { "text": "Chỉ thiết kế mô hình dữ liệu ban đầu", "isCorrect": false }
+      ],
+      "explanation": "DBA – Chịu trách nhiệm cấp quyền truy cập CSDL, phối hợp và giám sát việc họ sử dụng các tài nguyên của hệ thống, theo dõi và hiệu chỉnh để tăng hiệu suất của hệ thống, sao lưu và phục hồi, ..."
+    },
+    {
+      "id": 12,
+      "question": "Database Designer chịu trách nhiệm gì?",
+      "options": [
+        { "text": "Vận hành máy chủ và bảo trì phần cứng", "isCorrect": false },
+        { "text": "Định nghĩa nội dung, cấu trúc, ràng buộc và các chức năng/giao dịch CSDL, đồng thời giao tiếp với người dùng để hiểu nhu cầu", "isCorrect": true },
+        { "text": "Cấp phát quyền truy cập và bảo mật hệ thống", "isCorrect": false },
+        { "text": "Sao lưu và phục hồi dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Database Designers – Chịu trách nhiệm định nghĩa nội dung, cấu trúc, ràng buộc và các chức năng hoặc giao dịch CSDL. Họ phải giao tiếp với người dùng để hiểu rõ nhu cầu của họ."
+    },
+    {
+      "id": 13,
+      "question": "Trong 4 trách nhiệm của DBA, 'Độ sẵn sàng cao (High Availability)' đề cập đến điều gì?",
+      "options": [
+        { "text": "Đảm bảo hiệu năng hệ thống luôn ở mức tối đa", "isCorrect": false },
+        { "text": "Đảm bảo CSDL luôn sẵn sàng phục vụ ngay cả khi có sự cố, sử dụng các giải pháp như Failover Clustering, Transaction Log Shipping, Database Mirroring", "isCorrect": true },
+        { "text": "Đảm bảo dữ liệu không bị mất khi có lỗi phần cứng", "isCorrect": false },
+        { "text": "Đảm bảo tốc độ truy vấn luôn nhanh nhất", "isCorrect": false }
+      ],
+      "explanation": "Độ sẵn sàng cao (High Availability) – Đảm bảo CSDL luôn sẵn sàng phục vụ ngay cả khi có sự cố. SQL Server cung cấp một số giải pháp như Failover Clustering, Transaction Log Shipping, Database Mirroring,... Tùy độ phức tạp của ứng dụng, cơ sở hạ tầng mà chọn giải pháp thích hợp."
+    },
+    {
+      "id": 14,
+      "question": "Trách nhiệm 'Độ tin cậy (Reliability)' của DBA bao gồm việc gì?",
+      "options": [
+        { "text": "Phục hồi dữ liệu sau sự cố với thời gian nhanh nhất", "isCorrect": false },
+        { "text": "Chẩn đoán và bảo trì hệ thống, phát hiện kịp thời các sự cố tiềm ẩn, đảm bảo hiệu năng bằng công cụ như System Monitor, SQL Profiler", "isCorrect": true },
+        { "text": "Đảm bảo người dùng không truy cập trái phép", "isCorrect": false },
+        { "text": "Duy trì tính nhất quán của dữ liệu trong giao dịch", "isCorrect": false }
+      ],
+      "explanation": "Độ tin cậy (Reliability) – DBA phải có kế hoạch để chẩn đoán và bảo trì hệ thống, phát hiện kịp thời các sự cố tiềm ẩn, đảm bảo hiệu năng của hệ thống. Công cụ cho DBA làm việc đó như System Monitor, SQL Profiler, ..."
+    },
+    {
+      "id": 15,
+      "question": "Trong ổ đĩa cứng HDD, 'track' là gì?",
+      "options": [
+        { "text": "Trục quay của đĩa từ", "isCorrect": false },
+        { "text": "Các vòng tròn đồng tâm trên mỗi mặt đĩa", "isCorrect": true },
+        { "text": "Các mảnh nhỏ được chia từ một block", "isCorrect": false },
+        { "text": "Đầu đọc dữ liệu của ổ cứng", "isCorrect": false }
+      ],
+      "explanation": "Mỗi mặt đĩa được chia thành nhiều vòng tròn đồng tâm gọi là tracks. Sau đó, một track được chia thành các mảnh nhỏ hơn gọi là blocks hay sectors."
+    },
+    {
+      "id": 16,
+      "question": "Kích thước block (block size) trong ổ cứng thường là bao nhiêu?",
+      "options": [
+        { "text": "Từ 64 đến 256 bytes", "isCorrect": false },
+        { "text": "Từ 512 đến 4096 bytes", "isCorrect": true },
+        { "text": "Từ 1024 đến 8192 bytes", "isCorrect": false },
+        { "text": "Từ 4096 đến 16384 bytes", "isCorrect": false }
+      ],
+      "explanation": "Kích thước block (block size) cố định với mỗi hệ thống. Kích thước thường từ 512 đến 4096 bytes. Block sẽ được chuyển cả khối từ đĩa sang bộ nhớ để xử lý hoặc ngược lại."
+    },
+    {
+      "id": 17,
+      "question": "Thời gian định vị (seek time) khi đọc/ghi dữ liệu từ đĩa là gì?",
+      "options": [
+        { "text": "Thời gian để đĩa quay và đưa block đến dưới đầu đọc", "isCorrect": false },
+        { "text": "Thời gian để truyền dữ liệu từ đĩa vào bộ nhớ", "isCorrect": false },
+        { "text": "Thời gian cần thiết để đầu đọc di chuyển đến track có chứa block cần đọc/ghi", "isCorrect": true },
+        { "text": "Thời gian để hệ điều hành xử lý yêu cầu I/O", "isCorrect": false }
+      ],
+      "explanation": "Thời gian định vị - s (seek time) – Là thời gian cần thiết để đầu đọc di chuyển đến track có chứa block cần đọc/ghi dữ liệu. Thường từ 10 đến 60 ms."
+    },
+    {
+      "id": 18,
+      "question": "Thời gian trễ quay (Rotational delay/latency) trung bình tốn khoảng bao lâu?",
+      "options": [
+        { "text": "1/4 vòng quay đĩa", "isCorrect": false },
+        { "text": "1/2 vòng quay đĩa", "isCorrect": true },
+        { "text": "1 vòng quay đĩa", "isCorrect": false },
+        { "text": "3/4 vòng quay đĩa", "isCorrect": false }
+      ],
+      "explanation": "Thời gian trễ quay - rd (Rotational delay/latency) – Là thời gian để chờ đĩa quay và đưa block cần đọc/ghi đến dưới đầu đọc. Trung bình tốn khoảng 1/2 vòng quay đĩa."
+    },
+    {
+      "id": 19,
+      "question": "RAID là viết tắt của cụm từ gì và mục đích chính của nó là gì?",
+      "options": [
+        { "text": "Redundant Array of Inexpensive Disks – tăng hiệu suất và sửa chữa lỗi", "isCorrect": true },
+        { "text": "Random Access of Integrated Disks – truy cập ngẫu nhiên dữ liệu nhanh hơn", "isCorrect": false },
+        { "text": "Reliable Array of Independent Disks – đảm bảo tính độc lập của ổ đĩa", "isCorrect": false },
+        { "text": "Rapid Access and Integrity Drives – đảm bảo toàn vẹn dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "RAID – Redundant Array of Inexpensive Disks. RAID là một tập các đĩa gom lại thành 1 đĩa duy nhất dưới góc nhìn của người dùng. RAID được dùng để tăng hiệu suất (performance) và sửa chữa lỗi (fault tolerance) trong quá trình làm việc của ổ cứng."
+    },
+    {
+      "id": 20,
+      "question": "RAID 0 có nhược điểm lớn nhất là gì?",
+      "options": [
+        { "text": "Tốc độ đọc chậm do dữ liệu phải được ghép từ nhiều đĩa", "isCorrect": false },
+        { "text": "Không có tính chịu đựng lỗi (fault tolerance); một đĩa bị hư là toàn bộ dữ liệu bị hư", "isCorrect": true },
+        { "text": "Tốc độ ghi chậm do phải ghi dữ liệu trùng lắp", "isCorrect": false },
+        { "text": "Cần số lượng đĩa chẵn mới hoạt động được", "isCorrect": false }
+      ],
+      "explanation": "RAID 0 – Không chứa dữ liệu trùng lắp, nên không có tính chịu đựng lỗi. Một đĩa bị hư là toàn bộ dữ liệu bị hư. Tuy nhiên, RAID 0 tăng hiệu suất đọc và ghi đĩa do tối đa hóa tính song song."
+    },
+    {
+      "id": 21,
+      "question": "RAID 1 hoạt động theo nguyên lý nào?",
+      "options": [
+        { "text": "Phân tán dữ liệu và thông tin kiểm tra (parity) đều trên 3 đến n đĩa", "isCorrect": false },
+        { "text": "Bao gồm 2 đĩa chứa dữ liệu giống hệt nhau; khi ghi vào một đĩa, hệ thống tự động sao chép sang đĩa còn lại", "isCorrect": true },
+        { "text": "Kết hợp giữa RAID 0 và RAID 5", "isCorrect": false },
+        { "text": "Phân chia dữ liệu sang nhiều đĩa và dùng một đĩa riêng để lưu thông tin kiểm tra", "isCorrect": false }
+      ],
+      "explanation": "RAID 1 – Bao gồm 2 đĩa chứa dữ liệu giống hệt nhau. Khi dữ liệu ghi vào một đĩa, hệ thống sẽ tự động sao chép sang đĩa còn lại, nên tốc độ ghi bị chậm. Tốc độ đọc tăng, do có thể đọc từ 2 đĩa. Tính chịu lỗi cao, khi một đĩa bị hư, dữ liệu vẫn sử dụng được như bình thường."
+    },
+    {
+      "id": 22,
+      "question": "Trong RAID 5, tại sao tốc độ ghi bị chậm?",
+      "options": [
+        { "text": "Vì dữ liệu phải được ghi hai lần lên hai đĩa khác nhau", "isCorrect": false },
+        { "text": "Vì phải tạo thông tin kiểm tra (parity) phân bổ lên các ổ đĩa khi ghi", "isCorrect": true },
+        { "text": "Vì tất cả dữ liệu phải ghi tuần tự lên một đĩa trước rồi mới sang đĩa tiếp theo", "isCorrect": false },
+        { "text": "Vì RAID 5 ưu tiên tốc độ đọc, nên giảm băng thông ghi", "isCorrect": false }
+      ],
+      "explanation": "RAID 5 – Khi ghi do phải tạo thông tin kiểm tra phân bổ lên các ổ đĩa, nên tốc độ ghi bị chậm lại. Tuy nhiên, do dữ liệu trải trên nhiều đĩa, nên tốc độ đọc tăng. Khi một ổ đĩa bị hư, dữ liệu vẫn có thể tái tạo từ các ổ đĩa còn lại."
+    },
+    {
+      "id": 23,
+      "question": "RAID 10 là sự kết hợp của những loại RAID nào và yêu cầu số lượng đĩa như thế nào?",
+      "options": [
+        { "text": "Kết hợp RAID 1 và RAID 5; yêu cầu tối thiểu 6 đĩa, số lẻ", "isCorrect": false },
+        { "text": "Kết hợp RAID 0 và RAID 1; bao gồm 4 đến n đĩa, luôn là số chẵn", "isCorrect": true },
+        { "text": "Kết hợp RAID 0 và RAID 5; yêu cầu ít nhất 3 đĩa", "isCorrect": false },
+        { "text": "Kết hợp RAID 1 và RAID 6; yêu cầu ít nhất 8 đĩa", "isCorrect": false }
+      ],
+      "explanation": "RAID 10 – Đây là cách kết hợp giữa RAID 0 và RAID 1. RAID 10 bao gồm 4 đến n đĩa, tuy nhiên số lượng đĩa luôn luôn là số chẵn. Các bit dữ liệu được trải trên phân nửa số đĩa, và được sao chép y hệt sang phân nửa số đĩa còn lại."
+    },
+    {
+      "id": 24,
+      "question": "Database 'Master' trong SQL Server lưu trữ thông tin gì?",
+      "options": [
+        { "text": "Dữ liệu tạm thời và stored procedures tạm", "isCorrect": false },
+        { "text": "Các thông tin hệ thống như thông tin khởi động, cấu hình SQL Server, login accounts và dữ liệu mô tả các database khác", "isCorrect": true },
+        { "text": "Template cho tất cả các database mới tạo ra", "isCorrect": false },
+        { "text": "Các job và cảnh báo của SQL Server Agent", "isCorrect": false }
+      ],
+      "explanation": "Master – lưu các thông tin hệ thống, như thông tin khởi động, cấu hình SQL Server, login accounts, dữ liệu mô tả các database khác. Cần giữ 1 bản backup gần nhất của master database."
+    },
+    {
+      "id": 25,
+      "question": "Database 'Tempdb' trong SQL Server được sử dụng để làm gì và có đặc điểm gì đặc biệt?",
+      "options": [
+        { "text": "Lưu trữ cấu hình hệ thống; không bao giờ bị xóa khi restart", "isCorrect": false },
+        { "text": "Giữ table tạm và stored procedures tạm; một bản sạch được tạo lại mỗi khi SQL Server khởi động lại", "isCorrect": true },
+        { "text": "Lưu trữ dữ liệu backup; tự động nén dữ liệu", "isCorrect": false },
+        { "text": "Dùng như khuôn mẫu cho các database mới; thay đổi sẽ ảnh hưởng đến tất cả database mới", "isCorrect": false }
+      ],
+      "explanation": "Tempdb – giữ table tạm (temporary tables) và thủ tục lưu trữ tạm (temporary stored procedures). Database này cũng dùng cho các lưu trữ tạm khi SQL Server cần, ví dụ việc sắp xếp dữ liệu. Một bản sạch (clean copy) của tempdb database được tạo lại mỗi khi SQL Server khởi động lại."
+    },
+    {
+      "id": 26,
+      "question": "Database 'Model' trong SQL Server có vai trò gì?",
+      "options": [
+        { "text": "Lưu trữ tất cả thông tin về người dùng và quyền hạn", "isCorrect": false },
+        { "text": "Dùng như một khuôn mẫu (template) cho tất cả các database tạo ra trong hệ thống; nếu sửa trong model thì database mới tạo ra đều có các đặc tính này", "isCorrect": true },
+        { "text": "Chứa các bảng hệ thống về cấu hình SQL Server", "isCorrect": false },
+        { "text": "Lưu trữ dữ liệu sao lưu và phục hồi", "isCorrect": false }
+      ],
+      "explanation": "Model – Dùng như một khuôn mẫu (template) cho tất cả các database tạo ra trong hệ thống. Nếu ta sửa trong model database thì các database mới tạo ra đều có các đặc tính này."
+    },
+    {
+      "id": 27,
+      "question": "Database 'Msdb' trong SQL Server phục vụ mục đích gì?",
+      "options": [
+        { "text": "Lưu trữ dữ liệu người dùng mặc định khi chưa chỉ định database", "isCorrect": false },
+        { "text": "Giữ các table mà SQL Server Agent dùng để định thời cho các job và cảnh báo các tác vụ", "isCorrect": true },
+        { "text": "Lưu trữ thông tin về các phiên bản nâng cấp SQL Server", "isCorrect": false },
+        { "text": "Chứa các stored procedures hệ thống", "isCorrect": false }
+      ],
+      "explanation": "Msdb – Giữ các table mà SQL Server Agent dùng để định thời cho các job (scheduling jobs) và cảnh báo cho các tác vụ."
+    },
+    {
+      "id": 28,
+      "question": "Mỗi database trong SQL Server bắt buộc phải có ít nhất bao nhiêu data file và log file?",
+      "options": [
+        { "text": "2 data files và 2 log files", "isCorrect": false },
+        { "text": "1 data file và 1 log file", "isCorrect": true },
+        { "text": "1 data file và 2 log files", "isCorrect": false },
+        { "text": "Không giới hạn, tùy thuộc vào nhu cầu", "isCorrect": false }
+      ],
+      "explanation": "Mỗi database phải có ít nhất 1 data file và 1 log file. Kích thước tối đa của một data file là 32 terabytes (TB), của một log file là 4 TB."
+    },
+    {
+      "id": 29,
+      "question": "Kích thước tối đa của một data file và một log file trong SQL Server lần lượt là bao nhiêu?",
+      "options": [
+        { "text": "16 TB và 2 TB", "isCorrect": false },
+        { "text": "64 TB và 8 TB", "isCorrect": false },
+        { "text": "32 TB và 4 TB", "isCorrect": true },
+        { "text": "8 TB và 1 TB", "isCorrect": false }
+      ],
+      "explanation": "Kích thước tối đa của một data file là 32 terabytes (TB), của một log file là 4 TB."
+    },
+    {
+      "id": 30,
+      "question": "Mục đích của chế độ 'Automatic File Growth' trong SQL Server là gì và cần lưu ý điều gì?",
+      "options": [
+        { "text": "Tự động nén dữ liệu khi file đầy; không cần cấu hình thêm", "isCorrect": false },
+        { "text": "Cho phép file tự động tăng kích thước khi cần thiết, giảm gánh nặng quản trị; nên dự đoán kích thước tối đa trước để tránh hết đĩa và phân mảnh", "isCorrect": true },
+        { "text": "Tự động sao chép file sang server khác khi đạt ngưỡng", "isCorrect": false },
+        { "text": "Tự động xóa dữ liệu cũ khi file đầy để giải phóng không gian", "isCorrect": false }
+      ],
+      "explanation": "SQL Server cho phép file tự động tăng kích thước (growth increment) khi cần thiết → giảm gánh nặng cho người quản trị. Để tránh tình trạng hết đĩa dẫn đến lỗi, cũng như vấn đề phân mảnh trên đĩa khi tập tin tăng dần kích thước, nên dự đoán kích thước tối đa cho mỗi file trước khi tạo."
+    },
+    {
+      "id": 31,
+      "question": "Collation trong SQL Server là gì và 'CI' có nghĩa gì?",
+      "options": [
+        { "text": "Collation là bộ mã hóa ký tự; CI là Character Indexing (chỉ mục ký tự)", "isCorrect": false },
+        { "text": "Collation là bộ quy tắc xác định cách sắp xếp và so sánh dữ liệu; CI so sánh không phân biệt chữ hoa/thường nên 'ABC' bằng 'abc'", "isCorrect": true },
+        { "text": "Collation là cách SQL Server nén dữ liệu; CI là Compressed Index", "isCorrect": false },
+        { "text": "Collation là cách phân vùng bảng; CI là Column Index", "isCorrect": false }
+      ],
+      "explanation": "Collation là 1 bộ quy tắc xác định cách sắp xếp và so sánh dữ liệu (có phân biệt chữ hoa thường không? chữ có dấu, ...). CI so sánh không phân biệt chữ hoa chữ thường, nên 'ABC' sẽ bằng 'abc'. AS trọng âm nhạy cảm, vì vậy 'á' không bằng 'a'."
+    },
+    {
+      "id": 32,
+      "question": "Có bao nhiêu cấp độ cấu hình collation trong SQL Server và khi muốn thay đổi collation ở cấp Instance phải làm gì?",
+      "options": [
+        { "text": "2 cấp (server và database); cần restart SQL Server", "isCorrect": false },
+        { "text": "4 cấp (instance, database, table, column); cần reinstall SQL Server", "isCorrect": false },
+        { "text": "3 cấp (instance, database, column); phải rebuild lại master database, nên backup master trước", "isCorrect": true },
+        { "text": "3 cấp (server, table, column); chỉ cần chạy lệnh ALTER DATABASE", "isCorrect": false }
+      ],
+      "explanation": "Có 3 cấp độ cấu hình collation trong SQL Server: Instance level, Database level, Column level. Nếu muốn thay đổi collation của 1 SQL Server instance, ta phải rebuild lại master database, nên backup master database trước khi làm việc này."
+    },
+    {
+      "id": 33,
+      "question": "Bảng tạm (temporary table) được lưu trong database nào và có ký hiệu đặt tên như thế nào?",
+      "options": [
+        { "text": "Được lưu trong database master; tên bắt đầu bằng dấu @", "isCorrect": false },
+        { "text": "Được lưu trong database TempDB; tên bắt đầu bằng dấu # (Local) hoặc ## (Global)", "isCorrect": true },
+        { "text": "Được lưu trong database người dùng hiện tại; tên bắt đầu bằng dấu $", "isCorrect": false },
+        { "text": "Được lưu trong database model; tên bắt đầu bằng dấu &", "isCorrect": false }
+      ],
+      "explanation": "Dữ liệu của table tạm sẽ lưu trong database tempdb. Cách tạo tương tự như tạo một table thông thường, chỉ khác là tên table bắt đầu bằng dấu # (Local) hoặc ## (Global). Khi kết thúc quá trình xử lý thì table này sẽ được tự động xóa đi."
+    },
+    {
+      "id": 34,
+      "question": "Tại sao bảng tạm (temporary table) truy xuất nhanh hơn bảng thông thường?",
+      "options": [
+        { "text": "Vì bảng tạm được lưu trong RAM và không bao giờ ghi ra đĩa", "isCorrect": false },
+        { "text": "Do không phải lưu trữ thật trong hệ thống, nên hệ thống không phải kiểm soát từ điển dữ liệu, quyền truy cập,...", "isCorrect": true },
+        { "text": "Vì bảng tạm được nén dữ liệu tự động", "isCorrect": false },
+        { "text": "Vì SQL Server ưu tiên cấp phát CPU cho các truy vấn trên bảng tạm", "isCorrect": false }
+      ],
+      "explanation": "Do không phải lưu trữ thật trong hệ thống, nên hệ thống không phải kiểm soát từ điển dữ liệu (data dictionary), quyền truy cập, ... → truy xuất nhanh."
+    },
+    {
+      "id": 35,
+      "question": "CTE (Common Table Expression) khác bảng tạm ở điểm nào quan trọng nhất?",
+      "options": [
+        { "text": "CTE lưu trữ dữ liệu trong RAM còn bảng tạm lưu trong đĩa", "isCorrect": false },
+        { "text": "CTE không được lưu trữ như một đối tượng và chỉ kéo dài trong suốt thời gian của câu truy vấn", "isCorrect": true },
+        { "text": "CTE không thể được tham chiếu nhiều lần trong một câu truy vấn", "isCorrect": false },
+        { "text": "CTE chỉ hoạt động với câu lệnh SELECT, không hỗ trợ INSERT/UPDATE", "isCorrect": false }
+      ],
+      "explanation": "CTE có thể xem như một bảng chứa dữ liệu tạm thời từ câu lệnh được định nghĩa của nó. CTE không được lưu trữ như một đối tượng và chỉ kéo dài trong suốt thời gian của câu truy vấn. CTE có thể tự tham chiếu tới bản thân của nó và có thể tham chiếu nhiều lần trong một câu truy vấn."
+    },
+    {
+      "id": 36,
+      "question": "Memory-Optimized Tables trong SQL Server lưu trữ dữ liệu ở đâu và dữ liệu được đọc lại từ đĩa trong trường hợp nào?",
+      "options": [
+        { "text": "Lưu trong SSD; dữ liệu được đọc lại khi có truy vấn lớn", "isCorrect": false },
+        { "text": "Lưu trong RAM; dữ liệu chỉ được đọc lại từ ổ cứng trong quá trình recovery như khi restart server", "isCorrect": true },
+        { "text": "Lưu trong bộ nhớ đệm (cache); được đọc lại khi cache bị đầy", "isCorrect": false },
+        { "text": "Lưu trong RAM và SSD song song; không cần đọc lại từ đĩa", "isCorrect": false }
+      ],
+      "explanation": "Với Memory-Optimized tables dữ liệu được lưu trữ trong bộ nhớ RAM. Các record trong table được đọc và ghi vào bộ nhớ, một bản copy dữ liệu của table sẽ được bảo quản trong ổ cứng để an toàn dữ liệu. Dữ liệu trong table chỉ được đọc lại từ ổ cứng trong quá trình recovery, như khi restart server."
+    },
+    {
+      "id": 37,
+      "question": "Nhược điểm của cơ chế 'transaction delayed' trong Memory-Optimized Tables là gì?",
+      "options": [
+        { "text": "Tốc độ ghi chậm hơn bảng thông thường rất nhiều", "isCorrect": false },
+        { "text": "Các transaction đã commit mà không kịp lưu vào đĩa sẽ bị mất nếu server bị down hay treo", "isCorrect": true },
+        { "text": "Không hỗ trợ các câu lệnh UPDATE và DELETE", "isCorrect": false },
+        { "text": "Không thể sử dụng với nhiều người dùng đồng thời", "isCorrect": false }
+      ],
+      "explanation": "Memory-Optimized Tables sao lưu dữ liệu vào ổ cứng bằng cơ chế transaction delayed. Dữ liệu thay đổi sẽ được lưu vào ổ cứng ngay khi giao dịch xử lý hoàn tất. Đổi lại việc tăng đáng kể performance, các transaction đã commit mà không kịp lưu vào đĩa sẽ bị mất nếu server bị down hay treo ngay lúc đó."
+    },
+    {
+      "id": 38,
+      "question": "Table Partitioning (phân mảnh bảng) là kỹ thuật gì và dựa trên những khái niệm nào?",
+      "options": [
+        { "text": "Kỹ thuật sao chép bảng sang nhiều server; dựa trên Replication Factor và Shard Key", "isCorrect": false },
+        { "text": "Kỹ thuật phân chia các dòng dữ liệu trong table thành các mảnh nhỏ (phân mảnh ngang); dựa trên Partition Function và Partition Scheme", "isCorrect": true },
+        { "text": "Kỹ thuật chia bảng theo cột (phân mảnh dọc); dựa trên Column Groups và Storage Groups", "isCorrect": false },
+        { "text": "Kỹ thuật nén dữ liệu trong bảng; dựa trên Compression Level và Block Size", "isCorrect": false }
+      ],
+      "explanation": "Table partitioning là kỹ thuật phân chia các dòng dữ liệu trong table thành các mảnh nhỏ (phân mảnh ngang). Việc phân mảnh dựa trên hai khái niệm: Partition function (định nghĩa các mảnh của table, SQL Server dựa vào hàm này để xác định mỗi mẩu tin sẽ lưu vào mảnh nào) và Partition scheme (ánh xạ các mảnh khai báo trong partition function vào các filegroup)."
+    },
+    {
+      "id": 39,
+      "question": "Ứng dụng nào SAI khi nói về View trong SQL Server?",
+      "options": [
+        { "text": "View giúp che dấu sự phức tạp của câu truy vấn đối với người dùng", "isCorrect": false },
+        { "text": "View giúp che dấu các thông tin nhạy cảm và hỗ trợ phân quyền uyển chuyển hơn", "isCorrect": false },
+        { "text": "View lưu trữ dữ liệu vật lý riêng biệt, hoạt động độc lập với bảng gốc", "isCorrect": true },
+        { "text": "View có thể tạo ra nhiều góc nhìn khác nhau trên cùng một dữ liệu nguồn", "isCorrect": false }
+      ],
+      "explanation": "Các ứng dụng của View: Che dấu sự phức tạp của câu truy vấn; Che dấu các thông tin nhạy cảm; Đổi tên cột; Tạo câu truy vấn trung gian; Tạo nhiều góc nhìn khác nhau; Giúp phân quyền uyển chuyển hơn. View không lưu trữ dữ liệu vật lý riêng biệt – đây là khái niệm sai."
+    },
+    {
+      "id": 40,
+      "question": "Mệnh đề WITH CHECK OPTION trong View có tác dụng gì?",
+      "options": [
+        { "text": "Cho phép kiểm tra và tối ưu hóa hiệu suất của View", "isCorrect": false },
+        { "text": "Ngăn chặn việc thêm/sửa dữ liệu qua View nếu dữ liệu đó nằm ngoài tầm vực của mệnh đề WHERE định nghĩa View, tránh tình trạng dữ liệu 'ẩn'", "isCorrect": true },
+        { "text": "Tự động kiểm tra tính toàn vẹn của bảng gốc khi View được truy vấn", "isCorrect": false },
+        { "text": "Giới hạn số lượng người dùng có thể truy cập View cùng lúc", "isCorrect": false }
+      ],
+      "explanation": "Khi không có WITH CHECK OPTION, lệnh INSERT vào View với dữ liệu nằm ngoài tầm vực WHERE vẫn thực hiện thành công nhưng dữ liệu đó lại không hiển thị qua View. Nếu có mệnh đề WITH CHECK OPTION, khi thực hiện INSERT với dữ liệu nằm ngoài tầm View, ta sẽ nhận được thông báo lỗi, do mẫu tin này nằm ngoài tầm của view."
+    },
+    {
+      "id": 41,
+      "question": "Index (chỉ mục) trong database thường được cài đặt theo cấu trúc dữ liệu nào?",
+      "options": [
+        { "text": "Hash Table", "isCorrect": false },
+        { "text": "Linked List", "isCorrect": false },
+        { "text": "B-Tree", "isCorrect": true },
+        { "text": "Binary Search Tree", "isCorrect": false }
+      ],
+      "explanation": "Index là một đối tượng trong database. Đây là một file với các index entries có dạng <field value, pointer to record> trong đó cột field value được sắp xếp. Index được gọi là đường truy cập trên field. Thường cài đặt theo cấu trúc của B-Tree."
+    },
+    {
+      "id": 42,
+      "question": "Dense index khác Sparse index như thế nào?",
+      "options": [
+        { "text": "Dense index chỉ lưu giá trị khóa chính; Sparse index lưu tất cả các trường", "isCorrect": false },
+        { "text": "Dense index có index entry cho mỗi giá trị tìm kiếm (tất cả mẩu tin); Sparse (nondense) index chỉ có entries cho một số giá trị tìm kiếm", "isCorrect": true },
+        { "text": "Dense index cần ít bộ nhớ hơn; Sparse index cần nhiều bộ nhớ hơn", "isCorrect": false },
+        { "text": "Dense index không thể trỏ đến nhiều record; Sparse index trỏ được đến nhiều record cùng lúc", "isCorrect": false }
+      ],
+      "explanation": "Dense index có index entry cho mỗi giá trị tìm kiếm (tức tất cả mẩu tin) trong data file. Sparse (nondense) index, chỉ có index entries cho một số giá trị tìm kiếm."
+    },
+    {
+      "id": 43,
+      "question": "Primary Index được xây dựng trên loại field nào và có đặc điểm gì?",
+      "options": [
+        { "text": "Xây dựng trên non-key field; là dense index", "isCorrect": false },
+        { "text": "Xây dựng trên key field đã được sắp xếp; có 1 entry cho mỗi block trong data file; là nondense (sparse) index", "isCorrect": true },
+        { "text": "Xây dựng trên bất kỳ field nào; chứa một entry cho mỗi record", "isCorrect": false },
+        { "text": "Xây dựng trên nhiều field kết hợp; là dense index", "isCorrect": false }
+      ],
+      "explanation": "Primary Index – Tạo trên data file có sắp xếp trên key field. Bao gồm 1 index entry cho mỗi block trong data file. Index entry có giá trị key field cho mẩu tin đầu tiên trong block, gọi là block anchor. Primary index là nondense (sparse) index."
+    },
+    {
+      "id": 44,
+      "question": "Clustering Index được xây dựng như thế nào và đặc điểm của nó là gì?",
+      "options": [
+        { "text": "Xây dựng trên key field; chứa một entry cho mỗi record trong data file", "isCorrect": false },
+        { "text": "Xây dựng trên non-key field đã sắp xếp; chứa 1 entry cho mỗi giá trị phân biệt của field; là nondense index", "isCorrect": true },
+        { "text": "Xây dựng trên nhiều field; là dense index, trỏ đến từng record", "isCorrect": false },
+        { "text": "Xây dựng trên field bất kỳ; cần giá trị phân biệt trên field sắp xếp", "isCorrect": false }
+      ],
+      "explanation": "Clustering Index – Data file được sắp xếp trên non-key field nên không yêu cầu giá trị phân biệt trên field sắp xếp trong data file. Chứa 1 index entry cho mỗi giá trị phân biệt của field; index entry trỏ đến data block đầu tiên có mẫu tin chứa giá trị này. Đây là trường hợp nondense index."
+    },
+    {
+      "id": 45,
+      "question": "Secondary Index có đặc điểm gì khác biệt so với Primary Index và Clustering Index?",
+      "options": [
+        { "text": "Secondary Index là nondense index và không thể có nhiều secondary index trên cùng data file", "isCorrect": false },
+        { "text": "Secondary Index là dense index (chứa một entry cho mỗi record) và có thể có nhiều secondary index trên cùng data file", "isCorrect": true },
+        { "text": "Secondary Index chỉ xây dựng trên key field và là sparse index", "isCorrect": false },
+        { "text": "Secondary Index không thể kết hợp với Primary Index trên cùng một bảng", "isCorrect": false }
+      ],
+      "explanation": "Secondary Index – Chứa một entry cho mỗi record trong data file; vì thế đây là dense index. Có thể có nhiều secondary index trên cùng data file. Index là tập tin có thứ tự với 2 fields: Field đầu (indexing field) và Field thứ 2 là block pointer hoặc record pointer."
+    },
+    {
+      "id": 46,
+      "question": "Trong câu lệnh SELECT của SQL, mệnh đề HAVING dùng để lọc điều gì?",
+      "options": [
+        { "text": "Lọc các mẫu tin trước khi nhóm", "isCorrect": false },
+        { "text": "Lọc các điều kiện trên nhóm (sau GROUP BY)", "isCorrect": true },
+        { "text": "Lọc điều kiện trên từng cột", "isCorrect": false },
+        { "text": "Lọc kết quả sắp xếp từ ORDER BY", "isCorrect": false }
+      ],
+      "explanation": "Cú pháp SQL chuẩn: SELECT... FROM... WHERE <điều_kiện_lọc_trên_mẫu_tin> GROUP BY... HAVING <điều_kiện_lọc_trên_nhóm> ORDER BY... Theo đó HAVING dùng để lọc các điều kiện trên nhóm (sau GROUP BY), còn WHERE lọc trên mẫu tin."
+    },
+    {
+      "id": 47,
+      "question": "So sánh Function và Stored Procedure trong SQL Server: điểm khác biệt quan trọng nhất về giá trị trả về và cách gọi là gì?",
+      "options": [
+        { "text": "Function và Procedure đều trả về giá trị; cả hai đều gọi bằng EXEC", "isCorrect": false },
+        { "text": "Function dùng để tính toán và trả về dữ liệu, gọi bằng SELECT; Procedure thực hiện công việc và có thể có hoặc không trả về giá trị, gọi bằng EXEC", "isCorrect": true },
+        { "text": "Function không thể trả về giá trị; Procedure luôn phải trả về giá trị", "isCorrect": false },
+        { "text": "Function gọi bằng EXEC; Procedure gọi bằng SELECT", "isCorrect": false }
+      ],
+      "explanation": "Function – mục đích Tính toán, trả về dữ liệu, gọi bằng SELECT. Procedure – mục đích Thực hiện công việc, có thể có hoặc không trả về giá trị, gọi bằng EXEC."
+    },
+    {
+      "id": 48,
+      "question": "Cursor trong SQL Server được sử dụng với mục đích gì và gọi bằng lệnh nào?",
+      "options": [
+        { "text": "Dùng để tính toán và trả về giá trị; gọi bằng SELECT", "isCorrect": false },
+        { "text": "Dùng để duyệt từng dòng dữ liệu; gọi bằng OPEN/FETCH", "isCorrect": true },
+        { "text": "Dùng để tự động chạy khi có sự kiện; gọi tự động", "isCorrect": false },
+        { "text": "Dùng để thực hiện công việc phức tạp; gọi bằng EXEC", "isCorrect": false }
+      ],
+      "explanation": "Cursor – mục đích Duyệt từng dòng dữ liệu, không trả về giá trị, gọi bằng OPEN/FETCH. Đây là cách tiếp cận để xử lý dữ liệu theo từng dòng một."
+    },
+    {
+      "id": 49,
+      "question": "Trigger trong SQL Server có đặc điểm nào khác biệt so với các đối tượng khác?",
+      "options": [
+        { "text": "Trigger trả về giá trị và được gọi bằng SELECT", "isCorrect": false },
+        { "text": "Trigger tự động chạy khi có sự kiện xảy ra và không trả về giá trị", "isCorrect": true },
+        { "text": "Trigger phải được gọi thủ công bằng lệnh EXEC", "isCorrect": false },
+        { "text": "Trigger chỉ hoạt động với câu lệnh SELECT", "isCorrect": false }
+      ],
+      "explanation": "Trigger – mục đích Tự động chạy khi có sự kiện, không trả về giá trị, chạy Tự động. Trong ví dụ code, trigger TR_KiemTraTuoi được khai báo ON NHANVIEN FOR INSERT, nghĩa là tự động kích hoạt khi có sự kiện INSERT."
+    },
+    {
+      "id": 50,
+      "question": "Trong ví dụ về Function trong tài liệu, lệnh nào được dùng để gọi hàm đã tạo?",
+      "options": [
+        { "text": "EXEC dbo.TenHam('NV001')", "isCorrect": false },
+        { "text": "CALL dbo.TenHam('NV001')", "isCorrect": false },
+        { "text": "SELECT dbo.TenHam('NV001')", "isCorrect": true },
+        { "text": "RUN dbo.TenHam('NV001')", "isCorrect": false }
+      ],
+      "explanation": "Tài liệu cung cấp ví dụ code Function và cách gọi: SELECT dbo.TenHam('NV001'). Điều này nhất quán với bảng so sánh: Function gọi bằng SELECT."
+    },
+    {
+      "id": 51,
+      "question": "Trong Cursor, biến @@FETCH_STATUS = 0 có ý nghĩa gì?",
+      "options": [
+        { "text": "Cursor đã hết dữ liệu, vòng lặp kết thúc", "isCorrect": false },
+        { "text": "FETCH thành công, vẫn còn dữ liệu để đọc tiếp", "isCorrect": true },
+        { "text": "Cursor gặp lỗi trong quá trình đọc", "isCorrect": false },
+        { "text": "Cursor chưa được mở (OPEN)", "isCorrect": false }
+      ],
+      "explanation": "Cấu trúc vòng lặp: WHILE @@FETCH_STATUS = 0 BEGIN ... FETCH NEXT FROM CUR_NHANVIEN ... END. Khi @@FETCH_STATUS = 0 nghĩa là FETCH thành công và vẫn còn dữ liệu để duyệt tiếp."
+    },
+    {
+      "id": 52,
+      "question": "Sau khi sử dụng xong Cursor, cần thực hiện các lệnh nào và theo thứ tự gì?",
+      "options": [
+        { "text": "DELETE rồi REMOVE", "isCorrect": false },
+        { "text": "CLOSE rồi DEALLOCATE", "isCorrect": true },
+        { "text": "END rồi CLOSE", "isCorrect": false },
+        { "text": "STOP rồi DESTROY", "isCorrect": false }
+      ],
+      "explanation": "Kết thúc Cursor: CLOSE CUR_NHANVIEN; DEALLOCATE CUR_NHANVIEN. Cần CLOSE để đóng cursor trước, sau đó DEALLOCATE để giải phóng tài nguyên."
+    },
+    {
+      "id": 53,
+      "question": "Trigger TR_KiemTraTuoi trong ví dụ tài liệu kiểm tra điều gì và xử lý thế nào khi vi phạm?",
+      "options": [
+        { "text": "Kiểm tra mã nhân viên không trùng; nếu trùng thì cập nhật tự động", "isCorrect": false },
+        { "text": "Kiểm tra tuổi nhân viên không dưới 18; nếu vi phạm thì RAISERROR và ROLLBACK TRANSACTION", "isCorrect": true },
+        { "text": "Kiểm tra lương nhân viên hợp lệ; nếu sai thì xóa record", "isCorrect": false },
+        { "text": "Kiểm tra tên nhân viên không rỗng; nếu rỗng thì đặt giá trị mặc định", "isCorrect": false }
+      ],
+      "explanation": "Trigger kiểm tra tuổi: nếu DATEDIFF < 18 thì RAISERROR(N'Nhân viên phải đủ 18 tuổi',16,1) và ROLLBACK TRANSACTION."
+    },
+    {
+      "id": 54,
+      "question": "SQL Server hỗ trợ mấy chế độ xác thực đăng nhập? Kể tên chúng.",
+      "options": [
+        { "text": "1 chế độ: SQL Server Authentication", "isCorrect": false },
+        { "text": "3 chế độ: Windows, SQL Server và Certificate Authentication", "isCorrect": false },
+        { "text": "2 chế độ: Windows Authentication và SQL Server Authentication", "isCorrect": true },
+        { "text": "4 chế độ: Windows, SQL Server, Kerberos và LDAP Authentication", "isCorrect": false }
+      ],
+      "explanation": "Hỗ trợ 2 chế độ: Windows Authentication (dùng tài khoản Windows để đăng nhập) và SQL Server Authentication (quản lý độc lập với tài khoản Windows)."
+    },
+    {
+      "id": 55,
+      "question": "Ưu điểm của Windows Authentication so với SQL Server Authentication là gì?",
+      "options": [
+        { "text": "Bảo mật cao hơn vì mật khẩu được mã hóa mạnh hơn", "isCorrect": false },
+        { "text": "Không cần nhập lại username và password khi đăng nhập vào SQL Server", "isCorrect": true },
+        { "text": "Quản lý độc lập với tài khoản Windows", "isCorrect": false },
+        { "text": "Cho phép truy cập từ nhiều hệ điều hành khác nhau", "isCorrect": false }
+      ],
+      "explanation": "Windows Authentication – Dùng tài khoản của Windows để đăng nhập vào SQL Server. Không cần nhập lại username và password."
+    },
+    {
+      "id": 56,
+      "question": "Database User trong SQL Server là gì?",
+      "options": [
+        { "text": "Người dùng có thể truy cập tất cả database trong hệ thống", "isCorrect": false },
+        { "text": "Mỗi database chỉ cho phép một số login làm việc trên database đó; mỗi login sau khi đăng nhập thành công có thể được cho phép làm việc trên một số database", "isCorrect": true },
+        { "text": "Tài khoản đặc biệt có quyền cao nhất trong SQL Server", "isCorrect": false },
+        { "text": "Người dùng ẩn danh không cần đăng nhập", "isCorrect": false }
+      ],
+      "explanation": "Mỗi database chỉ cho phép một số login làm việc trên database đó → gọi là database user. Mỗi login sau khi đăng nhập thành công, có thể được cho phép làm việc trên một số database."
+    },
+    {
+      "id": 57,
+      "question": "Permission (quyền) trong SQL Server là gì?",
+      "options": [
+        { "text": "Chứng chỉ xác thực người dùng khi đăng nhập", "isCorrect": false },
+        { "text": "Là các quyền cấp cho principal để xác định các hành vi được thực hiện trên các securable", "isCorrect": true },
+        { "text": "Nhóm người dùng có cùng quyền hạn", "isCorrect": false },
+        { "text": "Mật khẩu được mã hóa của người dùng", "isCorrect": false }
+      ],
+      "explanation": "Permission – Là các quyền cấp cho principal để xác định các hành vi được thực hiện trên các securable. Một số quyền trên các đối tượng: CREATE DEFAULT, CREATE FUNCTION, CREATE PROCEDURE, v.v."
+    },
+    {
+      "id": 58,
+      "question": "Role (vai trò) trong SQL Server là gì và có những loại Role nào?",
+      "options": [
+        { "text": "Role là tên hiển thị của người dùng; có 2 loại: user role và system role", "isCorrect": false },
+        { "text": "Role là tập hợp một số quyền được nhóm lại; có Server roles, Database roles, Application Roles; phân thành Fixed roles và User defined roles", "isCorrect": true },
+        { "text": "Role là nhóm database mà người dùng có thể truy cập; có 3 loại: read, write, admin", "isCorrect": false },
+        { "text": "Role là loại kết nối đến SQL Server; có Windows role và SQL role", "isCorrect": false }
+      ],
+      "explanation": "Role (vai trò) có thể hiểu là tập hợp một số quyền được nhóm lại. Các loại Roles: Server roles, Database roles, Application Roles. Fixed roles là các role được tạo sẵn; User defined roles do DBA tự tạo."
+    },
+    {
+      "id": 59,
+      "question": "Cú pháp GRANT trong SQL Server dùng để làm gì và mệnh đề WITH GRANT OPTION có nghĩa gì?",
+      "options": [
+        { "text": "GRANT dùng để thu hồi quyền; WITH GRANT OPTION cho phép thu hồi cascading", "isCorrect": false },
+        { "text": "GRANT dùng để cấp quyền cho principal; WITH GRANT OPTION cho phép principal đó tiếp tục cấp quyền này cho người khác", "isCorrect": true },
+        { "text": "GRANT dùng để tạo role; WITH GRANT OPTION đặt role này là role mặc định", "isCorrect": false },
+        { "text": "GRANT dùng để kiểm tra quyền; WITH GRANT OPTION tự động gia hạn quyền", "isCorrect": false }
+      ],
+      "explanation": "WITH GRANT OPTION cho phép principal được cấp quyền tiếp tục trao quyền đó cho người khác."
+    },
+    {
+      "id": 60,
+      "question": "Lệnh nào được khuyến cáo sử dụng thay cho ALL trong câu lệnh GRANT?",
+      "options": [
+        { "text": "FULL", "isCorrect": false },
+        { "text": "EXECUTE", "isCorrect": false },
+        { "text": "CONTROL", "isCorrect": true },
+        { "text": "ADMIN", "isCorrect": false }
+      ],
+      "explanation": "Khuyến cáo sử dụng CONTROL thay ALL. Điều này có nghĩa khi cần cấp tất cả quyền, nên dùng CONTROL thay vì ALL."
+    },
+    {
+      "id": 61,
+      "question": "Lệnh REVOKE dùng để làm gì và mệnh đề CASCADE có tác dụng gì?",
+      "options": [
+        { "text": "REVOKE dùng để thêm quyền; CASCADE tự động thêm quyền cho tất cả user bên dưới", "isCorrect": false },
+        { "text": "REVOKE dùng để thu hồi quyền đã cấp; CASCADE thu hồi cả quyền mà principal đó đã GRANT lại cho người khác", "isCorrect": true },
+        { "text": "REVOKE dùng để tạm thời vô hiệu hóa quyền; CASCADE áp dụng cho toàn bộ hệ thống", "isCorrect": false },
+        { "text": "REVOKE dùng để xóa người dùng; CASCADE xóa cả dữ liệu của người đó", "isCorrect": false }
+      ],
+      "explanation": "CASCADE thu hồi quyền mà principal đó đã trao lại cho người khác qua WITH GRANT OPTION."
+    },
+    {
+      "id": 62,
+      "question": "Trong bài tập về phân quyền, lệnh nào dùng để gán một user vào một Role?",
+      "options": [
+        { "text": "GRANT ROLE GiaoVien TO Minh", "isCorrect": false },
+        { "text": "ADD MEMBER Minh TO GiaoVien", "isCorrect": false },
+        { "text": "ALTER ROLE GiaoVien ADD MEMBER Minh", "isCorrect": true },
+        { "text": "ASSIGN ROLE GiaoVien FOR Minh", "isCorrect": false }
+      ],
+      "explanation": "Cú pháp chuẩn để thêm một user vào một role: ALTER ROLE GiaoVien ADD MEMBER Minh."
+    },
+    {
+      "id": 63,
+      "question": "ACID là viết tắt của các thuộc tính nào của giao tác?",
+      "options": [
+        { "text": "Availability, Consistency, Integrity, Durability", "isCorrect": false },
+        { "text": "Atomicity, Consistency, Isolation, Durability", "isCorrect": true },
+        { "text": "Atomicity, Concurrency, Integrity, Distribution", "isCorrect": false },
+        { "text": "Availability, Concurrency, Isolation, Distribution", "isCorrect": false }
+      ],
+      "explanation": "Thuộc tính ACID của giao tác: Atomicity (tính nguyên tố), Consistency preservation (tính nhất quán), Isolation (tính cô lập), Durability (tính vững bền)."
+    },
+    {
+      "id": 64,
+      "question": "Tính Atomicity (nguyên tố) của giao tác có nghĩa là gì?",
+      "options": [
+        { "text": "Giao tác phải thực thi trong thời gian ngắn nhất có thể", "isCorrect": false },
+        { "text": "Một giao tác được xem là một đơn thể, các tác vụ hoặc được thực thi toàn bộ hoặc không thực thi tác vụ nào cả", "isCorrect": true },
+        { "text": "Giao tác không được chia nhỏ thành các bước con", "isCorrect": false },
+        { "text": "Giao tác phải được thực thi bởi một người dùng duy nhất", "isCorrect": false }
+      ],
+      "explanation": "Atomicity (tính nguyên tố) – Một giao tác được xem là một đơn thể, tức các tác vụ hoặc được thực thi toàn bộ hoặc không thực thi tác vụ nào cả."
+    },
+    {
+      "id": 65,
+      "question": "Tính Consistency (nhất quán) của giao tác đảm bảo điều gì?",
+      "options": [
+        { "text": "Dữ liệu sau giao tác giống hệt dữ liệu trước giao tác", "isCorrect": false },
+        { "text": "Khi thực thi giao tác, CSDL chuyển từ trạng thái nhất quán này sang trạng thái nhất quán khác, không vi phạm các ràng buộc toàn vẹn", "isCorrect": true },
+        { "text": "Chỉ một giao tác được chạy tại một thời điểm", "isCorrect": false },
+        { "text": "Giao tác phải chạy liên tục không gián đoạn", "isCorrect": false }
+      ],
+      "explanation": "Consistency preservation (tính nhất quán) – Khi thực thi giao tác, CSDL chuyển từ trạng thái nhất quán này sang trạng thái nhất quán khác. Trong khi thực hiện đồng thời nhiều giao tác, CSDL vẫn không vi phạm các ràng buộc toàn vẹn đã cài đặt."
+    },
+    {
+      "id": 66,
+      "question": "Tính Isolation (cô lập) của giao tác đảm bảo điều gì?",
+      "options": [
+        { "text": "Sau khi giao tác commit, dữ liệu được lưu bền vững vào CSDL", "isCorrect": false },
+        { "text": "Giao tác chỉ truy cập dữ liệu từ một bảng duy nhất", "isCorrect": false },
+        { "text": "Các dữ liệu trong transaction không bị tác động bởi các transaction khác đang hoạt động đồng thời", "isCorrect": true },
+        { "text": "Giao tác được thực thi bởi một người dùng duy nhất", "isCorrect": false }
+      ],
+      "explanation": "Isolation (tính cô lập) – Đảm bảo rằng các dữ liệu trong transaction không bị tác động bởi các transaction khác đang hoạt động đồng thời."
+    },
+    {
+      "id": 67,
+      "question": "Tính Durability (vững bền) của giao tác đảm bảo điều gì?",
+      "options": [
+        { "text": "Giao tác có thể chạy trong thời gian dài mà không bị timeout", "isCorrect": false },
+        { "text": "Sau khi giao tác đã commit, dữ liệu thay đổi phải được lưu bền vững vào CSDL, đảm bảo không mất mát do hỏng hóc xảy ra sau đó", "isCorrect": true },
+        { "text": "Dữ liệu được sao lưu tự động sau mỗi giao tác", "isCorrect": false },
+        { "text": "Giao tác không thể bị hủy bỏ sau khi đã bắt đầu", "isCorrect": false }
+      ],
+      "explanation": "Durability (tính vững bền) – Sau khi giao tác đã commit, dữ liệu thay đổi phải được lưu bền vững vào CSDL, đảm bảo không để mất mát do các hỏng hóc xảy ra sau đó."
+    },
+    {
+      "id": 68,
+      "question": "Vấn đề 'Mất cập nhật' (Lost Update Problem) xảy ra như thế nào?",
+      "options": [
+        { "text": "Một giao tác đọc dữ liệu chưa được commit của giao tác khác", "isCorrect": false },
+        { "text": "Hai giao tác truy cập cùng các mục dữ liệu theo cách đan xen, làm cho giá trị không còn đúng; giao tác sau ghi đè lên mục dữ liệu đã được cập nhật bởi giao tác trước", "isCorrect": true },
+        { "text": "Một giao tác đọc cùng một dữ liệu hai lần và nhận được hai kết quả khác nhau", "isCorrect": false },
+        { "text": "Dữ liệu mới được thêm vào trong khi giao tác đang đọc tập dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Lost Update Problem – Xảy ra khi hai giao tác truy cập vào cùng các mục dữ liệu theo cách đan xen và làm cho giá trị của một số mục dữ liệu không còn đúng."
+    },
+    {
+      "id": 69,
+      "question": "'Đọc dữ liệu dơ' (Dirty Read) hay 'Temporary Update Problem' xảy ra trong tình huống nào?",
+      "options": [
+        { "text": "Khi một giao tác không thể đọc dữ liệu do đĩa cứng bị lỗi", "isCorrect": false },
+        { "text": "Khi một giao tác cập nhật một mục dữ liệu rồi bị hỏng, trong khi giao tác khác đã truy cập mục đó trước khi nó được khôi phục", "isCorrect": true },
+        { "text": "Khi dữ liệu bị hỏng do ổ cứng không đủ không gian", "isCorrect": false },
+        { "text": "Khi hai giao tác cùng đọc một bảng nhưng trả về kết quả khác nhau", "isCorrect": false }
+      ],
+      "explanation": "Đọc dữ liệu dơ (The Temporary Update or Dirty Read Problem) – Còn gọi là dữ liệu chưa commit (Uncommit data). Xảy ra khi một giao tác cập nhật một mục dữ liệu và sau đó bị hỏng, trong khi đó, một giao tác khác truy cập vào mục dữ liệu này trước khi nó được khôi phục giá trị gốc."
+    },
+    {
+      "id": 70,
+      "question": "Hiện tượng 'Phantom' (bóng ma) trong tương tranh là gì?",
+      "options": [
+        { "text": "Giao tác đọc một dữ liệu và kết quả khác nhau trong hai lần đọc liên tiếp", "isCorrect": false },
+        { "text": "Giao tác đang thao tác trên một tập dữ liệu nhưng giao tác khác lại chèn thêm (hoặc xóa bớt) các dòng dữ liệu mà giao tác kia đang sử dụng", "isCorrect": true },
+        { "text": "Giao tác bị treo vô thời hạn do deadlock", "isCorrect": false },
+        { "text": "Giao tác ghi dữ liệu vào vị trí sai do lỗi phần cứng", "isCorrect": false }
+      ],
+      "explanation": "Hiện tượng bóng ma (Phantom) – Là tình trạng mà một giao tác đang thao tác trên một tập dữ liệu nhưng giao tác khác lại chèn thêm (hoặc xóa bớt) các dòng dữ liệu mà giao tác kia đang sử dụng."
+    },
+    {
+      "id": 71,
+      "question": "Khóa chia sẻ (Shared lock) trong SQL Server có đặc điểm gì?",
+      "options": [
+        { "text": "Chỉ có một giao tác được phép dùng shared lock tại một thời điểm", "isCorrect": false },
+        { "text": "Các giao tác có thể dùng shared lock cùng lúc để đọc mục liệu; không thể dùng write lock để ghi trên dữ liệu đang có shared lock", "isCorrect": true },
+        { "text": "Shared lock ngăn chặn tất cả các loại lock khác", "isCorrect": false },
+        { "text": "Shared lock chỉ áp dụng cho các thao tác ghi dữ liệu", "isCorrect": false }
+      ],
+      "explanation": "Khóa chia sẻ (shared/read mode): Shared_lock (X) – Các giao tác có thể dùng share lock cùng lúc để đọc mục liệu X. Không thể dùng write lock để ghi dữ liệu trên X đang có shared lock."
+    },
+    {
+      "id": 72,
+      "question": "Khóa loại trừ (Exclusive/write lock) trong SQL Server có đặc điểm gì?",
+      "options": [
+        { "text": "Nhiều giao tác có thể cùng giữ write lock để đọc dữ liệu đồng thời", "isCorrect": false },
+        { "text": "Chỉ có tối đa một write lock trên dữ liệu tại bất kỳ thời điểm nào; không thể có thêm bất kỳ lock nào khác (kể cả share lock) cùng lúc", "isCorrect": true },
+        { "text": "Write lock cho phép đọc nhưng không cho phép ghi đồng thời", "isCorrect": false },
+        { "text": "Write lock chỉ áp dụng cho các thao tác CREATE TABLE", "isCorrect": false }
+      ],
+      "explanation": "Khóa loại trừ (eXclusive/write mode): write_lock (X) – Chỉ có tối đa một write lock trên dữ liệu X tại bất kỳ thời điểm nào. Không thể có thêm bất kỳ lock nào khác trên X (kể cả share lock) tại cùng thời điểm."
+    },
+    {
+      "id": 73,
+      "question": "Loại backup nào sao chép toàn bộ dữ liệu trong database?",
+      "options": [
+        { "text": "Differential database backup", "isCorrect": false },
+        { "text": "Transaction Log Backup", "isCorrect": false },
+        { "text": "Full (Complete) database backup", "isCorrect": true },
+        { "text": "File or File Group Backup", "isCorrect": false }
+      ],
+      "explanation": "Full (Complete) database backup – Sao chép toàn bộ dữ liệu trong database."
+    },
+    {
+      "id": 74,
+      "question": "Differential database backup khác Full backup ở điểm nào?",
+      "options": [
+        { "text": "Differential backup sao chép toàn bộ dữ liệu giống như Full backup nhưng nhanh hơn", "isCorrect": false },
+        { "text": "Differential backup chỉ sao lưu những gì thay đổi so với lần full backup gần nhất, nên quá trình xử lý nhanh hơn", "isCorrect": true },
+        { "text": "Differential backup chỉ sao lưu transaction log, không sao lưu dữ liệu", "isCorrect": false },
+        { "text": "Differential backup chỉ sao lưu các file đơn lẻ, không sao lưu toàn bộ database", "isCorrect": false }
+      ],
+      "explanation": "Differential database backup – Chỉ sao lưu những gì thay đổi so với lần full backup gần nhất → quá trình xử lý nhanh hơn."
+    },
+    {
+      "id": 75,
+      "question": "Transaction Log Backup lưu những gì?",
+      "options": [
+        { "text": "Chỉ lưu cấu trúc bảng và các ràng buộc", "isCorrect": false },
+        { "text": "Lưu theo thứ tự tất cả các transactions chứa trong transaction log file", "isCorrect": true },
+        { "text": "Chỉ lưu các transactions đã commit, bỏ qua các transactions đã rollback", "isCorrect": false },
+        { "text": "Lưu các thay đổi dữ liệu kể từ lần full backup cuối cùng", "isCorrect": false }
+      ],
+      "explanation": "Transaction Log Backups – Lưu theo thứ tự tất cả các transactions chứa trong transaction log file."
+    },
+    {
+      "id": 76,
+      "question": "Khi restore từ differential backup, cần thực hiện theo thứ tự nào?",
+      "options": [
+        { "text": "Restore bản differential backup trước, sau đó restore bản full backup", "isCorrect": false },
+        { "text": "Chỉ cần restore bản differential backup cuối cùng, không cần full backup", "isCorrect": false },
+        { "text": "Trước hết phải restore bản full backup lần cuối cùng, sau đó mới restore bản differential backup cuối cùng", "isCorrect": true },
+        { "text": "Restore tất cả các bản differential backup từ đầu đến cuối", "isCorrect": false }
+      ],
+      "explanation": "Restore từ tập tin differential backup: trước hết phải restore bản full backup lần cuối cùng, sau đó mới restore bản differential backup cuối cùng."
+    },
+    {
+      "id": 77,
+      "question": "Để phục hồi nguyên trạng CSDL trước khi bị hỏng (sử dụng cả full, differential và transaction log backup), cần thực hiện theo thứ tự nào?",
+      "options": [
+        { "text": "Transaction log → Differential → Full backup", "isCorrect": false },
+        { "text": "Differential → Full → Transaction log backup", "isCorrect": false },
+        { "text": "Full → Differential → lần lượt tất cả các bản Transaction log backup", "isCorrect": true },
+        { "text": "Full → tất cả Transaction log → Differential backup", "isCorrect": false }
+      ],
+      "explanation": "Để phục hồi nguyên trạng CSDL trước khi bị hỏng, sau khi restore bản differential backup cuối cùng (đã restore Full trước đó), ta lần lượt phục hồi tất cả các bản transaction log backup. Vậy thứ tự đúng là: Full → Differential → tất cả các Transaction log backup."
+    },
+    {
+      "id": 78,
+      "question": "Sự khác biệt giữa 'Restore' và 'Recovery' là gì?",
+      "options": [
+        { "text": "Restore và Recovery là hai tên gọi khác nhau cho cùng một thao tác", "isCorrect": false },
+        { "text": "Restore chỉ đơn giản chép lại dữ liệu từ file backup và thực thi lại transaction đã commit, database có thể ở trạng thái chưa nhất quán; Recovery không chỉ phục hồi dữ liệu mà còn đảm bảo database ở trạng thái nhất quán và có thể sử dụng được", "isCorrect": true },
+        { "text": "Restore phục hồi toàn bộ database; Recovery chỉ phục hồi một phần dữ liệu", "isCorrect": false },
+        { "text": "Restore nhanh hơn Recovery; Recovery đòi hỏi nhiều thời gian hơn", "isCorrect": false }
+      ],
+      "explanation": "Restore database từ một file backup, chỉ đơn giản chép lại vào database từ những file backup và thực thi lại những transaction đã được commit. Nhưng database có thể ở trạng thái chưa nhất quán (inconsistent). Recovery: không chỉ phục hồi lại dữ liệu mà còn bảo đảm cho nó ở trạng thái nhất quán (consistent) và có thể sử dụng được."
+    },
+    {
+      "id": 79,
+      "question": "Sau khi thực hiện RECOVERY, điều gì xảy ra với quá trình restore tiếp theo?",
+      "options": [
+        { "text": "Có thể tiếp tục restore các file backup khác bình thường", "isCorrect": false },
+        { "text": "Không thể tiếp tục restore các file khác", "isCorrect": true },
+        { "text": "Phải restart SQL Server trước khi restore tiếp", "isCorrect": false },
+        { "text": "Chỉ có thể restore transaction log backup, không thể restore full backup", "isCorrect": false }
+      ],
+      "explanation": "Recovery: không chỉ phục hồi lại dữ liệu mà còn bảo đảm cho nó ở trạng thái nhất quán (consistent) và có thể sử dụng được. --> Không thể tiếp tục restore các file khác."
+    },
+    {
+      "id": 80,
+      "question": "File or File Group Backup và Differential File or File Group Backup khác nhau như thế nào?",
+      "options": [
+        { "text": "File Backup sao chép toàn bộ database; Differential File Backup chỉ sao chép một bảng", "isCorrect": false },
+        { "text": "File or File Group Backup sao chép một data file đơn hay một file group; Differential File or File Group Backup chỉ lưu những thay đổi trong data file đơn hay một file group (tương tự differential database backup)", "isCorrect": true },
+        { "text": "Cả hai đều giống nhau, chỉ khác tên gọi", "isCorrect": false },
+        { "text": "File Backup chỉ sao chép log files; Differential File Backup sao chép data files", "isCorrect": false }
+      ],
+      "explanation": "File or File Group Backup – Sao chép một data file đơn hay một file group. Differential File or File Group Backups – Tương tự differential database backup nhưng chỉ lưu những thay đổi trong data file đơn hay một file group."
+    }
+  ]
+}
+
+```
