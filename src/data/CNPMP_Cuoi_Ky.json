@@ -482,12 +482,12 @@
       "id": 44,
       "question": "Một loại giao diện trong kiểm thử giao diện là gì?",
       "options": [
-        { "text": "Giao diện có tham số", "isCorrect": true },
-        { "text": "Giao diện người dùng", "isCorrect": false },
+        { "text": "Giao diện có tham số", "isCorrect": false },
+        { "text": "Giao diện người dùng", "isCorrect": true },
         { "text": "Giao diện hệ thống", "isCorrect": false },
         { "text": "Giao diện bảo mật", "isCorrect": false }
       ],
-      "explanation": "Giải thích đáp án: Một loại giao diện trong kiểm thử là giao diện có tham số (parameter interface) – tức là các hàm truyền dữ liệu qua tham số."
+      "explanation": ""
     },
     {
       "id": 45,
